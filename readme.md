@@ -1,15 +1,20 @@
 ## TODOs
+
  ✓✓✓✓   Done!
  ✓✓✓    Almost
  ✓✓      Working!
  ✓       Basic
+ 
 ##Pickers
+
 ~ColorPicker         ✓
 
 ~DatePicker          ✓✓✓
 
 ~PaxPicker           ✓
-##
+
+##~~
+
 ~Mapper              ✓✓✓
 
 ~Sliders             ✓
