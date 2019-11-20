@@ -1,84 +1,61 @@
-## TODOs
+___
+ Status | . | Status | .| Status | .| Status | .  | Status | .  
+ --- | --- | --- | --- | --- | --- | --- | ---  | ---   | ---  
+ *Perfect* | `✓✓✓✓✓` |  *Done* | `✓✓✓✓` | *Almost*  | `✓✓✓`    | *Works* | `✓✓`   |*Basic*   | `✓`  
+___
+ Pickers |  .  
+ --- | ---  
+ *ColorPicker* | `✓`  
+ *DatePicker* | `✓✓✓`  
+ *PaxPicker* | `✓`  
 
- ✓✓✓✓   Done!
- ✓✓✓    Almost
- ✓✓      Working!
- ✓       Basic
+ Others |  .  
+ --- | ---  
+ *Mapper* | `✓✓✓`  
+ *Timers* | `✓✓✓`  
+ *Sliders* | `✓`  
+ *Toaster* | `✓✓✓✓`  
+ *Tooltip* | `✓✓✓✓`  
+   
+#### Todo
+Particle   
+Charts  
+LightBox 
  
-##Pickers
+ 
+#Details 
+#### ColorPicker
+Usage:  
+![](Screenshots/ColorPicker.png "ColorPicker")
 
-~ColorPicker         ✓
+#### DatePicker
+Usage: Directive (hellDatePicker)  
+![](Screenshots/Datepicker_Colors.png "Datepicker Theme")
 
-~DatePicker          ✓✓✓
+#### PaxPicker
+Usage: Directive (hellPaxPicker)  
+![](Screenshots/PaxPicker.png "PaxPicker") 
+___
 
-~PaxPicker           ✓
+#### Mapper
+Usage: Directive (hellMapper)  
+![](Screenshots/RouteMap.png "RouteMap")
 
-##~~
-
-~Mapper              ✓✓✓
-
-~Sliders             ✓
-
-~Timers              ✓✓✓
-
-~Toaster             ✓✓✓✓
-
-~Tooltip             ✓✓✓✓
-
-
-Particle 
-Charts 
-LightBox
-
-
-## ColorPicker
+#### Sliders
 Usage:
+![](Screenshots/RangeSlider.png "RangeSlider")
 
-![](Screenshots/ColorPicker.png)
+#### Tooltip (✓✓✓✓)
+Usage: Directive (hellTooltip)  
+![](Screenshots/Tooltip.png "Tooltip")
 
-## DatePicker
-Usage: Directive (hellDatePicker, )
+#### Timers
+Usage: Directive (hellTimeAgo)  
+Usage: Component (hell-countdown)  
+![](Screenshots/Timer.png "TimeAgo & Countdown") 
 
-![](Screenshots/Datepicker_Colors.png)
-
-## Mapper
-Usage: Directive (hellMapper, )
-
-![](Screenshots/RouteMap.png)
-
-## PaxPicker
-Usage: Directive (hellPaxPicker, )
-
-![](Screenshots/PaxPicker.png) 
-
-## Sliders
-Usage:
-
-![](Screenshots/RangeSlider.png)
-
-## Tooltip
-Usage: Directive (hellTooltip, )
-
-![](Screenshots/Tooltip.png)
-
-## Timers
-Usage: Directive (hellTimeAgo, )
-
-Usage: Component (hell-countdown, )
-
-![](Screenshots/Timer.png) 
-
-## Toaster
-Usage: Service (ToasterService)
-
-Usage: Component (hell-toaster)
-
-![](Screenshots/Based.png) 
-
-`
-` 
-```
+#### Toaster (✓✓✓✓)
+Usage: Service (ToasterService)  
+Usage: Component (hell-toaster)  
+![](Screenshots/Based.png "Based Toaster") 
  
-```
- 
-
