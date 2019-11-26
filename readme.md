@@ -7,23 +7,24 @@ ___
  --- | ---  
  *ColorPicker* | `✓`  
  *DatePicker* | `✓✓✓`  
- *PaxPicker* | `✓`  
+ *PaxPicker* | `✓✓`  
 
  Others |  .  
  --- | ---  
- *Mapper* | `✓✓✓`  
- *Timers* | `✓✓✓`  
  *Sliders* | `✓`  
- *Toaster* | `✓✓✓✓`  
+ *Mapper* | `✓✓✓`  
+ *Timers* | `✓✓✓✓`  
+ *Rating* | `✓✓✓✓`  
+ *Notify* | `✓✓✓✓`  
  *Tooltip* | `✓✓✓✓`  
    
 #### Todo
 Particle   
 Charts  
-LightBox 
+LightBox  
+
+# Details
  
- 
-#Details 
 #### ColorPicker
 Usage:  
 ![](Screenshots/ColorPicker.png "ColorPicker")
@@ -42,20 +43,24 @@ Usage: Directive (hellMapper)
 ![](Screenshots/RouteMap.png "RouteMap")
 
 #### Sliders
-Usage:
+Usage:  
 ![](Screenshots/RangeSlider.png "RangeSlider")
+
+#### Rating (✓✓✓✓)
+Usage: Component (hell-rating)  
+![](Screenshots/Rating.png "Rating")
 
 #### Tooltip (✓✓✓✓)
 Usage: Directive (hellTooltip)  
 ![](Screenshots/Tooltip.png "Tooltip")
 
-#### Timers
+#### Timers (✓✓✓✓)
 Usage: Directive (hellTimeAgo)  
 Usage: Component (hell-countdown)  
 ![](Screenshots/Timer.png "TimeAgo & Countdown") 
 
-#### Toaster (✓✓✓✓)
-Usage: Service (ToasterService)  
-Usage: Component (hell-toaster)  
-![](Screenshots/Based.png "Based Toaster") 
+#### Notify (✓✓✓✓)
+Usage: Service (NotifyService)  
+Usage: Component (hell-notify)  
+![](Screenshots/Notify.png "Notify") 
  
