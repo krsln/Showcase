@@ -1,23 +1,22 @@
+___ 
+ *Perfect* | *Done* | *Almost* | *Works* | *Basic*
+  --- | --- | --- | --- | ---  
+ `✓✓✓✓✓` | `✓✓✓✓` | `✓✓✓` | `✓✓`   | `✓`  
 ___
- Status | . | Status | .| Status | .| Status | .  | Status | .  
- --- | --- | --- | --- | --- | --- | --- | ---  | ---   | ---  
- *Perfect* | `✓✓✓✓✓` |  *Done* | `✓✓✓✓` | *Almost*  | `✓✓✓`    | *Works* | `✓✓`   |*Basic*   | `✓`  
-___
- Pickers |  .  
- --- | ---  
- *ColorPicker* | `✓`  
- *DatePicker* | `✓✓✓`  
- *PaxPicker* | `✓✓`  
+ *[ColorPicker](#colorpicker)* | *[DatePicker](#datepicker)* | *[PaxPicker](#paxpicker)*
+  --- | ---  | ---  
+ `✓`  | `✓✓✓`  | `✓✓✓`  
 
  Others |  .  
  --- | ---  
- *Sliders* | `✓`  
- *Mapper* | `✓✓✓`  
- *Timers* | `✓✓✓✓`  
- *Rating* | `✓✓✓✓`  
- *Notify* | `✓✓✓✓`  
- *Tooltip* | `✓✓✓✓`  
-   
+ *[Sliders](#sliders)* | `✓`  
+ *[Mapper](#mapper)* | `✓✓✓`  
+ *[Timers](#timers)* | `✓✓✓✓`  
+ *[Rating](#rating)* | `✓✓✓✓`  
+ *[Notify](#notify)* | `✓✓✓✓`  
+ *[Tooltip](#tooltip)* | `✓✓✓✓`  
+___
+
 #### Todo
 Particle   
 Charts  
@@ -25,7 +24,7 @@ LightBox
 
 # Details
  
-#### ColorPicker
+#### ColorPicker 
 Usage:  
 ![](Screenshots/ColorPicker.png "ColorPicker")
 
@@ -54,20 +53,24 @@ Usage: Directive (lbMapper)
 Usage:  
 ![](Screenshots/RangeSlider.png "RangeSlider")
 
-#### Rating (✓✓✓✓)
+#### Rating
+(✓✓✓✓)  
 Usage: Component (lb-rating)  
 ![](Screenshots/Rating.png "Rating")
 
-#### Tooltip (✓✓✓✓)
+#### Tooltip
+(✓✓✓✓)  
 Usage: Directive (lbTooltip)  
 ![](Screenshots/Tooltip.png "Tooltip")
 
-#### Timers (✓✓✓✓)
+#### Timers
+(✓✓✓✓)  
 Usage: Directive (lbTimeAgo)  
 Usage: Component (lb-countdown)  
 ![](Screenshots/Timer.png "TimeAgo & Countdown") 
 
-#### Notify (✓✓✓✓)
+#### Notify
+(✓✓✓✓)  
 Needs:  
 `npm install bootstrap @fortawesome/fontawesome-free`  
 inLayout: `<lb-notify></lb-notify>`  
