@@ -69,7 +69,7 @@ Usage: Component (lb-countdown)
 
 #### Notify (✓✓✓✓)
 Needs:  
-`npm install bootstrap @fortawesome/fontawesome-free`
+`npm install bootstrap @fortawesome/fontawesome-free`  
 inLayout: `<lb-notify></lb-notify>`  
 
 Usage: Service (NotifyService)  
