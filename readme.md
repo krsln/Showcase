@@ -1,3 +1,5 @@
+
+[Demo](https://krsln.github.io/NgLootBox)  
 ___ 
  *Perfect* | *Done* | *Almost* | *Works* | *Basic*
   --- | --- | --- | --- | ---  
@@ -21,7 +23,7 @@ ___
 Particle   
 Charts  
 LightBox  
-
+ 
 # Details
  
 #### ColorPicker 
