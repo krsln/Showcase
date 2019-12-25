@@ -64,6 +64,7 @@ Usage: Component (lb-rating)
 (✓✓✓✓)  
 Usage: Directive (lbTooltip)  
 ![](Screenshots/Tooltip.png "Tooltip")
+![](Screenshots/Tooltip-White.png "Tooltip White")
 
 #### Timers
 (✓✓✓✓)  
@@ -81,3 +82,8 @@ Usage: Service (NotifyService)
 Usage: Component (lb-notify)  
 ![](Screenshots/Notify.png "Notify") 
  
+
+#### Piper
+        {{description|lbTruncate:size}}
+        <span [innerHTML]="description|lbSanitize"></span>
+![](Screenshots/Piper.png "Piper") 
