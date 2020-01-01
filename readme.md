@@ -64,7 +64,6 @@ Usage: Component (lb-rating)
 (✓✓✓✓)  
 Usage: Directive (lbTooltip)  
 ![](Screenshots/Tooltip.png "Tooltip")
-![](Screenshots/Tooltip-White.png "Tooltip White")
 
 #### Timers
 (✓✓✓✓)  
