@@ -16,13 +16,14 @@ ___
  *[Timers](#timers)* | `✓✓✓✓`  
  *[Rating](#rating)* | `✓✓✓✓`  
  *[Notify](#notify)* | `✓✓✓✓`  
- *[Tooltip](#tooltip)* | `✓✓✓✓`  
+ *[Timeline](#timeline)* | ``  
 ___
-
 #### Todo
 Particle   
 Charts  
 LightBox  
+Waves effect  
+Text Distortion Effects using Blotter.js  
  
 # Details
  
@@ -82,6 +83,12 @@ Usage: Component (lb-notify)
 ![](Screenshots/Notify.png "Notify") 
  
 
+___ 
+#### Timeline
+Usage: Component (lb-timeline)  
+![](Screenshots/Timeline_Default_2020-01-10.png "Default") 
+
+___ 
 #### Piper
         {{description|lbTruncate:size}}
         <span [innerHTML]="description|lbSanitize"></span>
