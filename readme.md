@@ -16,7 +16,8 @@ ___
  *[Timers](#timers)* | `✓✓✓✓`  
  *[Rating](#rating)* | `✓✓✓✓`  
  *[Notify](#notify)* | `✓✓✓✓`  
- *[Timeline](#timeline)* | ``  
+ *[Timeline](#timeline)* | `✓✓✓✓`  
+ *[Breadcrumb](#breadcrumb)* | `✓✓✓`  
 ___
 #### Todo
 Particle   
@@ -82,9 +83,19 @@ Usage: Service (NotifyService)
 Usage: Component (lb-notify)  
 ![](Screenshots/Notify.png "Notify") 
  
+#### Breadcrumb   
+(✓✓✓)  
+inLayout: 
+```
+<lb-breadcrumb [Home]="Home" [Items]="Items" [Chevron]="'fas fa-angle-right'"></lb-breadcrumb>
+```  
+ 
+Usage: Component (lb-breadcrumb)  
+![](Screenshots/Breadcrumb_2020-01-14.png "Breadcrumb") 
 
 ___ 
 #### Timeline
+(✓✓✓✓)  
 Usage: Component (lb-timeline)  
 ![](Screenshots/Timeline_Default_2020-01-10.png "Default") 
 
