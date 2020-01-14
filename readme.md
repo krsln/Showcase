@@ -16,8 +16,9 @@ ___
  *[Timers](#timers)* | `✓✓✓✓`  
  *[Rating](#rating)* | `✓✓✓✓`  
  *[Notify](#notify)* | `✓✓✓✓`  
+ *[Tooltip](#tooltip)* | `✓✓✓✓`  
  *[Timeline](#timeline)* | `✓✓✓✓`  
- *[Breadcrumb](#breadcrumb)* | `✓✓✓`  
+ *[Breadcrumb](#breadcrumb)* | `✓✓✓` 
 ___
 #### Todo
 Particle   
