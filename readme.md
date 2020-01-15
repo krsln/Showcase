@@ -31,6 +31,7 @@ Charts
 LightBox  
 Waves effect  
 Text Distortion Effects using Blotter.js  
+Animate On Scroll   
 
 # Details
  
