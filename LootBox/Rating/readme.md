@@ -38,12 +38,12 @@ TODO: asset folder doesnt copy on library for now img to css base64
 
 ## Features
 Dynamic Color  
-`[color]="'#28a745'" [color]="'blue'"`  
+`[color]="'#28a745'" [color]="'blue'"`   
 Dynamic Items Count  
-`[max]="8" ` 
-Can select half of item  
+`[max]="8" `  
+Can select half of item   
 `[allowFraction]="true"`   
-Theme (star is default)  
+Theme (star is default)   
 `[theme]="'heart'"`  
 Shows selected count  
 `[showText]="false"`  

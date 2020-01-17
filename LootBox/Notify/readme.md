@@ -1,14 +1,15 @@
 # Notify (✓✓✓✓)
 
 ## Depends 
-Needs: `npm install bootstrap @fortawesome/fontawesome-free`  
+Needs:  
+`npm install bootstrap @fortawesome/fontawesome-free`  
+scss @import "./../../../variables";  
 inLayout: `<lb-notify></lb-notify>`  
-import {AnimOverlay, flyInOut, shrinkOut} from '../../../../Animations/index';
-scss @import "./../../../variables";
+import {AnimOverlay, flyInOut, shrinkOut} from '../../../../Animations/index';  
 
 ```
-alert, toast: "bootstrap": "^4.4.1",  
-all: "@fortawesome/fontawesome-free": "^5.11.2"  
+alert, toast | "bootstrap": "^4.4.1",  
+all | "@fortawesome/fontawesome-free": "^5.11.2"  
 ```
 
 ## Notes  
@@ -47,7 +48,6 @@ ngOnInit() {
     this.notifyService.Warning('My test message', 5000, NotifyPosition.TopRight);
 }
 ```
-
  
 ## Screenshots 
 Notify  

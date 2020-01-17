@@ -43,8 +43,9 @@ Default | Side | Zigzag | Snake | Branch
 ###### Animations  
 shake  | expand
 
-
 ## TODOs
+
+## Screenshots
 Default  
 ![](Screenshots/Timeline_Default_2020-01-10.png "Default")  
 Branch  

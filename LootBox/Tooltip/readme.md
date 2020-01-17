@@ -30,7 +30,7 @@ issue ` btn-group   display: inline-flex;`
 https://stackblitz.com/edit/angular-tooltip-directive  
 
 ###### Themes  
-white | black | silver  
+white | black | silver | red   
 
 ## Screenshots
 ![](Screenshots/Tooltip.png)  
