@@ -103,7 +103,7 @@ Usage: Component (lb-breadcrumb)
 *[top↑](#lootbox)*
 #### Carousel 
 Usage: Component (lb-carousel)  
-![](LootBox/Carousel/Screenshots/.png "Carousel") 
+![](LootBox/Carousel/Screenshots/Carousel_2020-01-17.png "Carousel") 
 
 *[top↑](#lootbox)*
 ___ 
