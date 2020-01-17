@@ -1,4 +1,5 @@
-# DatePicker
+# DatePicker ✓✓✓
+
 ## Depends
 Needs: `npm install --save moment`  
 scss @import "./../../../variables";  
@@ -6,7 +7,8 @@ import {AnimOverlay} from '../../../../Animations/index';
 
 
 ## Usage
-Usage: Directive (lbDatePicker)  
+Directive (lbDatePicker)  
+
 ###### Html
 ```
 <label>

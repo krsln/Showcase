@@ -1,8 +1,9 @@
-# Breadcrumb
+# Breadcrumb ✓✓✓
+
 ## Depends
  
 ## Usage
-lb-breadcrumb
+Component (lb-breadcrumb)
 
 ###### Html
 ```

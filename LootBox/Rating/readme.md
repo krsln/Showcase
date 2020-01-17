@@ -5,7 +5,7 @@ TooltipModule
 scss @import "./../../../variables";  
 
 ## Usage
-Usage: Component (lb-rating)  
+Component (lb-rating)  
 
 ###### Html
 ```

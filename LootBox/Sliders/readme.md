@@ -1,7 +1,9 @@
-# Sliders 
+# Sliders ✓
+
 ## Depends 
 
 ## Usage
+Component (lb-slider)
 
 ###### Html
 ```

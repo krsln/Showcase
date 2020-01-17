@@ -1,16 +1,16 @@
-# Mapper
+# Mapper ✓✓✓
 
 ## Depends
-Needs:  
-`npm install @angular/google-maps`
+Needs: `npm install @angular/google-maps`  
 
 ## Usage
-Usage: Directive (lbMapper)  
+Directive (lbMapper)  
+
+###### Html
 ```
 index.html
 <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY"></script>
 ```
-###### Html
 ```
 Basic 
 <div lbMapper [Options]="mapOption2"></div>

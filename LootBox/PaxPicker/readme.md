@@ -1,12 +1,12 @@
-# PaxPicker
+# PaxPicker ✓✓✓
+
 ## Depends
 **BrowserAnimationsModule** for animations  
 import {fadeInOut} from '../../../../Animations/index';  
-CommonModule  
-ReactiveFormsModule  
+CommonModule, ReactiveFormsModule  
 
 ## Usage
-Usage: Directive (lbPaxPicker)  
+Directive (lbPaxPicker)  
 
 ###### Html
 ```

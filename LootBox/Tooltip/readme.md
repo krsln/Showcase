@@ -4,8 +4,8 @@
 scss @import "./../../../variables";
 
 ## Usage
-Usage: Directive (lbTooltip)  
-Themes : white | black | silver  
+Directive (lbTooltip)  
+
 ###### Html
 ```
 <div>
@@ -29,7 +29,8 @@ issue ` btn-group   display: inline-flex;`
 ## Notes
 https://stackblitz.com/edit/angular-tooltip-directive  
 
-Types
+###### Themes  
+white | black | silver  
 
 ## Screenshots
 ![](Screenshots/Tooltip.png)  

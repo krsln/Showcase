@@ -1,9 +1,11 @@
-# ColorPicker
+# ColorPicker ✓
+
 ## Depends
 
 ## Usage
-lbColorPicker  
-lb-color-picker   
+Directive (lbColorPicker)  
+Component (lb-color-picker) 
+
 ###### Html
 ```
 

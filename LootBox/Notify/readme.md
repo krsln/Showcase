@@ -1,19 +1,15 @@
 # Notify (✓✓✓✓)
 
 ## Depends 
-Needs:  
-`npm install bootstrap @fortawesome/fontawesome-free`
+Needs: `npm install bootstrap @fortawesome/fontawesome-free`  
 inLayout: `<lb-notify></lb-notify>`  
-
 import {AnimOverlay, flyInOut, shrinkOut} from '../../../../Animations/index';
-
+scss @import "./../../../variables";
 
 ```
 alert, toast: "bootstrap": "^4.4.1",  
-all:          "@fortawesome/fontawesome-free": "^5.11.2"  
+all: "@fortawesome/fontawesome-free": "^5.11.2"  
 ```
-
-scss @import "./../../../variables";
 
 ## Notes  
 done! TODO: Positioning   

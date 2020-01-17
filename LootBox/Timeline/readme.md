@@ -1,17 +1,18 @@
-# Timeline 
+# Timeline ✓✓✓✓
+
 ## Depends 
 TooltipModule,
 
 ## Usage
-Usage: Component (lb-timeline)  
+Component (lb-timeline)  
 
 ###### Html
 ```
-    <lb-timeline [Theme]="'Default'" [Model]="Model" [Animation]="'shake'"></lb-timeline>
-    <lb-timeline [Type]="'Side'" [Model]="Model" [Animation]="'padding'"></lb-timeline>
-    <lb-timeline [Type]="'Zigzag'" [Model]="Model"></lb-timeline>
-    <lb-timeline [Type]="'Snake'" [Model]="Model"></lb-timeline>
-    <lb-timeline [Type]="'Branch'" [Model]="Model"></lb-timeline>
+<lb-timeline [Theme]="'Default'" [Model]="Model" [Animation]="'shake'"></lb-timeline>
+<lb-timeline [Theme]="'Side'" [Model]="Model" [Animation]="'expand'"></lb-timeline>
+<lb-timeline [Theme]="'Zigzag'" [Model]="Model"></lb-timeline>
+<lb-timeline [Theme]="'Snake'" [Model]="Model"></lb-timeline>
+<lb-timeline [Theme]="'Branch'" [Model]="Model"></lb-timeline>
 ```
 ###### Ts
 ```

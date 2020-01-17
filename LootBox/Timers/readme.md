@@ -5,8 +5,8 @@
 **Countdown**: none  
 
 ## Usage
-Usage: Directive (lbTimeAgo)  
-Usage: Component (lb-countdown)  
+Directive (lbTimeAgo)  
+Component (lb-countdown)  
 
 ###### Html
 ```
