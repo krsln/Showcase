@@ -21,6 +21,7 @@ ___
  *[Breadcrumb](#breadcrumb)* | `✓✓✓`  
  *[Carousel](#carousel)* | ``  
  *[Notify](#notify)* | `✓✓✓✓`  
+ *[Pagination](#pagination)* | ``  
  *[Sliders](#sliders)* | `✓`  
  *[Spinner](#spinner)* | ``  
  *[Rating](#rating)* | `✓✓✓✓`  
@@ -88,6 +89,12 @@ Usage: Service (NotifyService)
 Usage: Component (lb-notify)  
 ![](LootBox/Notify/Screenshots/Notify.png "Notify") 
  
+*[top↑](#lootbox)* 
+
+#### Pagination
+Usage: Component (lb-pagination)  
+![](LootBox/Pagination/Screenshots/Pagination_2020-01-27.png "Pagination")
+
 *[top↑](#lootbox)* 
 
 #### Sliders
