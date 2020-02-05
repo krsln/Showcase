@@ -1,6 +1,7 @@
 # LootBox
-![version](https://img.shields.io/badge/Version-0.20.116-green.svg)
-[Demos](https://krsln.github.io/NgLootBox)
+![version](https://img.shields.io/badge/Version-2020.02.05-green.svg)
+
+[Demo Showcase](https://krsln.github.io/NgLootBox)
 ___ 
  *Perfect* | *Done* | *Almost* | *Works* | *Basic*
   --- | --- | --- | --- | ---  
@@ -20,6 +21,7 @@ ___
  --- | ---  
  *[Breadcrumb](#breadcrumb)* | `✓✓✓`  
  *[Carousel](#carousel)* | ``  
+ *[Dialog](#dialog)* | ``  
  *[Notify](#notify)* | `✓✓✓✓`  
  *[Pagination](#pagination)* | ``  
  *[Sliders](#sliders)* | `✓`  
@@ -79,6 +81,13 @@ Usage: Component (lb-carousel)
 
 *[top↑](#lootbox)*
 
+#### Dialog 
+Usage: Component (lb-dialog)  
+Usage: Service (DialogService)  
+![](LootBox/Dialog/Screenshots/Dialog_2020-02-05.png)
+
+*[top↑](#lootbox)*
+
 #### Notify
 (✓✓✓✓)  
 Needs:  
@@ -95,7 +104,7 @@ Usage: Component (lb-notify)
 Usage: Component (lb-pagination)  
 ![](LootBox/Pagination/Screenshots/Pagination_2020-01-27.png "Pagination")
 
-*[top↑](#lootbox)* 
+*[top↑](#lootbox)*
 
 #### Sliders
 Usage:  
