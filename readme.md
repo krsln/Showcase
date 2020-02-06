@@ -54,24 +54,24 @@ ___
 ## Details
  
 #### ColorPicker 
-- [readme](LootBox/ColorPicker/readme.md)
-- [usage](LootBox/ColorPicker/usage.md)
+- [readme](loot-box/Libs/ColorPicker/readme.md)
+- [usage](loot-box/Libs/ColorPicker/usage.md)
  
 ![](https://github.com/krsln/NgLootBox/raw/master/LootBox/ColorPicker/Screenshots/ColorPicker.png "ColorPicker")
 
 *[top↑](#lootbox)*
 
 #### DatePicker
-- [readme](LootBox/DatePicker/readme.md)
-- [usage](LootBox/DatePicker/usage.md)
+- [readme](loot-box/Libs/DatePicker/readme.md)
+- [usage](loot-box/Libs/DatePicker/usage.md)
 
 ![](https://github.com/krsln/NgLootBox/raw/master/LootBox/DatePicker/Screenshots/Datepicker_Colors.png "Datepicker Theme")
 
 [top↑](#lootbox)
 
 #### PaxPicker
-- [readme](LootBox/PaxPicker/readme.md)
-- [usage](LootBox/PaxPicker/usage.md)
+- [readme](loot-box/Libs/PaxPicker/readme.md)
+- [usage](loot-box/Libs/PaxPicker/usage.md)
 
 ![](https://github.com/krsln/NgLootBox/raw/master/LootBox/PaxPicker/Screenshots/PaxPicker.png "PaxPicker") 
 
@@ -82,24 +82,24 @@ ___
 
 #### Breadcrumb   
 (✓✓✓)   
-- [readme](LootBox/Breadcrumb/readme.md)
-- [usage](LootBox/Breadcrumb/usage.md)
+- [readme](loot-box/Libs/Breadcrumb/readme.md)
+- [usage](loot-box/Libs/Breadcrumb/usage.md)
 
 ![](https://github.com/krsln/NgLootBox/raw/master/LootBox/Breadcrumb/Screenshots/Breadcrumb_2020-01-14.png "Breadcrumb") 
 
 *[top↑](#lootbox)*
 
 #### Carousel 
-- [readme](LootBox/Carousel/readme.md)
-- [usage](LootBox/Carousel/usage.md)
+- [readme](loot-box/Libs/Carousel/readme.md)
+- [usage](loot-box/Libs/Carousel/usage.md)
 
 ![](https://github.com/krsln/NgLootBox/raw/master/LootBox/Carousel/Screenshots/Carousel_2020-01-17.png)
 
 *[top↑](#lootbox)*
 
 #### Dialog 
-- [readme](LootBox/Dialog/readme.md)
-- [usage](LootBox/Dialog/usage.md)
+- [readme](loot-box/Libs/Dialog/readme.md)
+- [usage](loot-box/Libs/Dialog/usage.md)
 
 ![](https://github.com/krsln/NgLootBox/raw/master/LootBox/Dialog/Screenshots/Dialog_2020-02-05.png)
 
@@ -107,32 +107,32 @@ ___
 
 #### Notify
 (✓✓✓✓)  
-- [readme](LootBox/Notify/readme.md)
-- [usage](LootBox/Notify/usage.md)
+- [readme](loot-box/Libs/Notify/readme.md)
+- [usage](loot-box/Libs/Notify/usage.md)
 
 ![](https://github.com/krsln/NgLootBox/raw/master/LootBox/Notify/Screenshots/Notify.png "Notify") 
  
 *[top↑](#lootbox)* 
 
 #### Pagination
-- [readme](LootBox/Pagination/readme.md)
-- [usage](LootBox/Pagination/usage.md)
+- [readme](loot-box/Libs/Pagination/readme.md)
+- [usage](loot-box/Libs/Pagination/usage.md)
 
 ![](https://github.com/krsln/NgLootBox/raw/master/LootBox/Pagination/Screenshots/Pagination_2020-01-27.png "Pagination")
 
 *[top↑](#lootbox)*
 
 #### Sliders
-- [readme](LootBox/Sliders/readme.md)
-- [usage](LootBox/Sliders/usage.md)
+- [readme](loot-box/Libs/Sliders/readme.md)
+- [usage](loot-box/Libs/Sliders/usage.md)
 
 ![](https://github.com/krsln/NgLootBox/raw/master/LootBox/Sliders/Screenshots/RangeSlider.png "RangeSlider")
 
 *[top↑](#lootbox)*
 
 #### Spinner
-- [readme](LootBox/Spinner/readme.md)
-- [usage](LootBox/Spinner/usage.md)
+- [readme](loot-box/Libs/Spinner/readme.md)
+- [usage](loot-box/Libs/Spinner/usage.md)
 
 ![](https://github.com/krsln/NgLootBox/raw/master/LootBox/Spinner/Screenshots/Spinner_2020-01-23.png "Spinner")
 
@@ -140,8 +140,8 @@ ___
 
 #### Rating
 (✓✓✓✓)  
-- [readme](LootBox/Rating/readme.md)
-- [usage](LootBox/Rating/usage.md)
+- [readme](loot-box/Libs/Rating/readme.md)
+- [usage](loot-box/Libs/Rating/usage.md)
 
 ![](https://github.com/krsln/NgLootBox/raw/master/LootBox/Rating/Screenshots/Rating.png "Rating")
 
@@ -149,8 +149,8 @@ ___
 
 #### Tooltip
 (✓✓✓✓)  
-- [readme](LootBox/Tooltip/readme.md)
-- [usage](LootBox/Tooltip/usage.md)
+- [readme](loot-box/Libs/Tooltip/readme.md)
+- [usage](loot-box/Libs/Tooltip/usage.md)
 
 ![](https://github.com/krsln/NgLootBox/raw/master/LootBox/Tooltip/Screenshots/Tooltip.png "Tooltip")
 
@@ -158,8 +158,8 @@ ___
 
 #### Timeline
 (✓✓✓✓)  
-- [readme](LootBox/Timeline/readme.md)
-- [usage](LootBox/Timeline/usage.md)
+- [readme](loot-box/Libs/Timeline/readme.md)
+- [usage](loot-box/Libs/Timeline/usage.md)
 
 ![](https://github.com/krsln/NgLootBox/raw/master/LootBox/Timeline/Screenshots/Timeline_Default_2020-01-10.png "Default") 
 
@@ -167,8 +167,8 @@ ___
 
 #### Timers
 (✓✓✓✓)  
-- [readme](LootBox/Timers/readme.md)
-- [usage](LootBox/Timers/usage.md)
+- [readme](loot-box/Libs/Timers/readme.md)
+- [usage](loot-box/Libs/Timers/usage.md)
 
 ![](https://github.com/krsln/NgLootBox/raw/master/LootBox/Timers/Screenshots/Timer.png "TimeAgo & Countdown") 
 
@@ -178,21 +178,17 @@ ___
 ***
 
 #### Piper
-        {{description|lbTruncate:size}}
-        <span [innerHTML]="description|lbSanitize"></span>
+- [readme](piper/readme.md)
+- [usage](piper/usage.md)
+
 ![](https://github.com/krsln/NgLootBox/raw/master/Piper/Screenshots/Piper.png "Piper") 
 
 *[top↑](#lootbox)* 
 
 #### Mapper
-Needs:  
-`npm install @angular/google-maps`
-```
-index.html
-<script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY"></script>
-```  
+- [readme](mapper/readme.md)
+- [usage](mapper/usage.md)
 
-Usage: Directive (lbMapper)  
 ![](https://github.com/krsln/NgLootBox/raw/master/Mapper/Screenshots/Mapper_RouteMap.png "RouteMap")
 
 *[top↑](#lootbox)*
