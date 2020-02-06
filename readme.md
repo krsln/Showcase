@@ -54,21 +54,26 @@ ___
 ## Details
  
 #### ColorPicker 
-Usage:  
-![](LootBox/ColorPicker/Screenshots/ColorPicker.png "ColorPicker")
+- [readme](LootBox/ColorPicker/readme.md)
+- [usage](LootBox/ColorPicker/usage.md)
+ 
+![](https://github.com/krsln/NgLootBox/raw/master/LootBox/ColorPicker/Screenshots/ColorPicker.png "ColorPicker")
 
 *[top↑](#lootbox)*
 
 #### DatePicker
-Needs: `npm install --save moment`  
-Usage: Directive (lbDatePicker)  
-![](LootBox/DatePicker/Screenshots/Datepicker_Colors.png "Datepicker Theme")
+- [readme](LootBox/DatePicker/readme.md)
+- [usage](LootBox/DatePicker/usage.md)
+
+![](https://github.com/krsln/NgLootBox/raw/master/LootBox/DatePicker/Screenshots/Datepicker_Colors.png "Datepicker Theme")
 
 [top↑](#lootbox)
 
 #### PaxPicker
-Usage: Directive (lbPaxPicker)  
-![](LootBox/PaxPicker/Screenshots/PaxPicker.png "PaxPicker") 
+- [readme](LootBox/PaxPicker/readme.md)
+- [usage](LootBox/PaxPicker/usage.md)
+
+![](https://github.com/krsln/NgLootBox/raw/master/LootBox/PaxPicker/Screenshots/PaxPicker.png "PaxPicker") 
 
 *[top↑](#lootbox)*
 
@@ -77,81 +82,95 @@ ___
 
 #### Breadcrumb   
 (✓✓✓)   
-Usage: Component (lb-breadcrumb)  
-![](LootBox/Breadcrumb/Screenshots/Breadcrumb_2020-01-14.png "Breadcrumb") 
+- [readme](LootBox/Breadcrumb/readme.md)
+- [usage](LootBox/Breadcrumb/usage.md)
+
+![](https://github.com/krsln/NgLootBox/raw/master/LootBox/Breadcrumb/Screenshots/Breadcrumb_2020-01-14.png "Breadcrumb") 
 
 *[top↑](#lootbox)*
 
 #### Carousel 
-Usage: Component (lb-carousel)  
-![](LootBox/Carousel/Screenshots/Carousel_2020-01-17.png)
+- [readme](LootBox/Carousel/readme.md)
+- [usage](LootBox/Carousel/usage.md)
+
+![](https://github.com/krsln/NgLootBox/raw/master/LootBox/Carousel/Screenshots/Carousel_2020-01-17.png)
 
 *[top↑](#lootbox)*
 
 #### Dialog 
-Usage: Component (lb-dialog)  
-Usage: Service (DialogService)  
-![](LootBox/Dialog/Screenshots/Dialog_2020-02-05.png)
+- [readme](LootBox/Dialog/readme.md)
+- [usage](LootBox/Dialog/usage.md)
+
+![](https://github.com/krsln/NgLootBox/raw/master/LootBox/Dialog/Screenshots/Dialog_2020-02-05.png)
 
 *[top↑](#lootbox)*
 
 #### Notify
 (✓✓✓✓)  
-Needs:  
-`npm install bootstrap @fortawesome/fontawesome-free`  
-inLayout: `<lb-notify></lb-notify>`  
+- [readme](LootBox/Notify/readme.md)
+- [usage](LootBox/Notify/usage.md)
 
-Usage: Service (NotifyService)  
-Usage: Component (lb-notify)  
-![](LootBox/Notify/Screenshots/Notify.png "Notify") 
+![](https://github.com/krsln/NgLootBox/raw/master/LootBox/Notify/Screenshots/Notify.png "Notify") 
  
 *[top↑](#lootbox)* 
 
 #### Pagination
-Usage: Component (lb-pagination)  
-![](LootBox/Pagination/Screenshots/Pagination_2020-01-27.png "Pagination")
+- [readme](LootBox/Pagination/readme.md)
+- [usage](LootBox/Pagination/usage.md)
+
+![](https://github.com/krsln/NgLootBox/raw/master/LootBox/Pagination/Screenshots/Pagination_2020-01-27.png "Pagination")
 
 *[top↑](#lootbox)*
 
 #### Sliders
-Usage:  
-![](LootBox/Sliders/Screenshots/RangeSlider.png "RangeSlider")
+- [readme](LootBox/Sliders/readme.md)
+- [usage](LootBox/Sliders/usage.md)
+
+![](https://github.com/krsln/NgLootBox/raw/master/LootBox/Sliders/Screenshots/RangeSlider.png "RangeSlider")
 
 *[top↑](#lootbox)*
 
 #### Spinner
-Usage: Component (lb-spinner)  
-Usage: Service (SpinnerService)  
-![](LootBox/Spinner/Screenshots/Spinner_2020-01-23.png "Spinner")
+- [readme](LootBox/Spinner/readme.md)
+- [usage](LootBox/Spinner/usage.md)
+
+![](https://github.com/krsln/NgLootBox/raw/master/LootBox/Spinner/Screenshots/Spinner_2020-01-23.png "Spinner")
 
 *[top↑](#lootbox)*
 
 #### Rating
 (✓✓✓✓)  
-Usage: Component (lb-rating)  
-![](LootBox/Rating/Screenshots/Rating.png "Rating")
+- [readme](LootBox/Rating/readme.md)
+- [usage](LootBox/Rating/usage.md)
+
+![](https://github.com/krsln/NgLootBox/raw/master/LootBox/Rating/Screenshots/Rating.png "Rating")
 
 *[top↑](#lootbox)*
 
 #### Tooltip
 (✓✓✓✓)  
-Usage: Directive (lbTooltip)  
-![](LootBox/Tooltip/Screenshots/Tooltip.png "Tooltip")
+- [readme](LootBox/Tooltip/readme.md)
+- [usage](LootBox/Tooltip/usage.md)
+
+![](https://github.com/krsln/NgLootBox/raw/master/LootBox/Tooltip/Screenshots/Tooltip.png "Tooltip")
 
 *[top↑](#lootbox)*
 
 #### Timeline
 (✓✓✓✓)  
-Usage: Component (lb-timeline)  
-![](LootBox/Timeline/Screenshots/Timeline_Default_2020-01-10.png "Default") 
+- [readme](LootBox/Timeline/readme.md)
+- [usage](LootBox/Timeline/usage.md)
+
+![](https://github.com/krsln/NgLootBox/raw/master/LootBox/Timeline/Screenshots/Timeline_Default_2020-01-10.png "Default") 
 
 *[top↑](#lootbox)* 
 
 #### Timers
 (✓✓✓✓)  
-Usage: Directive (lbTimeAgo)  
-Usage: Component (lb-countdown)  
-![](LootBox/Timers/Screenshots/Timer.png "TimeAgo & Countdown") 
+- [readme](LootBox/Timers/readme.md)
+- [usage](LootBox/Timers/usage.md)
+
+![](https://github.com/krsln/NgLootBox/raw/master/LootBox/Timers/Screenshots/Timer.png "TimeAgo & Countdown") 
 
 *[top↑](#lootbox)*
 
@@ -161,7 +180,7 @@ Usage: Component (lb-countdown)
 #### Piper
         {{description|lbTruncate:size}}
         <span [innerHTML]="description|lbSanitize"></span>
-![](Piper/Screenshots/Piper.png "Piper") 
+![](https://github.com/krsln/NgLootBox/raw/master/Piper/Screenshots/Piper.png "Piper") 
 
 *[top↑](#lootbox)* 
 
@@ -174,7 +193,7 @@ index.html
 ```  
 
 Usage: Directive (lbMapper)  
-![](Mapper/Screenshots/Mapper_RouteMap.png "RouteMap")
+![](https://github.com/krsln/NgLootBox/raw/master/Mapper/Screenshots/Mapper_RouteMap.png "RouteMap")
 
 *[top↑](#lootbox)*
  
