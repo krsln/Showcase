@@ -10,11 +10,11 @@ https://mdbootstrap.com/plugins/angular/timeline/#animated
 
 ## Screenshots
 Default  
-![](https://github.com/krsln/NgLootBox/raw/master/LootBox/Timeline/Screenshots/Timeline_Default_2020-01-10.png "Default")  
+![](https://github.com/krsln/NgLootBox/raw/master/loot-box/Libs/Timeline/Screenshots/Timeline_Default_2020-01-10.png "Default")  
 Branch  
-![](https://github.com/krsln/NgLootBox/raw/master/LootBox/Timeline/Screenshots/Timeline_Branch_2020-01-10.png "Branch")  
+![](https://github.com/krsln/NgLootBox/raw/master/loot-box/Libs/Timeline/Screenshots/Timeline_Branch_2020-01-10.png "Branch")  
 Side  
-![](https://github.com/krsln/NgLootBox/raw/master/LootBox/Timeline/Screenshots/Timeline_Side_2020-01-10.png "Side")  
+![](https://github.com/krsln/NgLootBox/raw/master/loot-box/Libs/Timeline/Screenshots/Timeline_Side_2020-01-10.png "Side")  
 Snake  
-![](https://github.com/krsln/NgLootBox/raw/master/LootBox/Timeline/Screenshots/Timeline_Snake_2020-01-10.png "Snake")  
+![](https://github.com/krsln/NgLootBox/raw/master/loot-box/Libs/Timeline/Screenshots/Timeline_Snake_2020-01-10.png "Snake")  
 

@@ -6,4 +6,4 @@
  
 ## Screenshots 
 
-![](https://github.com/krsln/NgLootBox/raw/master/LootBox/Sliders/Screenshots/RangeSlider.png)
+![](https://github.com/krsln/NgLootBox/raw/master/loot-box/Libs/Sliders/Screenshots/RangeSlider.png)

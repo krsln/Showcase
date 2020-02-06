@@ -5,5 +5,5 @@
 ## Notes
  
 ## Screenshots 
-![](https://github.com/krsln/NgLootBox/raw/master/LootBox/Spinner/Screenshots/Spinner_2020-01-23.png "Spinner")
+![](https://github.com/krsln/NgLootBox/raw/master/loot-box/Libs/Spinner/Screenshots/Spinner_2020-01-23.png "Spinner")
 

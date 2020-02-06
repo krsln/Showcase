@@ -11,5 +11,5 @@ https://www.google.com/search?q=color-picker&oq=color-picker&aqs=chrome..69i57j6
  
 
 ## Screenshots
-![](https://github.com/krsln/NgLootBox/raw/master/LootBox/ColorPicker/Screenshots/ColorPicker.png)
+![](https://github.com/krsln/NgLootBox/raw/master/loot-box/Libs/ColorPicker/Screenshots/ColorPicker.png)
 

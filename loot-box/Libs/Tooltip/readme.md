@@ -9,5 +9,5 @@ issue ` btn-group   display: inline-flex;`
 https://stackblitz.com/edit/angular-tooltip-directive  
 
 ## Screenshots
-![](https://github.com/krsln/NgLootBox/raw/master/LootBox/Tooltip/Screenshots/Tooltip.png)  
+![](https://github.com/krsln/NgLootBox/raw/master/loot-box/Libs/Tooltip/Screenshots/Tooltip.png)  
 

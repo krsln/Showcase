@@ -11,5 +11,5 @@ TODO: using whatsApp emoji cuz issue
 TODO: asset folder doesnt copy on library for now img to css base64  
  
 ## Screenshots
-![](https://github.com/krsln/NgLootBox/raw/master/LootBox/Rating/Screenshots/Rating.png)
+![](https://github.com/krsln/NgLootBox/raw/master/loot-box/Libs/Rating/Screenshots/Rating.png)
 

@@ -20,4 +20,4 @@ TODO: locale
 IE & Edge browser svg  dominant-baseline="central" doesnt work >> no support yet
 
 # Screenshots 
-![](https://github.com/krsln/NgLootBox/raw/master/LootBox/Timers/Screenshots/Timer.png) 
+![](https://github.com/krsln/NgLootBox/raw/master/loot-box/Libs/Timers/Screenshots/Timer.png) 

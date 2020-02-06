@@ -24,5 +24,5 @@ footer
  
 
 ## Screenshots
-![](https://github.com/krsln/NgLootBox/raw/master/LootBox/DatePicker/Screenshots/Datepicker_Colors.png)  
-![](https://github.com/krsln/NgLootBox/raw/master/LootBox/DatePicker/Screenshots/Datepicker_dow.png)  
+![](https://github.com/krsln/NgLootBox/raw/master/loot-box/Libs/DatePicker/Screenshots/Datepicker_Colors.png)  
+![](https://github.com/krsln/NgLootBox/raw/master/loot-box/Libs/DatePicker/Screenshots/Datepicker_dow.png)  

@@ -10,4 +10,4 @@ https://mdbootstrap.com/docs/angular/modals/basic/
 ## TODOs
 
 ## Screenshots
-![](https://github.com/krsln/NgLootBox/raw/master/LootBox/Dialog/Screenshots/Dialog_2020-02-05.png)
+![](https://github.com/krsln/NgLootBox/raw/master/loot-box/Libs/Dialog/Screenshots/Dialog_2020-02-05.png)

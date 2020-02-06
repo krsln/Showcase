@@ -11,4 +11,4 @@ https://mdbootstrap.com/docs/angular/navigation/breadcrumb/
 Lazy-Loading routes cause problems
 
 ## Screenshots
-![](https://github.com/krsln/NgLootBox/raw/master/LootBox/Breadcrumb/Screenshots/Breadcrumb_2020-01-14.png "Breadcrumb") 
+![](https://github.com/krsln/NgLootBox/raw/master/loot-box/Libs/Breadcrumb/Screenshots/Breadcrumb_2020-01-14.png "Breadcrumb") 

@@ -57,7 +57,7 @@ ___
 - [readme](loot-box/Libs/ColorPicker/readme.md)
 - [usage](loot-box/Libs/ColorPicker/usage.md)
  
-![](https://github.com/krsln/NgLootBox/raw/master/LootBox/ColorPicker/Screenshots/ColorPicker.png "ColorPicker")
+![](https://github.com/krsln/NgLootBox/raw/master/loot-box/Libs/ColorPicker/Screenshots/ColorPicker.png "ColorPicker")
 
 *[top↑](#lootbox)*
 
@@ -65,7 +65,7 @@ ___
 - [readme](loot-box/Libs/DatePicker/readme.md)
 - [usage](loot-box/Libs/DatePicker/usage.md)
 
-![](https://github.com/krsln/NgLootBox/raw/master/LootBox/DatePicker/Screenshots/Datepicker_Colors.png "Datepicker Theme")
+![](https://github.com/krsln/NgLootBox/raw/master/loot-box/Libs/DatePicker/Screenshots/Datepicker_Colors.png "Datepicker Theme")
 
 [top↑](#lootbox)
 
@@ -73,7 +73,7 @@ ___
 - [readme](loot-box/Libs/PaxPicker/readme.md)
 - [usage](loot-box/Libs/PaxPicker/usage.md)
 
-![](https://github.com/krsln/NgLootBox/raw/master/LootBox/PaxPicker/Screenshots/PaxPicker.png "PaxPicker") 
+![](https://github.com/krsln/NgLootBox/raw/master/loot-box/Libs/PaxPicker/Screenshots/PaxPicker.png "PaxPicker") 
 
 *[top↑](#lootbox)*
 
@@ -85,7 +85,7 @@ ___
 - [readme](loot-box/Libs/Breadcrumb/readme.md)
 - [usage](loot-box/Libs/Breadcrumb/usage.md)
 
-![](https://github.com/krsln/NgLootBox/raw/master/LootBox/Breadcrumb/Screenshots/Breadcrumb_2020-01-14.png "Breadcrumb") 
+![](https://github.com/krsln/NgLootBox/raw/master/loot-box/Libs/Breadcrumb/Screenshots/Breadcrumb_2020-01-14.png "Breadcrumb") 
 
 *[top↑](#lootbox)*
 
@@ -93,7 +93,7 @@ ___
 - [readme](loot-box/Libs/Carousel/readme.md)
 - [usage](loot-box/Libs/Carousel/usage.md)
 
-![](https://github.com/krsln/NgLootBox/raw/master/LootBox/Carousel/Screenshots/Carousel_2020-01-17.png)
+![](https://github.com/krsln/NgLootBox/raw/master/loot-box/Libs/Carousel/Screenshots/Carousel_2020-01-17.png)
 
 *[top↑](#lootbox)*
 
@@ -101,7 +101,7 @@ ___
 - [readme](loot-box/Libs/Dialog/readme.md)
 - [usage](loot-box/Libs/Dialog/usage.md)
 
-![](https://github.com/krsln/NgLootBox/raw/master/LootBox/Dialog/Screenshots/Dialog_2020-02-05.png)
+![](https://github.com/krsln/NgLootBox/raw/master/loot-box/Libs/Dialog/Screenshots/Dialog_2020-02-05.png)
 
 *[top↑](#lootbox)*
 
@@ -110,7 +110,7 @@ ___
 - [readme](loot-box/Libs/Notify/readme.md)
 - [usage](loot-box/Libs/Notify/usage.md)
 
-![](https://github.com/krsln/NgLootBox/raw/master/LootBox/Notify/Screenshots/Notify.png "Notify") 
+![](https://github.com/krsln/NgLootBox/raw/master/loot-box/Libs/Notify/Screenshots/Notify.png "Notify") 
  
 *[top↑](#lootbox)* 
 
@@ -118,7 +118,7 @@ ___
 - [readme](loot-box/Libs/Pagination/readme.md)
 - [usage](loot-box/Libs/Pagination/usage.md)
 
-![](https://github.com/krsln/NgLootBox/raw/master/LootBox/Pagination/Screenshots/Pagination_2020-01-27.png "Pagination")
+![](https://github.com/krsln/NgLootBox/raw/master/loot-box/Libs/Pagination/Screenshots/Pagination_2020-01-27.png "Pagination")
 
 *[top↑](#lootbox)*
 
@@ -126,7 +126,7 @@ ___
 - [readme](loot-box/Libs/Sliders/readme.md)
 - [usage](loot-box/Libs/Sliders/usage.md)
 
-![](https://github.com/krsln/NgLootBox/raw/master/LootBox/Sliders/Screenshots/RangeSlider.png "RangeSlider")
+![](https://github.com/krsln/NgLootBox/raw/master/loot-box/Libs/Sliders/Screenshots/RangeSlider.png "RangeSlider")
 
 *[top↑](#lootbox)*
 
@@ -134,7 +134,7 @@ ___
 - [readme](loot-box/Libs/Spinner/readme.md)
 - [usage](loot-box/Libs/Spinner/usage.md)
 
-![](https://github.com/krsln/NgLootBox/raw/master/LootBox/Spinner/Screenshots/Spinner_2020-01-23.png "Spinner")
+![](https://github.com/krsln/NgLootBox/raw/master/loot-box/Libs/Spinner/Screenshots/Spinner_2020-01-23.png "Spinner")
 
 *[top↑](#lootbox)*
 
@@ -143,7 +143,7 @@ ___
 - [readme](loot-box/Libs/Rating/readme.md)
 - [usage](loot-box/Libs/Rating/usage.md)
 
-![](https://github.com/krsln/NgLootBox/raw/master/LootBox/Rating/Screenshots/Rating.png "Rating")
+![](https://github.com/krsln/NgLootBox/raw/master/loot-box/Libs/Rating/Screenshots/Rating.png "Rating")
 
 *[top↑](#lootbox)*
 
@@ -152,7 +152,7 @@ ___
 - [readme](loot-box/Libs/Tooltip/readme.md)
 - [usage](loot-box/Libs/Tooltip/usage.md)
 
-![](https://github.com/krsln/NgLootBox/raw/master/LootBox/Tooltip/Screenshots/Tooltip.png "Tooltip")
+![](https://github.com/krsln/NgLootBox/raw/master/loot-box/Libs/Tooltip/Screenshots/Tooltip.png "Tooltip")
 
 *[top↑](#lootbox)*
 
@@ -161,7 +161,7 @@ ___
 - [readme](loot-box/Libs/Timeline/readme.md)
 - [usage](loot-box/Libs/Timeline/usage.md)
 
-![](https://github.com/krsln/NgLootBox/raw/master/LootBox/Timeline/Screenshots/Timeline_Default_2020-01-10.png "Default") 
+![](https://github.com/krsln/NgLootBox/raw/master/loot-box/Libs/Timeline/Screenshots/Timeline_Default_2020-01-10.png "Default") 
 
 *[top↑](#lootbox)* 
 
@@ -170,7 +170,7 @@ ___
 - [readme](loot-box/Libs/Timers/readme.md)
 - [usage](loot-box/Libs/Timers/usage.md)
 
-![](https://github.com/krsln/NgLootBox/raw/master/LootBox/Timers/Screenshots/Timer.png "TimeAgo & Countdown") 
+![](https://github.com/krsln/NgLootBox/raw/master/loot-box/Libs/Timers/Screenshots/Timer.png "TimeAgo & Countdown") 
 
 *[top↑](#lootbox)*
 
@@ -181,7 +181,7 @@ ___
 - [readme](piper/readme.md)
 - [usage](piper/usage.md)
 
-![](https://github.com/krsln/NgLootBox/raw/master/Piper/Screenshots/Piper.png "Piper") 
+![](https://github.com/krsln/NgLootBox/raw/master/piper/Screenshots/Piper.png "Piper") 
 
 *[top↑](#lootbox)* 
 
@@ -189,7 +189,7 @@ ___
 - [readme](mapper/readme.md)
 - [usage](mapper/usage.md)
 
-![](https://github.com/krsln/NgLootBox/raw/master/Mapper/Screenshots/Mapper_RouteMap.png "RouteMap")
+![](https://github.com/krsln/NgLootBox/raw/master/mapper/Screenshots/Mapper_RouteMap.png "RouteMap")
 
 *[top↑](#lootbox)*
  
