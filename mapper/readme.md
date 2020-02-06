@@ -9,8 +9,8 @@ https://blog.angularindepth.com/google-maps-is-now-an-angular-component-821ec61d
 
 ## Screenshots
 Basic  
-![](https://github.com/krsln/NgLootBox/raw/master/Mapper/Screenshots/Mapper_Basic.png)
+![](https://github.com/krsln/NgLootBox/raw/master/mapper/Screenshots/Mapper_Basic.png)
 
 RouteMap  
-![](https://github.com/krsln/NgLootBox/raw/master/Mapper/Screenshots/Mapper_RouteMap.png)
+![](https://github.com/krsln/NgLootBox/raw/master/mapper/Screenshots/Mapper_RouteMap.png)
 
