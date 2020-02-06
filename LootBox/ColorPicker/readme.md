@@ -1,19 +1,4 @@
 # ColorPicker ✓
-
-## Depends
-
-## Usage
-Directive (lbColorPicker)  
-Component (lb-color-picker) 
-
-###### Html
-```
-
-```
-###### Ts
-```
-
-```
  
 ## Notes
 https://malcoded.com/posts/angular-color-picker/   

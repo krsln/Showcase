@@ -1,19 +1,4 @@
 # Effects
-
-## Depends
-
-## Usage
-Directive (lbParticleEffect)  
-Directive (lbWavesEffect)  
-
-###### Html
-```
-
-```
-###### Ts
-```
-
-```
  
 ## Notes
 http://fian.my.id/Waves/#start    

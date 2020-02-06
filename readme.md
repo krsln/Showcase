@@ -1,8 +1,15 @@
 # LootBox
 ![version](https://img.shields.io/badge/Version-2020.02.05-green.svg)
 
-[Demo Showcase](https://krsln.github.io/NgLootBox)
-___ 
+## Demo
+- [Showcase](https://krsln.github.io/NgLootBox)
+
+## How to install
+You can install LootBox using NPM:
+``` 
+ npm install ../NgLootBox/Release/qrsln-loot-box-2020.2.5.tgz
+``` 
+## Progress
  *Perfect* | *Done* | *Almost* | *Works* | *Basic*
   --- | --- | --- | --- | ---  
  `✓✓✓✓✓` | `✓✓✓✓` | `✓✓✓` | `✓✓`   | `✓`  
@@ -44,7 +51,7 @@ Waves effect
 Text Distortion Effects using Blotter.js  
 Animate On Scroll    https://michalsnik.github.io/aos/   
 ___
-# Details
+## Details
  
 #### ColorPicker 
 Usage:  
