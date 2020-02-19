@@ -1,5 +1,5 @@
 # LootBox
-![version](https://img.shields.io/badge/Version-2020.02.05-green.svg)
+![version](https://img.shields.io/badge/Version-20.02.12-green.svg)
 
 ## Demo
 - [Showcase](https://krsln.github.io/NgLootBox)
@@ -7,12 +7,12 @@
 ## How to install
 You can install LootBox using NPM:
 ``` 
- npm install ../NgLootBox/Release/qrsln-loot-box-2020.2.5.tgz
+ npm install [PATH]/qrsln-loot-box-2020.2.5.tgz
 ``` 
 ## Progress
  *Perfect* | *Done* | *Almost* | *Works* | *Basic*
   --- | --- | --- | --- | ---  
- `✓✓✓✓✓` | `✓✓✓✓` | `✓✓✓` | `✓✓`   | `✓`  
+ ![version](https://img.shields.io/badge/✓✓✓✓✓-blue.svg) | ![version](https://img.shields.io/badge/✓✓✓✓-blue.svg) | ![version](https://img.shields.io/badge/✓✓✓-blue.svg) | ![version](https://img.shields.io/badge/✓✓-blue.svg) | ![version](https://img.shields.io/badge/✓-blue.svg)
 ___
  Utils | Status  
  --- | ---  
@@ -22,25 +22,25 @@ ___
  Libraries | Status  
  --- | ---  
  *[Piper](#piper)* | ``  
- *[Mapper](#mapper)* | `✓✓✓` 
+ *[Mapper](#mapper)* | ![version](https://img.shields.io/badge/✓✓✓-blue.svg)
 
  LootBox | Status 
  --- | ---  
- *[Breadcrumb](#breadcrumb)* | `✓✓✓`  
+ *[Breadcrumb](#breadcrumb)* | ![version](https://img.shields.io/badge/✓✓✓-blue.svg)  
  *[Carousel](#carousel)* | ``  
  *[Dialog](#dialog)* | ``  
- *[Notify](#notify)* | `✓✓✓✓`  
+ *[Notify](#notify)* | ![version](https://img.shields.io/badge/✓✓✓✓-blue.svg) 
  *[Pagination](#pagination)* | ``  
- *[Sliders](#sliders)* | `✓`  
+ *[Sliders](#sliders)* | ![version](https://img.shields.io/badge/✓-blue.svg) 
  *[Spinner](#spinner)* | ``  
- *[Rating](#rating)* | `✓✓✓✓`  
- *[Tooltip](#tooltip)* | `✓✓✓✓`  
- *[Timeline](#timeline)* | `✓✓✓✓`  
- *[Timers](#timers)* | `✓✓✓✓`  
+ *[Rating](#rating)* | ![version](https://img.shields.io/badge/✓✓✓✓-blue.svg) 
+ *[Tooltip](#tooltip)* | ![version](https://img.shields.io/badge/✓✓✓✓-blue.svg) 
+ *[Timeline](#timeline)* | ![version](https://img.shields.io/badge/✓✓✓✓-blue.svg) 
+ *[Timers](#timers)* | ![version](https://img.shields.io/badge/✓✓✓✓-blue.svg) 
 
 *[ColorPicker](#colorpicker)* | *[DatePicker](#datepicker)* | *[PaxPicker](#paxpicker)*
 --- | ---  | ---  
-`✓`  | `✓✓✓`  | `✓✓✓`  
+![version](https://img.shields.io/badge/✓-blue.svg) | ![version](https://img.shields.io/badge/✓✓✓-blue.svg) | ![version](https://img.shields.io/badge/✓✓✓-blue.svg) 
 
 ___
 #### Todo
@@ -54,24 +54,27 @@ ___
 ## Details
  
 #### ColorPicker 
-- [readme](loot-box/Libs/ColorPicker/readme.md)
-- [usage](loot-box/Libs/ColorPicker/usage.md)
+[Test](https://krsln.github.io/NgLootBox/Home#divColorPicker)
+| [readme](loot-box/Libs/ColorPicker/readme.md)
+| [usage](loot-box/Libs/ColorPicker/usage.md)
  
 ![](https://github.com/krsln/NgLootBox/raw/master/loot-box/Libs/ColorPicker/Screenshots/ColorPicker.png "ColorPicker")
 
 *[top↑](#lootbox)*
 
 #### DatePicker
-- [readme](loot-box/Libs/DatePicker/readme.md)
-- [usage](loot-box/Libs/DatePicker/usage.md)
+[Test](https://krsln.github.io/NgLootBox/Home#divDatePicker)
+| [Readme](loot-box/Libs/DatePicker/readme.md)
+| [Usage](loot-box/Libs/DatePicker/usage.md)
 
 ![](https://github.com/krsln/NgLootBox/raw/master/loot-box/Libs/DatePicker/Screenshots/Datepicker_Colors.png "Datepicker Theme")
 
 [top↑](#lootbox)
 
 #### PaxPicker
-- [readme](loot-box/Libs/PaxPicker/readme.md)
-- [usage](loot-box/Libs/PaxPicker/usage.md)
+[Test](https://krsln.github.io/NgLootBox/Home#divPaxPicker)
+| [readme](loot-box/Libs/PaxPicker/readme.md)
+| [usage](loot-box/Libs/PaxPicker/usage.md)
 
 ![](https://github.com/krsln/NgLootBox/raw/master/loot-box/Libs/PaxPicker/Screenshots/PaxPicker.png "PaxPicker") 
 
@@ -81,95 +84,106 @@ ___
 ___
 
 #### Breadcrumb   
-(✓✓✓)   
-- [readme](loot-box/Libs/Breadcrumb/readme.md)
-- [usage](loot-box/Libs/Breadcrumb/usage.md)
+[Test](https://krsln.github.io/NgLootBox/Home#divBreadcrumb)
+| [readme](loot-box/Libs/Breadcrumb/readme.md)
+| [usage](loot-box/Libs/Breadcrumb/usage.md)
 
+![version](https://img.shields.io/badge/✓✓✓-blue.svg)  
 ![](https://github.com/krsln/NgLootBox/raw/master/loot-box/Libs/Breadcrumb/Screenshots/Breadcrumb_2020-01-14.png "Breadcrumb") 
 
 *[top↑](#lootbox)*
 
 #### Carousel 
-- [readme](loot-box/Libs/Carousel/readme.md)
-- [usage](loot-box/Libs/Carousel/usage.md)
+[Test](https://krsln.github.io/NgLootBox/Carousel)
+| [readme](loot-box/Libs/Carousel/readme.md)
+| [usage](loot-box/Libs/Carousel/usage.md)
 
 ![](https://github.com/krsln/NgLootBox/raw/master/loot-box/Libs/Carousel/Screenshots/Carousel_2020-01-17.png)
 
 *[top↑](#lootbox)*
 
 #### Dialog 
-- [readme](loot-box/Libs/Dialog/readme.md)
-- [usage](loot-box/Libs/Dialog/usage.md)
+[Test](https://krsln.github.io/NgLootBox/Dialog)
+| [readme](loot-box/Libs/Dialog/readme.md)
+| [usage](loot-box/Libs/Dialog/usage.md)
 
 ![](https://github.com/krsln/NgLootBox/raw/master/loot-box/Libs/Dialog/Screenshots/Dialog_2020-02-05.png)
 
 *[top↑](#lootbox)*
 
 #### Notify
-(✓✓✓✓)  
-- [readme](loot-box/Libs/Notify/readme.md)
-- [usage](loot-box/Libs/Notify/usage.md)
+[Test](https://krsln.github.io/NgLootBox/Notify)
+| [readme](loot-box/Libs/Notify/readme.md)
+| [usage](loot-box/Libs/Notify/usage.md)
 
+![version](https://img.shields.io/badge/✓✓✓✓-blue.svg)  
 ![](https://github.com/krsln/NgLootBox/raw/master/loot-box/Libs/Notify/Screenshots/Notify.png "Notify") 
  
 *[top↑](#lootbox)* 
 
 #### Pagination
-- [readme](loot-box/Libs/Pagination/readme.md)
-- [usage](loot-box/Libs/Pagination/usage.md)
+[Test](https://krsln.github.io/NgLootBox/Pagination)
+| [readme](loot-box/Libs/Pagination/readme.md)
+| [usage](loot-box/Libs/Pagination/usage.md)
 
 ![](https://github.com/krsln/NgLootBox/raw/master/loot-box/Libs/Pagination/Screenshots/Pagination_2020-01-27.png "Pagination")
 
 *[top↑](#lootbox)*
 
 #### Sliders
-- [readme](loot-box/Libs/Sliders/readme.md)
-- [usage](loot-box/Libs/Sliders/usage.md)
+[Test](https://krsln.github.io/NgLootBox/Home#divSlider)
+| [readme](loot-box/Libs/Sliders/readme.md)
+| [usage](loot-box/Libs/Sliders/usage.md)
 
 ![](https://github.com/krsln/NgLootBox/raw/master/loot-box/Libs/Sliders/Screenshots/RangeSlider.png "RangeSlider")
 
 *[top↑](#lootbox)*
 
 #### Spinner
-- [readme](loot-box/Libs/Spinner/readme.md)
-- [usage](loot-box/Libs/Spinner/usage.md)
+[Test](https://krsln.github.io/NgLootBox/Home#divSpinner)
+| [readme](loot-box/Libs/Spinner/readme.md)
+| [usage](loot-box/Libs/Spinner/usage.md)
 
 ![](https://github.com/krsln/NgLootBox/raw/master/loot-box/Libs/Spinner/Screenshots/Spinner_2020-01-23.png "Spinner")
 
 *[top↑](#lootbox)*
 
 #### Rating
-(✓✓✓✓)  
-- [readme](loot-box/Libs/Rating/readme.md)
-- [usage](loot-box/Libs/Rating/usage.md)
+[Test](https://krsln.github.io/NgLootBox/Home#divRating)
+| [readme](loot-box/Libs/Rating/readme.md)
+| [usage](loot-box/Libs/Rating/usage.md)
 
+![version](https://img.shields.io/badge/✓✓✓✓-blue.svg)  
 ![](https://github.com/krsln/NgLootBox/raw/master/loot-box/Libs/Rating/Screenshots/Rating.png "Rating")
 
 *[top↑](#lootbox)*
 
 #### Tooltip
-(✓✓✓✓)  
-- [readme](loot-box/Libs/Tooltip/readme.md)
-- [usage](loot-box/Libs/Tooltip/usage.md)
+[Test](https://krsln.github.io/NgLootBox/Home#divTooltip)
+| [readme](loot-box/Libs/Tooltip/readme.md)
+| [usage](loot-box/Libs/Tooltip/usage.md)
 
+![version](https://img.shields.io/badge/✓✓✓✓-blue.svg)  
 ![](https://github.com/krsln/NgLootBox/raw/master/loot-box/Libs/Tooltip/Screenshots/Tooltip.png "Tooltip")
 
 *[top↑](#lootbox)*
 
 #### Timeline
-(✓✓✓✓)  
-- [readme](loot-box/Libs/Timeline/readme.md)
-- [usage](loot-box/Libs/Timeline/usage.md)
+[Test](https://krsln.github.io/NgLootBox/Timeline)
+| [readme](loot-box/Libs/Timeline/readme.md)
+| [usage](loot-box/Libs/Timeline/usage.md)
 
+![version](https://img.shields.io/badge/✓✓✓✓-blue.svg)  
 ![](https://github.com/krsln/NgLootBox/raw/master/loot-box/Libs/Timeline/Screenshots/Timeline_Default_2020-01-10.png "Default") 
 
 *[top↑](#lootbox)* 
 
 #### Timers
-(✓✓✓✓)  
-- [readme](loot-box/Libs/Timers/readme.md)
-- [usage](loot-box/Libs/Timers/usage.md)
+[Test](https://krsln.github.io/NgLootBox/Home#divTimers)
+| [readme](loot-box/Libs/Timers/readme.md)
+| [usage](loot-box/Libs/Timers/usage.md)
 
+![version](https://img.shields.io/badge/✓✓✓✓-blue.svg)  
 ![](https://github.com/krsln/NgLootBox/raw/master/loot-box/Libs/Timers/Screenshots/Timer.png "TimeAgo & Countdown") 
 
 *[top↑](#lootbox)*
@@ -178,16 +192,18 @@ ___
 ***
 
 #### Piper
-- [readme](piper/readme.md)
-- [usage](piper/usage.md)
+[Test](https://krsln.github.io/NgLootBox/Piper)
+| [readme](piper/readme.md)
+| [usage](piper/usage.md)
 
 ![](https://github.com/krsln/NgLootBox/raw/master/piper/Screenshots/Piper.png "Piper") 
 
 *[top↑](#lootbox)* 
 
 #### Mapper
-- [readme](mapper/readme.md)
-- [usage](mapper/usage.md)
+[Test](https://krsln.github.io/NgLootBox/Mapper)
+| [readme](mapper/readme.md)
+| [usage](mapper/usage.md)
 
 ![](https://github.com/krsln/NgLootBox/raw/master/mapper/Screenshots/Mapper_RouteMap.png "RouteMap")
 
@@ -195,6 +211,7 @@ ___
  
 ***
 ***
+[Test](https://krsln.github.io/NgLootBox/Utils)
 
 #### Guid
 Usage:  
