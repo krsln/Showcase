@@ -1,5 +1,5 @@
 # LootBox
-![version](https://img.shields.io/badge/Version-20.02.12-green.svg)
+![version](https://img.shields.io/badge/Version-20.03.22-green.svg)
 
 ## Demo
 - [Showcase](https://krsln.github.io/NgLootBox)
@@ -7,7 +7,7 @@
 ## How to install
 You can install LootBox using NPM:
 ``` 
- npm install [PATH]/qrsln-loot-box-2020.2.5.tgz
+ npm install [PATH]/qrsln-loot-box-20.3.22.tgz
 ``` 
 ## Progress
  *Perfect* | *Done* | *Almost* | *Works* | *Basic*
@@ -193,8 +193,8 @@ ___
 
 #### Piper
 [Test](https://krsln.github.io/NgLootBox/Piper)
-| [readme](piper/readme.md)
-| [usage](piper/usage.md)
+| [readme](piper/src/Lib/Pipes/readme.md)
+| [usage](piper/src/Lib/Pipes/usage.md)
 
 ![](https://github.com/krsln/NgLootBox/raw/master/piper/Screenshots/Piper.png "Piper") 
 
@@ -202,8 +202,8 @@ ___
 
 #### Mapper
 [Test](https://krsln.github.io/NgLootBox/Mapper)
-| [readme](mapper/readme.md)
-| [usage](mapper/usage.md)
+| [readme](mapper/src/Lib/Mapper/readme.md)
+| [usage](mapper/src/Lib/Mapper/usage.md)
 
 ![](https://github.com/krsln/NgLootBox/raw/master/mapper/Screenshots/Mapper_RouteMap.png "RouteMap")
 
@@ -211,6 +211,7 @@ ___
  
 ***
 ***
+## Utils
 [Test](https://krsln.github.io/NgLootBox/Utils)
 
 #### Guid
