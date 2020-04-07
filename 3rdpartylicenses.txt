@@ -110,6 +110,8 @@ to represent the company, product, or service to which they refer.**
 
 @qrsln/piper
 
+@qrsln/tooltip
+
 bootstrap
 MIT
 The MIT License (MIT)
