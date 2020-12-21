@@ -1,4 +1,4 @@
-> [Main](../readme.md) / [Usage](usage.md) ~ **Readme**
+> [Main](../../readme.md) / [Usage](usage.md) ~ **Readme**
 
 # Tooltip (✓✓✓✓)
  

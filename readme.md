@@ -194,7 +194,7 @@ ___
 | [readme](view360/src/readme.md)
 | [usage](view360/src/usage.md)
 
-![](https://github.com/krsln/NgLootBox/raw/master/view360/Screenshots/View360_Video.png "View360 Video")
+![](https://github.com/krsln/NgLootBox/blob/master/video360/Screenshots/View360_Video.png?raw=true "View360 Video")
 
 *[top↑](#lootbox)*
 

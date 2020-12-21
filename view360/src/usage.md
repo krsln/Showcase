@@ -1,4 +1,4 @@
-> [Main](../../../readme.md) / [Readme](readme.md) ~ **Usage**
+> [Main](../../readme.md) / [Readme](readme.md) ~ **Usage**
 
 ## Effects
 Component ()  
