@@ -23,16 +23,10 @@ You can install LootBox using NPM:
 *Perfect* | *Done* | *Almost* | *Works* | *Basic*
   --- | --- | --- | --- | ---  
 ![version](https://img.shields.io/badge/✓✓✓✓✓-blue.svg) | ![version](https://img.shields.io/badge/✓✓✓✓-blue.svg) | ![version](https://img.shields.io/badge/✓✓✓-blue.svg) | ![version](https://img.shields.io/badge/✓✓-blue.svg) | ![version](https://img.shields.io/badge/✓-blue.svg)
-
-___
-
-Utils | Status
- --- | ---  
-*[Guid](#guid)* | ``
-*[WebStorage](#webstorage)* | ``
-
+___ 
 Libraries | Status
  --- | ---  
+*[Highlighter](#highlighter)* | ``
 *[Piper](#piper)* | ``
 *[Mapper](#mapper)* | ![version](https://img.shields.io/badge/✓✓✓-blue.svg)
 *[Timeline](#timeline)* | ![version](https://img.shields.io/badge/✓✓✓✓-blue.svg)
