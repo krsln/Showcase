@@ -1,15 +1,17 @@
-> [Main](../../../readme.md) / [Usage](usage.md) ~ **Readme**
+### Readme
 
-# Effects
- 
-## Notes
-http://fian.my.id/Waves/#start    
-https://codesandbox.io/s/j0jyz323v   
-https://tympanus.net/codrops/2019/02/06/text-distortion-effects-using-blotter-js/  
+> [![](https://img.shields.io/badge/Main-readme‌‌‌‌‌‌‌-white)](../../readme.desc.md) [![](https://img.shields.io/badge/usage‌‌‌‌‌‌‌-orange)](usage.md)
 
-## TODOs
-Waves effect  
-ParticleEffect  
-Text Distortion Effects using Blotter.js  
+### Effects
+[![Progress](https://img.shields.io/badge/Demo-☐☐☐☐☐‌‌‌‌‌‌‌-blue)](https://krsln.github.io/NgLootBox/LootBox/Effects)  
+![](https://github.com/krsln/NgLootBox/raw/master/loot-box/Libs/Effects/Screenshots/Effects.png "Effects")  
 
-## Screenshots
+#### Dependencies
+```
+
+```
+
+#### Features
+Params | desc
+ --- | ---  
+[] | -

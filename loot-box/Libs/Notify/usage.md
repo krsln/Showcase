@@ -1,33 +1,29 @@
-> [Main](../../../readme.md) / [Readme](readme.md) ~ **Usage**
+### Usage
 
-## Notify
+> [![](https://img.shields.io/badge/Main-readme‌‌‌‌‌‌‌-white)](../../readme.desc.md) [![](https://img.shields.io/badge/readme-white)](readme.md)
+
+### Notify
+
 Component (lb-notify)  
-Directive ()  
-Service (NotifyService)  
+~~Directive ()~~  
+Service (NotifyService)
 
-#### Depends Local
-inLayout: `<lb-notify></lb-notify>`  
-```
-scss  
-@import "../../../../Assets/Styles/theme";  
-@import "../../../../Assets/Styles/variables";   
-@import "../../../../Assets/Styles/positioning";  
-  
-// import {Guid} from '../../../../Utils/Guid';  
-// import {AnimOverlay, flyInOut, shrinkOut} from '../../../../Animations/index';  
-```
+#### app.module.ts
 
-#### Depends
-`npm install bootstrap @fortawesome/fontawesome-free`  
+```typescript
+import {NotifyModule} from '@qrsln/loot-box/Libs/Notify';
 
-```
-alert, toast | "bootstrap": "^4.4.1",  
-all | "@fortawesome/fontawesome-free": "^5.11.2"  
-```
+@NgModule({
+  imports: [NotifyModule, /*...*/],
+})
+```  
 
-###### Html
-_lb-notify Has to be placed in layout_
-````
+#### Usage
+
+Layout Component
+
+````angular2html
+<!--Layout Component-->
 <app-header></app-header>
 <lb-notify></lb-notify>
 <main>
@@ -35,23 +31,16 @@ _lb-notify Has to be placed in layout_
 </main>
 <app-footer></app-footer>
 ````
-###### Ts
-```
-constructor( private notifyService: NotifyService ) {}
 
-ngOnInit() {
-    this.notifyService.None('My test message', 5000, NotifyPosition.TopRight);
-    this.notifyService.Success('My test message', 4000, NotifyPosition.TopRight);
-    this.notifyService.Error('My test message', 5000, NotifyPosition.TopRight);
-    this.notifyService.Info('My test message', 8000, NotifyPosition.TopRight);
-    this.notifyService.Warning('My test message', 5000, NotifyPosition.TopRight);
+```typescript
+// constructor( private notifyService: NotifyService ) {}
+
+ngOnInit()
+{
+  this.notifyService.None('My test message', 5000, NotifyPosition.TopRight);
+  this.notifyService.Success('My test message', 4000, NotifyPosition.TopRight);
+  this.notifyService.Error('My test message', 5000, NotifyPosition.TopRight);
+  this.notifyService.Info('My test message', 8000, NotifyPosition.TopRight);
+  this.notifyService.Warning('My test message', 5000, NotifyPosition.TopRight);
 }
-```  
-###### app.module.ts
-```
-import {NotifyModule} from '@qrsln/loot-box/Libs/Notify';
-
-@NgModule({
-  imports: [NotifyModule, ...],
-
-```  
+```   

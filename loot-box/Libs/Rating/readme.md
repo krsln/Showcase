@@ -1,15 +1,36 @@
-> [Main](../../../readme.md) / [Usage](usage.md) ~ **Readme**
+### Readme
 
-# Rating (✓✓✓✓)
-  
-## Notes
-https://www.c-sharpcorner.com/article/star-rating-in-angular-5/
+> [![](https://img.shields.io/badge/Main-readme‌‌‌‌‌‌‌-white)](../../readme.desc.md) [![](https://img.shields.io/badge/usage‌‌‌‌‌‌‌-orange)](usage.md)
 
-TODO: on hover show status text not number  
-fixed! TODO: on edge browser heart.svg issue  
-TODO: using whatsApp emoji cuz issue  
-TODO: asset folder doesnt copy on library for now img to css base64  
- 
-## Screenshots
-![](https://github.com/krsln/NgLootBox/raw/master/loot-box/Libs/Rating/Screenshots/Rating.png)
+### Rating
+
+[![Progress](https://img.shields.io/badge/Demo-✔✔✔✔☐‌‌‌‌‌‌‌-blue)](https://krsln.github.io/NgLootBox/LootBox/Rating)  
+![](https://github.com/krsln/NgLootBox/raw/master/loot-box/Libs/Rating/Screenshots/Rating.png "Rating")
+
+#### Dependencies
+
+```scss
+ @import "./../Assets/Styles/variables";
+```
+
+```
+npm install --save @qrsln/tooltip
+import {Guid} from '../../../../Utils/Guid';  
+```
+
+###### Themes
+
+star (def) | heart | text | emoji
+
+#### Features
+
+Params | desc
+ --- | ---  
+[color] | rgb, hex
+[max] | number: Items Count
+[allowFraction] | true/false Can select half of item
+[theme] | star (def) / heart / text / emoji
+[showText] | true/false Shows selected count
+[showTooltip] | true/false Shows Tooltip
+(rateChanged) | event emitter ```(rateChanged)="rateChanged($event)"```
 

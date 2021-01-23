@@ -1,4 +1,4 @@
-> [Main](../../readme.md) / [Readme](readme.md) ~ **Usage**
+> [Main](../readme.desc.md) / [Readme](readme.md) ~ **Usage**
 
 ## Highlighter
 Component (lb-highlighter)  

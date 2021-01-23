@@ -1,46 +1,59 @@
-> [Main](../../../readme.md) / [Readme](readme.md) ~ **Usage**
+### Usage
 
-## Breadcrumb
+> [![](https://img.shields.io/badge/Main-readme‌‌‌‌‌‌‌-white)](../../readme.desc.md) [![](https://img.shields.io/badge/readme-white)](readme.md)
+
+### Breadcrumb
+
 Component (lb-breadcrumb)  
-Directive ()  
-Service ()  
+~~Directive ()~~  
+~~Service ()~~
 
-#### Depends Local
+#### app.module.ts
 
-#### Depends
-**FontAwesome** if u use their icon class  
+```typescript
+import {BreadcrumbModule} from '@qrsln/loot-box/Libs/Breadcrumb';
 
-###### Html
-```
+@NgModule({
+  imports: [BreadcrumbModule, /*...*/],
+})
+```  
+
+#### Usage
+
+```html
+
 <lb-breadcrumb [Home]="breadcrumb.Home" [Items]="breadcrumb.Items" [Chevron]="'fas fa-angle-right'"
-             [Label]="breadcrumb.Label"></lb-breadcrumb>
+               [Label]="breadcrumb.Label"></lb-breadcrumb>
 ```
-###### Ts
+
+```typescript
+// breadcrumb: { Home: BreadcrumbItem, Items: BreadcrumbItem[], Label: string };
+this.breadcrumb = {
+  Home: {IconClass: 'fas fa-home', Url: '/'} as BreadcrumbItem,
+  Label: 'Test current page',
+  Items: [
+    {Label: 'Sports'},
+    {Label: 'Football'},
+    {Label: 'Countries', Url: '/Piper'},
+    {Label: 'Spain'},
+    {Label: 'Squad'},
+    {Label: 'google', Url: 'https://www.google.com', IconClass: 'fas fa-external-link-alt'}
+  ] as BreadcrumbItem[]
+};
 ```
-   breadcrumb: { Home: BreadcrumbItem, Items: BreadcrumbItem[], Label: string };
-   this.breadcrumb = {
-      Home: {IconClass: 'fas fa-home', Url: '/'} as BreadcrumbItem,
-      Label:'Test current page',
-      Items: [
-        {Label: 'Sports'},
-        {Label: 'Football'},
-        {Label: 'Countries', Url: '/Piper'},
-        {Label: 'Spain'},
-        {Label: 'Squad'},
-        {Label: 'google', Url: 'https://www.google.com', IconClass: 'fas fa-external-link-alt'}
-      ] as BreadcrumbItem[]
-    };
-```
-###### Html Auto
-``` 
+
+#### Usage Auto
+
+```html
+
 <main>
   <lb-breadcrumb [Home]="Home" [Items]="Items" [Chevron]="'fas fa-angle-right'"></lb-breadcrumb>
   <router-outlet></router-outlet>
 </main> 
 ```
-###### Ts Auto
-**app-route**
-```
+
+```typescript
+// **app-route**
 const routes: Routes = [
   {
     data: {breadcrumb: null},
@@ -58,8 +71,9 @@ const routes: Routes = [
   }
 ];
 ```
-**AppComponent**
-```
+
+```typescript
+// **AppComponent**
 export class AppComponent implements OnInit {
   readonly ROUTE_DATA_BREADCRUMB = 'breadcrumb';
   Home: BreadcrumbItem = {IconClass: 'fas fa-home', Url: '/'} as BreadcrumbItem;
@@ -96,21 +110,6 @@ export class AppComponent implements OnInit {
       return this.createBreadcrumbs(child, url, breadcrumbs);
     }
 
-  } 
+  }
 } 
 ```
-###### Features
- Params | desc  
- --- | ---  
-[Chevron] | icon class between nav items  
-[Home] | main page url, icon, label     
-[Items] | list of others page url, icon, label 
-
-###### app.module.ts
-```
-import {BreadcrumbModule} from '@qrsln/loot-box/Libs/Breadcrumb';
-
-@NgModule({
-  imports: [BreadcrumbModule, ...],
-
-```  

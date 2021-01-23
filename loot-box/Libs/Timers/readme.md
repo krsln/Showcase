@@ -1,23 +1,22 @@
-> [Main](../../../readme.md) / [Usage](usage.md) ~ **Readme**
+### Readme
 
-# Timers (✓✓✓✓)
-  
-## Notes
-``` 
-const dTime = new Date().getTime();
-check(new Date()); // "now"
-check(dTime + 50 * 1000); // "49s later"
-check(dTime - 60 * 1000); // "1m"
-check(dTime - 2 * 60 * 60 * 1000); // "2H"
-check(dTime - 24 * 60 * 60 * 1000); // "Jul 30"
-check(dTime - 100 * 24 * 60 * 60 * 1000); // "30 Jun 2018"
+> [![](https://img.shields.io/badge/Main-readme‌‌‌‌‌‌‌-white)](../../readme.desc.md) [![](https://img.shields.io/badge/usage‌‌‌‌‌‌‌-orange)](usage.md)
+
+### Timers
+
+[![Progress](https://img.shields.io/badge/Demo-✔✔✔✔☐‌‌‌‌‌‌‌-blue)](https://krsln.github.io/NgLootBox/LootBox/Timers)  
+![](https://github.com/krsln/NgLootBox/raw/master/loot-box/Libs/Timers/Screenshots/Timer.png "TimeAgo & Countdown")
+
+#### Dependencies
+```
+npm install --save 
 ```
 
-https://www.jqueryscript.net/demo/Slick-Circular-jQuery-Countdown-Plugin-Classy-Countdown/
+###### Themes
+**_Countdown_**: text | svg | canvas
 
-TODO: locale
-
-IE & Edge browser svg  dominant-baseline="central" doesnt work >> no support yet
-
-# Screenshots 
-![](https://github.com/krsln/NgLootBox/raw/master/loot-box/Libs/Timers/Screenshots/Timer.png) 
+#### Features
+Params | desc
+ --- | ---  
+[] | -
+ 

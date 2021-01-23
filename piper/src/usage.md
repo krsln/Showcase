@@ -1,35 +1,33 @@
-> [Main](../../readme.md) / [Readme](readme.md) ~ **Usage**
+### Usage
 
-## Piper
+> [![](https://img.shields.io/badge/Main-readme‌‌‌‌‌‌‌-white)](../readme.desc.md) [![](https://img.shields.io/badge/readme-white)](readme.md)
+
+### Piper
+
 Pipe ( | lbTruncate)  
-Pipe ( | lbSanitize)  
+Pipe ( | lbSanitize)
 
-#### Depends Local
+#### app.module.ts
 
-#### Depends
- 
-#### SanitizePipe
-> lbSanitize
-```
+```typescript
+import {PiperModule} from '@qrsln/piper';
+
+@NgModule({
+  imports: [PiperModule, /*...*/],
+})
+```  
+
+#### Usage
+
+```html
+<!--lbSanitize-->
 <span [innerHTML]="description|lbSanitize"></span>
-
 <td *ngIf="i>0" [innerHTML]="entry.attributes[i] | lbSanitize"></td>
-```
-#### TruncatePipe
-> lbTruncate
-```
+
+<!--lbTruncate-->
 {{description|lbTruncate:size}}
 
 * | lbTruncate:40:'...:p'
 * | lbTruncate:40
 * | lbTruncate
-```
-
-###### app.module.ts
-```
-import {PiperModule} from '@qrsln/piper';
-
-@NgModule({
-  imports: [PiperModule, ...],
-
-```  
+``` 

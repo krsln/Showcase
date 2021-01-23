@@ -1,27 +1,23 @@
-> [Main](../../readme.md) / [Readme](readme.md) ~ **Usage**
+### Usage
 
-## Effects
+> [![](https://img.shields.io/badge/Main-readme‌‌‌‌‌‌‌-white)](../readme.desc.md) [![](https://img.shields.io/badge/readme-white)](readme.md)
+
+### View360
 Component ()  
-Directive (lbParticleEffect, lbWavesEffect)  
+Directive ()  
 Service ()  
 
-#### Depends Local
+#### app.module.ts
 
-#### Depends
-
-###### Html
-```
-
-```
-###### Ts
-```
-
-```  
-###### app.module.ts
-```
-import {EffectsModule} from '@qrsln/loot-box/Libs/Effects';
+```typescript
+import {View360Module} from '@qrsln/view360';
 
 @NgModule({
-  imports: [EffectsModule, ...],
-
+  imports: [View360Module, /*...*/],
+})
 ```  
+
+#### Usage
+```html
+
+``` 

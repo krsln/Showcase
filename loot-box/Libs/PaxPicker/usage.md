@@ -1,24 +1,29 @@
-> [Main](../../../readme.md) / [Readme](readme.md) ~ **Usage**
+### Usage
+
+> [![](https://img.shields.io/badge/Main-readme‌‌‌‌‌‌‌-white)](../../readme.desc.md) [![](https://img.shields.io/badge/readme-white)](readme.md)
 
 ## PaxPicker
-Component ()  
+
+~~Component ()~~  
 Directive (lbPaxPicker)  
-Service ()  
+~~Service ()~~
 
-#### Depends Local
-// import {fadeInOut} from '../../../../Animations/index';  
-// import {Guid} from '../../../../Utils/Guid';  
+#### app.module.ts
 
-#### Depends
-**BrowserAnimationsModule** for animations  
-CommonModule, ReactiveFormsModule  
+```typescript
+import {PaxPickerModule} from '@qrsln/loot-box/Libs/PaxPicker';
 
-###### Html
-```
+@NgModule({
+  imports: [PaxPickerModule, /*...*/],
+})
+```  
+
+#### Usage
+
+```html
 <span lbPaxPicker [PaxList]="PaxList" (ChangeEvent)="PaxChanged($event)">Passengers</span>
-```
-###### Ts
-```
+``` 
+```typescript
 PaxList = [
     {Code: 'adult', Label: 'Yetişkin', SubLabel: '', Min: 1, Max: 9, Value: 1},
     {Code: 'young', Label: 'Genç', SubLabel: '12-17', Min: 0, Max: 7, Value: 0},
@@ -27,11 +32,4 @@ PaxList = [
     {Code: 'infant-2', Label: 'Kucakta Bebek', SubLabel: '2 yaş altı', Min: 0, Max: 7, Value: 0},
 ];
 ```  
-###### app.module.ts
-```
-import {PaxPickerModule} from '@qrsln/loot-box/Libs/PaxPicker';
-
-@NgModule({
-  imports: [PaxPickerModule, ...],
-
-```  
+ 

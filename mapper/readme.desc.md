@@ -1,12 +1,24 @@
-### Usage
+# @qrsln/mapper
 
-> [![](https://img.shields.io/badge/Main-readme‌‌‌‌‌‌‌-white)](../readme.desc.md) [![](https://img.shields.io/badge/readme-white)](readme.md)
+![Progress](https://img.shields.io/badge/Progress-✔✔✔☐☐‌‌‌‌‌‌‌-blue)
+[![downloads](https://img.shields.io/npm/dm/@qrsln/mapper.svg)](https://npmcharts.com/compare/@qrsln/mapper?minimal=true)
+[![npm version](https://badge.fury.io/js/%40qrsln%2Fmapper.svg)](https://badge.fury.io/js/%40qrsln%2Fmapper)
 
-### Mapper
+## Mapper
 
-~~Component ()~~  
-Directive (lbMapper)  
-~~Service ()~~
+For Angular  
+[![Progress](https://img.shields.io/badge/Demo-✔✔✔☐☐‌‌‌‌‌‌‌-blue)](https://krsln.github.io/NgLootBox/Mapper)
+[![](https://img.shields.io/badge/readme‌‌‌‌‌‌‌-white)](src/readme.md)
+[![](https://img.shields.io/badge/usage‌‌‌‌‌‌‌-orange)](src/usage.md)
+
+![](https://github.com/krsln/NgLootBox/raw/master/mapper/Screenshots/Mapper_Basic.png "Breadcrumb")
+![](https://github.com/krsln/NgLootBox/raw/master/mapper/Screenshots/Mapper_RouteMap.png "RouteMap")
+
+#### Dependencies
+
+```
+npm install @angular/google-maps 
+```
 
 #### app.module.ts
 

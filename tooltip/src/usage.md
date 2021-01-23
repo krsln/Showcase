@@ -1,21 +1,24 @@
-> [Main](../../readme.md) / [Readme](readme.md) ~ **Usage**
+### Usage
 
-## Tooltip
-Component ()  
+> [![](https://img.shields.io/badge/Main-readme‌‌‌‌‌‌‌-white)](../readme.desc.md) [![](https://img.shields.io/badge/readme-white)](readme.md)
+
+### Tooltip
+~~Component ()~~  
 Directive (lbTooltip)  
-Service ()  
+~~Service ()~~
 
-#### Depends Local
-scss @import "./../../../variables";  
-// import {Guid} from '../../../../Utils/Guid'; 
- 
-#### Depends
+#### app.module.ts
 
-###### Themes  
-white | black | silver | red   
+```typescript
+import {TooltipModule} from '@qrsln/tooltip';
 
-###### Html
-```
+@NgModule({
+  imports: [TooltipModule, /*...*/],
+})
+```  
+
+#### Usage
+```html
 <div>
       <button type="button" class="btn btn-outline-dark"
               lbTooltip="Tooltip on right" [placement]="'right'" [duration]="500" [theme]="'silver'">Right
@@ -30,16 +33,4 @@ white | black | silver | red
               lbTooltip="Tooltip on left" [placement]="'left'" [duration]="500" [theme]="'red'">Left
       </button>
 </div>
-```
-###### Ts
-```
-
-```  
-###### app.module.ts
-```
-import {TooltipModule} from '@qrsln/loot-box/Libs/Tooltip';
-
-@NgModule({
-  imports: [TooltipModule, ...],
-
-```  
+``` 

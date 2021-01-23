@@ -1,7 +1,20 @@
-> [Main](../../readme.md) / [Usage](usage.md) ~ **Readme**
+### Readme
 
-# Piper 
-SanitizePipe  
-TruncatePipe  
+> [![](https://img.shields.io/badge/Main-readme‌‌‌‌‌‌‌-white)](../readme.desc.md) [![](https://img.shields.io/badge/usage‌‌‌‌‌‌‌-orange)](usage.md)
 
-![](https://github.com/krsln/NgLootBox/raw/master/piper/Screenshots/Piper.png "Piper") 
+### Piper
+
+[![Progress](https://img.shields.io/badge/Demo-☐☐☐☐☐‌‌‌‌‌‌‌-blue)](https://krsln.github.io/NgLootBox/Piper)  
+![](https://github.com/krsln/NgLootBox/raw/master/piper/Screenshots/Piper.png "Piper")
+
+#### Dependencies
+
+```
+ 
+```
+
+#### Features
+
+Params | desc
+ --- | ---  
+[] | -

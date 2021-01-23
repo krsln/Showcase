@@ -1,9 +1,17 @@
-> [Main](../../../readme.md) / [Usage](usage.md) ~ **Readme**
+### Readme
 
-# Sliders ✓
- 
-## Notes
- 
-## Screenshots 
+> [![](https://img.shields.io/badge/Main-readme‌‌‌‌‌‌‌-white)](../../readme.desc.md) [![](https://img.shields.io/badge/usage‌‌‌‌‌‌‌-orange)](usage.md)
 
-![](https://github.com/krsln/NgLootBox/raw/master/loot-box/Libs/Sliders/Screenshots/RangeSlider.png)
+### Sliders
+
+[![Progress](https://img.shields.io/badge/Demo-✔☐☐☐☐‌‌‌‌‌‌‌-blue)](https://krsln.github.io/NgLootBox/LootBox/Slider)  
+![](https://github.com/krsln/NgLootBox/raw/master/loot-box/Libs/Sliders/Screenshots/RangeSlider.png "RangeSlider")
+
+#### Dependencies
+```
+```
+
+#### Features
+Params | desc
+ --- | ---  
+[] | -

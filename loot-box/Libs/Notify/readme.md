@@ -1,26 +1,27 @@
-> [Main](../../../readme.md) / [Usage](usage.md) ~ **Readme**
+### Readme
 
-# Notify (✓✓✓✓)
- 
-## Notes  
-done! TODO: Positioning   
-fixed! TODO: center left:40% is not ideal   
-~~done!~~ TODO: anim but not ideal
+> [![](https://img.shields.io/badge/Main-readme‌‌‌‌‌‌‌-white)](../../readme.desc.md) [![](https://img.shields.io/badge/usage‌‌‌‌‌‌‌-orange)](usage.md)
 
-## Screenshots 
-Notify  
-![](https://github.com/krsln/NgLootBox/raw/master/loot-box/Libs/Notify/Screenshots/Notify.png) 
+### Notify
+[![Progress](https://img.shields.io/badge/Demo-✔✔✔✔☐‌‌‌‌‌‌‌-blue)](https://krsln.github.io/NgLootBox/LootBox/Notify)  
 
-Based  
-![](https://github.com/krsln/NgLootBox/raw/master/loot-box/Libs/Notify/Screenshots/Based.png) 
+![](https://github.com/krsln/NgLootBox/raw/master/loot-box/Libs/Notify/Screenshots/Notify.png "Notify")  
+![](https://github.com/krsln/NgLootBox/raw/master/loot-box/Libs/Notify/Screenshots/Based.png "Notify Based")  
+![](https://github.com/krsln/NgLootBox/raw/master/loot-box/Libs/Notify/Screenshots/Alert.png "Notify Alert")  
+![](https://github.com/krsln/NgLootBox/raw/master/loot-box/Libs/Notify/Screenshots/Toast.png "Notify Toast")  
 
-Alert  
-![](https://github.com/krsln/NgLootBox/raw/master/loot-box/Libs/Notify/Screenshots/Alert.png) 
+#### Dependencies
+```scss  
+@import "../../../../Assets/Styles/theme";  
+@import "../../../../Assets/Styles/variables";   
+@import "../../../../Assets/Styles/positioning";  
+```
+```
+npm install bootstrap @fortawesome/fontawesome-free 
+```
 
-Toast  
-![](https://github.com/krsln/NgLootBox/raw/master/loot-box/Libs/Notify/Screenshots/Toast.png) 
+#### Features
+Params | desc
+ --- | ---  
+[] | -
 
- ##### Html Templates
- [notify-alert-bs.html](Templates/template-notify-alert-bs.html)  
- [notify-toast-bs.html](Templates/template-notify-toast-bs.html)  
- [notify-custom.html](Templates/template-notify-custom.html)  

@@ -1,16 +1,20 @@
-> [Main](../../readme.md) / [Usage](usage.md) ~ **Readme**
+### Readme
 
-# Mapper ✓✓✓
+> [![](https://img.shields.io/badge/Main-readme‌‌‌‌‌‌‌-white)](../readme.desc.md) [![](https://img.shields.io/badge/usage‌‌‌‌‌‌‌-orange)](usage.md)
+
+### Mapper
+[![Progress](https://img.shields.io/badge/Demo-✔✔✔☐☐‌‌‌‌‌‌‌-blue)](https://krsln.github.io/NgLootBox/Mapper)  
+
+![](https://github.com/krsln/NgLootBox/raw/master/mapper/Screenshots/Mapper_Basic.png "Breadcrumb")
+![](https://github.com/krsln/NgLootBox/raw/master/mapper/Screenshots/Mapper_RouteMap.png "RouteMap")
+
+#### Dependencies
+```
+npm install @angular/google-maps 
+```
+
+#### Features
+Params | desc
+ --- | ---  
+[] | -
  
-## TODOs
-map inside collapsed div cuz center problem 
-
-https://blog.angularindepth.com/google-maps-is-now-an-angular-component-821ec61d2a0
-
-## Screenshots
-Basic  
-![](https://github.com/krsln/NgLootBox/raw/master/mapper/Screenshots/Mapper_Basic.png)
-
-RouteMap  
-![](https://github.com/krsln/NgLootBox/raw/master/mapper/Screenshots/Mapper_RouteMap.png)
-

@@ -1,11 +1,18 @@
-> [Main](../../../readme.md) / [Usage](usage.md) ~ **Readme**
+### Readme
 
-# PaxPicker ✓✓✓
+> [![](https://img.shields.io/badge/Main-readme‌‌‌‌‌‌‌-white)](../../readme.desc.md) [![](https://img.shields.io/badge/usage‌‌‌‌‌‌‌-orange)](usage.md)
 
-## TODOs
-DONE! styles ... scss 
+### PaxPicker
 
-warnings
+[![Progress](https://img.shields.io/badge/Demo-✔✔✔☐☐‌‌‌‌‌‌‌-blue)](https://krsln.github.io/NgLootBox/LootBox/Pickers)  
+![](https://github.com/krsln/NgLootBox/raw/master/loot-box/Libs/PaxPicker/Screenshots/PaxPicker.png "PaxPicker")
 
-## Screenshots
-![](https://github.com/krsln/NgLootBox/raw/master/loot-box/Libs/PaxPicker/Screenshots/PaxPicker.png) 
+#### Dependencies
+```
+BrowserAnimationsModule for animations
+```
+
+#### Features
+Params | desc
+ --- | ---  
+[] | -

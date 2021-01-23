@@ -1,27 +1,26 @@
-> [Main](../../../readme.md) / [Readme](readme.md) ~ **Usage**
+### Usage
+
+> [![](https://img.shields.io/badge/Main-readme‌‌‌‌‌‌‌-white)](../../readme.desc.md) [![](https://img.shields.io/badge/readme-white)](readme.md)
 
 ## Sliders
+
 Component (lb-slider)  
-Directive ()  
-Service ()  
+~~Directive ()~~  
+~~Service ()~~
 
-#### Depends Local
+#### app.module.ts
 
-#### Depends
-
-###### Html
-```
-<lb-slider [min]="0" [max]="100" [start]="22" [end]="66"></aq-slider>
-```
-###### Ts
-```
-
-```  
-###### app.module.ts
-```
+```typescript
 import {SliderModule} from '@qrsln/loot-box/Libs/Sliders';
 
 @NgModule({
-  imports: [SliderModule, ...],
-
+  imports: [SliderModule, /*...*/],
+})
 ```  
+
+#### Usage
+
+```html
+
+<lb-slider [min]="0" [max]="100" [start]="22" [end]="66"></aq-slider>
+``` 

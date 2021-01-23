@@ -1,15 +1,15 @@
-> [Main](../../../readme.md) / [Usage](usage.md) ~ **Readme**
+### Readme
 
-# ColorPicker ✓
- 
-## Notes
-https://malcoded.com/posts/angular-color-picker/   
-https://ng-demo.mdbootstrap.com/plugins/color-picker   
-https://www.google.com/search?q=color-picker&oq=color-picker&aqs=chrome..69i57j69i60l3.598965j1j4&sourceid=chrome&ie=UTF-8  
+> [![](https://img.shields.io/badge/Main-readme‌‌‌‌‌‌‌-white)](../../readme.desc.md) [![](https://img.shields.io/badge/usage‌‌‌‌‌‌‌-orange)](usage.md)
 
-## TODOs
- 
+### ColorPicker
 
-## Screenshots
-![](https://github.com/krsln/NgLootBox/raw/master/loot-box/Libs/ColorPicker/Screenshots/ColorPicker.png)
+[![Progress](https://img.shields.io/badge/Demo-✔☐☐☐☐‌‌‌‌‌‌‌-blue)](https://krsln.github.io/NgLootBox/LootBox/Pickers)  
+![](https://github.com/krsln/NgLootBox/raw/master/loot-box/Libs/ColorPicker/Screenshots/ColorPicker.png "ColorPicker")
 
+#### Dependencies
+
+#### Features
+Params | desc
+ --- | ---  
+[] | -
