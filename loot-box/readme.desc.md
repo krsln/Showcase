@@ -7,7 +7,7 @@
 
 For Angular  
 [![Progress](https://img.shields.io/badge/Demo‌‌‌‌‌‌‌-blue)](https://krsln.github.io/NgLootBox/LootBox)
-[![](https://img.shields.io/badge/ReadMe‌‌‌‌‌‌‌-white)](https://github.com/krsln/NgLootBox/blob/master/loot-box/readme.md)
+[![](https://img.shields.io/badge/Main-readme‌‌‌‌‌‌‌-white)](../readme.md)
 
 ### Progress
 

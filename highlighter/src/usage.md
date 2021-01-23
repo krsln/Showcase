@@ -1,6 +1,7 @@
-> [Main](../readme.desc.md) / [Readme](readme.md) ~ **Usage**
 
-## Highlighter
+> [![](https://img.shields.io/badge/Main-readme‌‌‌‌‌‌‌-white)](../readme.desc.md) [![](https://img.shields.io/badge/readme-white)](readme.md)
+
+### Highlighter
 Component (lb-highlighter)  
 Directive (lbHighlighter)  
 Service ()  
