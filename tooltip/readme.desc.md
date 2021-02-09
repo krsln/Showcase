@@ -7,12 +7,10 @@
 ## Tooltip
 
 For Angular  
-[![Progress](https://img.shields.io/badge/Demo-✔✔✔✔☐‌‌‌‌‌‌‌-blue)](https://krsln.github.io/NgLootBox/Tooltip)
+[![Progress](https://img.shields.io/badge/Demo-✔✔✔✔☐‌‌‌‌‌‌‌-blue)](https://krsln.github.io/NgLootBox/Libraries/Tooltip)
 [![](https://img.shields.io/badge/Main-readme‌‌‌‌‌‌‌-white)](../readme.md)
-[![](https://img.shields.io/badge/readme‌‌‌‌‌‌‌-white)](src/readme.md)
-[![](https://img.shields.io/badge/usage‌‌‌‌‌‌‌-orange)](src/usage.md)
-
-![](https://github.com/krsln/NgLootBox/raw/master/tooltip/Screenshots/Tooltip.png "Tooltip")
+[![](https://img.shields.io/badge/readme‌‌‌‌‌‌‌-white)](Docs/readme.md)
+[![](https://img.shields.io/badge/usage‌‌‌‌‌‌‌-orange)](Docs/usage.md)
 
 #### app.module.ts
 
@@ -27,20 +25,23 @@ import {TooltipModule} from '@qrsln/tooltip';
 #### Usage
 
 ```html
-
-<div>
-  <button type="button" class="btn btn-outline-dark"
-          lbTooltip="Tooltip on right" [placement]="'right'" [duration]="500" [theme]="'silver'">Right
+<div class="col-12 col-lg-6 mb-2">
+  <p>[theme]="'silver'" default</p>
+  <button qlTooltip="Tooltip on right" placement="right" [duration]="dur" class="btn btn-outline-dark mr-1">
+    Right
   </button>
-  <button type="button" class="btn btn-outline-dark"
-          lbTooltip="Tooltip on top" [placement]="'top'" [duration]="500" [theme]="'white'">Top
+  <button qlTooltip="Tooltip on top" placement="top" [duration]="dur" class="btn btn-outline-dark mr-1">
+    Top
   </button>
-  <button type="button" class="btn btn-outline-dark"
-          lbTooltip="Tooltip on bottom" [placement]="'bottom'" [duration]="500" [theme]="'black'">Bottom
+  <button qlTooltip="Tooltip on bottom" placement="bottom" [duration]="dur" class="btn btn-outline-dark mr-1">
+    Bottom
   </button>
-  <button type="button" class="btn btn-outline-dark"
-          lbTooltip="Tooltip on left" [placement]="'left'" [duration]="500" [theme]="'red'">Left
+  <button qlTooltip="Tooltip on left" placement="left" [duration]="dur" class="btn btn-outline-dark mr-1">
+    Left
   </button>
 </div>
 ``` 
- 
+
+#### Screenshots
+
+![](Docs/Screenshots/Tooltip.png "Tooltip")

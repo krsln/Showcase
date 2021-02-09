@@ -17,18 +17,18 @@ For Angular
 
 ## Contents
 
-* [**Quick start**](#quick-start)
-
-+ [![Progress](https://img.shields.io/badge/Breadcrumb-✔✔✔☐☐‌‌‌‌‌‌‌-blue)](#breadcrumb)
-+ [![Progress](https://img.shields.io/badge/Notify-✔✔✔✔☐‌‌‌‌‌‌‌-blue)](#notify)
-+ [![Progress](https://img.shields.io/badge/Pagination-✔✔☐☐☐‌‌‌‌‌‌‌-blue)](#Pagination)
-+ [![Progress](https://img.shields.io/badge/Rating-✔✔✔✔☐‌‌‌‌‌‌‌-blue)](#rating)
-+ [![Progress](https://img.shields.io/badge/Spinner-✔✔✔☐☐‌‌‌‌‌‌‌-blue)](#spinner)
-+ [![Progress](https://img.shields.io/badge/Timeline-✔✔✔✔☐‌‌‌‌‌‌‌-blue)](#timeline)
-+ [![Progress](https://img.shields.io/badge/Timer-✔✔✔✔☐‌‌‌‌‌‌‌-blue)](#timer)
-
-+ [Utils](#utils)
-
+Module | Progress
+   --- | ---
+[Breadcrumb](#breadcrumb) | ![Progress](https://img.shields.io/badge/✔✔✔☐☐‌‌‌‌‌‌‌-blue)
+[Notify](#notify) | ![Progress](https://img.shields.io/badge/✔✔✔✔☐‌‌‌‌‌‌‌-blue)
+[Pagination](#pagination) | ![Progress](https://img.shields.io/badge/✔✔☐☐☐‌‌‌‌‌‌‌-blue)
+[Rating](#rating) | ![Progress](https://img.shields.io/badge/✔✔✔✔☐‌‌‌‌‌‌‌-blue)
+[Spinner](#spinner) | ![Progress](https://img.shields.io/badge/✔✔✔☐☐‌‌‌‌‌‌‌-blue)
+[Timeline](#timeline) | ![Progress](https://img.shields.io/badge/✔✔✔✔☐‌‌‌‌‌‌‌-blue)
+[Timer](#timer) | ![Progress](https://img.shields.io/badge/✔✔✔✔☐‌‌‌‌‌‌‌-blue)
+- | -
+[Piper](#piper) | ![Progress](https://img.shields.io/badge/☐☐☐☐☐‌‌‌‌‌‌‌-blue)
+[Utils](#utils) | ![Progress](https://img.shields.io/badge/☐☐☐☐☐‌‌‌‌‌‌‌-blue)
 
 ## Quick start
 
@@ -77,7 +77,6 @@ For Angular
 
 *[![](https://img.shields.io/badge/Top_⬆-blue)](#lootbox)*
 
-
 ### Spinner
 
 [![Progress](https://img.shields.io/badge/Demo-✔✔✔☐☐‌‌‌‌‌‌‌-blue)](https://krsln.github.io/NgLootBox/LootBox/Spinner)
@@ -106,6 +105,16 @@ For Angular
 
 ![](Libs/Timer/Docs/Screenshots/TimeAgo.png "TimeAgo")  
 ![](Libs/Timer/Docs/Screenshots/Countdown-Svg.png "Countdown svg")
+
+*[![](https://img.shields.io/badge/Top_⬆-blue)](#lootbox)*
+
+### Piper
+[![Progress](https://img.shields.io/badge/Demo-☐☐☐☐☐‌‌‌‌‌‌‌-blue)](https://krsln.github.io/NgLootBox/LootBox/Piper)
+[![](https://img.shields.io/badge/readme‌‌‌‌‌‌‌-white)](Piper/Docs/readme.md)
+[![](https://img.shields.io/badge/usage‌‌‌‌‌‌‌-orange)](Piper/Docs/usage.md)
+
+Pipe ( | lbTruncate)  
+Pipe ( | lbSanitize)
 
 *[![](https://img.shields.io/badge/Top_⬆-blue)](#lootbox)*
 

@@ -1,6 +1,7 @@
 ### Usage
 
-> [![](https://img.shields.io/badge/Main-readme‌‌‌‌‌‌‌-white)](../readme.desc.md) [![](https://img.shields.io/badge/readme-white)](readme.md)
+> [![](https://img.shields.io/badge/Main-readme‌‌‌‌‌‌‌-white)](../../readme.desc.md)
+> [![](https://img.shields.io/badge/readme-white)](readme.md)
 
 ### Piper
 
