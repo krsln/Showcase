@@ -26,7 +26,6 @@ Module | Progress
 [Spinner](#spinner) | ![Progress](https://img.shields.io/badge/✔✔✔☐☐‌‌‌‌‌‌‌-blue)
 [Timeline](#timeline) | ![Progress](https://img.shields.io/badge/✔✔✔✔☐‌‌‌‌‌‌‌-blue)
 [Timer](#timer) | ![Progress](https://img.shields.io/badge/✔✔✔✔☐‌‌‌‌‌‌‌-blue)
-- | -
 [Piper](#piper) | ![Progress](https://img.shields.io/badge/☐☐☐☐☐‌‌‌‌‌‌‌-blue)
 [Utils](#utils) | ![Progress](https://img.shields.io/badge/☐☐☐☐☐‌‌‌‌‌‌‌-blue)
 
