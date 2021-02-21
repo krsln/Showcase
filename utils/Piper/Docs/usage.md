@@ -5,8 +5,8 @@
 
 ### Piper
 
-Pipe ( | lbTruncate)  
-Pipe ( | lbSanitize)
+Pipe ( | qlTruncate)  
+Pipe ( | qlSanitize)
 
 #### app.module.ts
 
@@ -22,11 +22,11 @@ import {PiperModule} from '@qrsln/piper';
 
 ```html
 <!--lbSanitize-->
-<span [innerHTML]="description|lbSanitize"></span>
+<span [innerHTML]="description|qlSanitize"></span>
 <td *ngIf="i>0" [innerHTML]="entry.attributes[i] | lbSanitize"></td>
 
 <!--lbTruncate-->
-{{description|lbTruncate:size}}
+{{description|qlTruncate:size}}
 
 * | lbTruncate:40:'...:p'
 * | lbTruncate:40

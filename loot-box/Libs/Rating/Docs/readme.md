@@ -33,6 +33,7 @@ Name | Description
 @Input() Rate: number | Current rating 
 @Output() rateChanged | Event Emitter<number> ```(rateChanged)="rateChanged($event)"```
 
+
 #### Screenshots
 Default & Heart  
 ![](Screenshots/Rating-Default&Heart.png "Default & Heart")  

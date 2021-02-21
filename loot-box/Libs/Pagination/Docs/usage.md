@@ -5,7 +5,7 @@
 
 ## Pagination
 
-Component (lb-pagination)  
+Component (ql-pagination)  
 ~~Directive ()~~  
 ~~Service ()~~
 
@@ -23,7 +23,7 @@ import {PaginationModule} from '@qrsln/loot-box/Libs/Pagination';
 
 ```typescript
 // Pager: { CurrentPage: number, Items: { Id: number, Name: string }[] } = {CurrentPage: 1, Items: []};
-// Items: { Id: number, Name: string }[];
+// Items: { Id: number, Name: string }[] = [];
 
 ngOnInit()
 {
@@ -39,18 +39,18 @@ ngOnInit()
 
 <div class="card card-body">
   <h3 class="card-title">Pagination</h3>
-  <lb-pagination [Items]="Items" [CurrentPage]="Pager.CurrentPage" [ItemPerPage]="5" [MaxSize]="6"
+  <ql-pagination [Items]="Items" [CurrentPage]="Pager.CurrentPage" [ItemPerPage]="5" [MaxSize]="6"
                  (PagedItems)="Pager.Items = $event"
-                 (PageChanged)="Pager.CurrentPage=$event"></lb-pagination>
+                 (PageChanged)="Pager.CurrentPage=$event"></ql-pagination>
   <hr>
   <div ngFor="let item of Pager.Items">
     <strong>Id:</strong> {{item.Id}}
     <strong>Name:</strong>{{item.Name}}
   </div>
   <hr>
-  <lb-pagination [Items]="Items" [CurrentPage]="Pager.CurrentPage" [ItemPerPage]="5" [MaxSize]="6"
+  <ql-pagination [Items]="Items" [CurrentPage]="Pager.CurrentPage" [ItemPerPage]="5" [MaxSize]="6"
                  (PagedItems)="Pager.Items = $event"
-                 (PageChanged)="Pager.CurrentPage=$event"></lb-pagination>
+                 (PageChanged)="Pager.CurrentPage=$event"></ql-pagination>
 </div>
 ```
 

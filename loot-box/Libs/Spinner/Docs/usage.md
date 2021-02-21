@@ -5,7 +5,7 @@
 
 ### Spinner
 
-Component (lb-spinner)  
+Component (ql-spinner)  
 ~~Directive ()~~  
 Service (SpinnerService)
 
@@ -28,11 +28,11 @@ import {SpinnerModule} from '@qrsln/loot-box/Libs/Spinner';
 <button class="btn btn-dark m-1" (click)="Spinner(true,'overlay','SvgSnake',5000)">Svg-Snake</button>
 
 <!--[Pattern]="'Default'"-->
-<lb-spinner [Pattern]="'Default'" [Label]="'test'"></lb-spinner>
+<ql-spinner [Pattern]="'Default'" [Label]="'test'"></ql-spinner>
 <!--[Pattern]="'Bootstrap'"-->
-<lb-spinner [Pattern]="'Bootstrap'" [Label]="'test'"></lb-spinner>
+<ql-spinner [Pattern]="'Bootstrap'" [Label]="'test'"></ql-spinner>
 <!--[Pattern]="'SvgSnake'"-->
-<lb-spinner [Pattern]="'SvgSnake'" [Label]="'test'"></lb-spinner>
+<ql-spinner [Pattern]="'SvgSnake'" [Label]="'test'"></ql-spinner>
 ```
 ```typescript
 // constructor(private spinnerService: SpinnerService) { }

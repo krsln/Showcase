@@ -5,7 +5,7 @@
 
 ### Breadcrumb
 
-Component (lb-breadcrumb)  
+Component (ql-breadcrumb)  
 ~~Directive ()~~  
 ~~Service ()~~
 
@@ -23,31 +23,30 @@ import {BreadcrumbModule} from '@qrsln/loot-box/Libs/Breadcrumb';
 
 ```html
 <!--fas fa-angle-right <i class="fas fa-angle-right"></i>-->
-<lb-breadcrumb [Home]="breadcrumb.Home" [Items]="breadcrumb.Items" [Chevron]="'fas fa-angle-right'"
-               [Label]="breadcrumb.Label"></lb-breadcrumb>
+<ql-breadcrumb [Home]="Home" [Items]="Items" [Chevron]="'fas fa-angle-right'" [Label]="Label"></ql-breadcrumb>
 
 <!--fas fa-slash <i class="fas fa-slash"></i>-->
-<lb-breadcrumb [Home]="breadcrumb.Home" [Items]="breadcrumb.Items" [Chevron]="'fas fa-slash'"
-               [Label]="breadcrumb.Label"></lb-breadcrumb>
+<ql-breadcrumb [Home]="Home" [Items]="Items" [Chevron]="'fas fa-slash'" [Label]="Label"></ql-breadcrumb>
+
 ```
 
 ```typescript
-// breadcrumb: { Home: BreadcrumbItem, Items: BreadcrumbItem[], Label: string };
+// Label?: string;
+// Home?: BreadcrumbItem;
+// Items: BreadcrumbItem[] = [];
 
 ngOnInit()
 {
-  this.breadcrumb = {
-    Home: {FaClass: 'fas fa-home', Url: '/'} as BreadcrumbItem,
-    Label: 'Test current page',
-    Items: [
-      {Label: 'Sports'},
-      {Label: 'Football'},
-      {Label: 'Countries', Url: '/Piper'},
-      {Label: 'Spain'},
-      {Label: 'Squad'},
-      {Label: 'google', Url: 'https://www.google.com', FaClass: 'fas fa-external-link-alt'}
-    ] as BreadcrumbItem[]
-  };
+  this.Home = {FaClass: 'fas fa-home', Url: '/'} as BreadcrumbItem;
+  this.Label = 'Test current page';
+  this.Items = [
+    {Label: 'Sports'},
+    {Label: 'Football'},
+    {Label: 'Countries', Url: '/Piper'},
+    {Label: 'Spain'},
+    {Label: 'Squad'},
+    {Label: 'google', Url: 'https://www.google.com', FaClass: 'fas fa-external-link-alt'}
+  ] as BreadcrumbItem[];
 }
 ```
 
@@ -56,10 +55,11 @@ ngOnInit()
 ```html
 
 <main>
-  <lb-breadcrumb [Home]="Home" [Items]="Items" [Chevron]="'fas fa-angle-right'"></lb-breadcrumb>
+  <ql-breadcrumb [Home]="Home" [Items]="Items" [Chevron]="'fas fa-angle-right'"></ql-breadcrumb>
   <router-outlet></router-outlet>
 </main> 
 ```
+
 ```typescript
 // **app-route**
 const routes: Routes = [
@@ -78,7 +78,7 @@ const routes: Routes = [
     ]
   }
 ];
- 
+
 // **AppComponent**
 export class AppComponent implements OnInit {
   readonly ROUTE_DATA_BREADCRUMB = 'breadcrumb';

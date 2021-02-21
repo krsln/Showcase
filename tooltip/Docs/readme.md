@@ -5,7 +5,7 @@
 
 ### Tooltip
 
-[![Progress](https://img.shields.io/badge/Demo-✔✔✔✔☐‌‌‌‌‌‌‌-blue)](https://krsln.github.io/NgLootBox/Tooltip)
+[![Progress](https://img.shields.io/badge/Demo-✔✔✔✔☐‌‌‌‌‌‌‌-blue)](https://krsln.github.io/NgLootBox/Libraries/Tooltip)
 
 
 #### Dependencies
@@ -17,11 +17,14 @@
 
 white | black | silver | red
 
-#### Features
+#### Properties
 
-Params | desc
+Name | Description
  --- | ---  
-[] | -
+qlTooltip="..." | content
+[placement:string] | top right bottom left
+[theme:string] | white black silver red
+[duration:number] | 500ms is default
 
 #### Screenshots
 

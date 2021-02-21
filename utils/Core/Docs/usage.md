@@ -3,7 +3,7 @@
 > [![](https://img.shields.io/badge/Main-readme‌‌‌‌‌‌‌-white)](../../readme.desc.md)
 > [![](https://img.shields.io/badge/readme-white)](readme.md)
 
-### Utils
+### Utils - Core
 
 ###### Guid
 
@@ -14,7 +14,7 @@ import {Guid} from '@qrsln/loot-box/Utils';
 ```typescript 
 class name{
 
-  guid: Guid;
+  guid: Guid = new Guid();
 
   GuidStringify = () => JSON.stringify(this.guid);
 
@@ -63,20 +63,4 @@ import {Sleep, StopWatch} from '@qrsln/loot-box/Utils';
   // Get the elapsed time as a TimeSpan value.
   const ts = stopWatch.Elapsed;
 })();
-```
-
-###### WebStorage
-
-```typescript
-import {WebStorage} from './Utils/WebStorage';
-
-@NgModule({
-  providers: [WebStorage]
-})
-``` 
-
-```typescript
-    // constructor(private webStorage: WebStorage){}
-    webStorage.Set(StorageType.Local, 'Auth', response.Customer, 60);
-    this.Customer = webStorage.Get(StorageType.Local, 'Auth');
 ```

@@ -22,6 +22,9 @@ Name | Description
 [IsOverlay: boolean] | -
 [ExpireIn?: number] | There is **Hide(spinnerId: string)** method in service
 
+#### Issues
+Mobile browser: svg not showing
+
 #### Screenshots
 
 ![](Screenshots/Spinner.png "Spinner")

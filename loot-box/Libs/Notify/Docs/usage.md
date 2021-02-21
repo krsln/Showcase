@@ -5,7 +5,7 @@
 
 ### Notify
 
-Component (lb-notify)  
+Component (ql-notify)  
 ~~Directive ()~~  
 Service (NotifyService)
 
@@ -26,7 +26,7 @@ Layout Component
 ````angular2html
 <!--Layout Component-->
 <app-header></app-header>
-<lb-notify></lb-notify>
+<ql-notify></ql-notify>
 <main>
   <router-outlet></router-outlet>
 </main>

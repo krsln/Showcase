@@ -5,7 +5,7 @@
 
 ### Timeline
 
-Component (lb-timeline, _lb-timeline-card_)  
+Component (ql-timeline, _ql-timeline-card_)  
 ~~Directive ()~~  
 ~~Service ()~~
 
@@ -23,13 +23,13 @@ import {TimelineModule} from '@qrsln/loot-box/Libs/Timeline';
 
 ```html
 
-<lb-timeline [Header]="Header" [Description]="Description" [Layout]="'Default'" [Steps]="steps"
-             [Animation]="'shake'"></lb-timeline>
-<lb-timeline [Header]="Header" [Description]="Description" [Layout]="'Side'" [Steps]="steps"></lb-timeline>
-<lb-timeline [Header]="Header" [Description]="Description" [Layout]="'Snake'" [Steps]="steps"></lb-timeline>
+<ql-timeline [Header]="Header" [Description]="Description" [Layout]="'Default'" [Steps]="steps"
+             [Animation]="'shake'"></ql-timeline>
+<ql-timeline [Header]="Header" [Description]="Description" [Layout]="'Side'" [Steps]="steps"></ql-timeline>
+<ql-timeline [Header]="Header" [Description]="Description" [Layout]="'Snake'" [Steps]="steps"></ql-timeline>
 
-<lb-timeline [Header]="Header" [Description]="Description" [Layout]="'Branch'" [Steps]="steps"></lb-timeline>
-<lb-timeline [Header]="Header" [Description]="Description" [Layout]="'Zigzag'" [Steps]="steps"></lb-timeline>
+<ql-timeline [Header]="Header" [Description]="Description" [Layout]="'Branch'" [Steps]="steps"></ql-timeline>
+<ql-timeline [Header]="Header" [Description]="Description" [Layout]="'Zigzag'" [Steps]="steps"></ql-timeline>
 ``` 
 
 ```typescript

@@ -4,7 +4,7 @@
 > [![](https://img.shields.io/badge/usage‌‌‌‌‌‌‌-orange)](usage.md)
 
 ### Mapper
-[![Progress](https://img.shields.io/badge/Demo-✔✔✔☐☐‌‌‌‌‌‌‌-blue)](https://krsln.github.io/NgLootBox/Mapper)
+[![Progress](https://img.shields.io/badge/Demo-✔✔✔☐☐‌‌‌‌‌‌‌-blue)](https://krsln.github.io/NgLootBox/Libraries/Mapper)
 
 #### Dependencies
 ```
@@ -15,7 +15,7 @@ npm install @angular/google-maps
 
 Name | Description
  --- | ---  
-[] | -
+[Options:MapperOption] | Check usage page
 
 ### Screenshots
 

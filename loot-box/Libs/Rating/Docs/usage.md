@@ -5,7 +5,7 @@
 
 ### Rating
 
-Component (lb-rating)  
+Component (ql-rating)  
 ~~Directive ()~~  
 ~~Service ()~~
 
@@ -23,32 +23,32 @@ import {RatingModule} from '@qrsln/loot-box/Libs/Rating';
 
 ```html
 <!--Pattern: Star (Default) ReadOnly ShowValue-->
-<lb-rating [ShowValue]="true" Rate="7.8" [MaxItem]="10" [IsReadOnly]="true"
-           (rateChanged)="rateChanged($event)"></lb-rating>
+<ql-rating [ShowValue]="true" Rate="7.8" [MaxItem]="10" [IsReadOnly]="true"
+           (rateChanged)="rateChanged($event)"></ql-rating>
 <!--Pattern: Star (Default) Fraction Color ShowValue-->
-<lb-rating [ShowValue]="true" [Color]="'red'" [Rate]="3.5" [Fraction]="true"
-           (rateChanged)="rateChanged($event)"></lb-rating>
+<ql-rating [ShowValue]="true" [Color]="'red'" [Rate]="3.5" [Fraction]="true"
+           (rateChanged)="rateChanged($event)"></ql-rating>
 <!--Pattern: Star (Default) Fraction Color Tooltip-->
-<lb-rating [ShowTooltip]="true" [Color]="'blue'" [MaxItem]="3" [Rate]="2" [Fraction]="true"
-           (rateChanged)="rateChanged($event)"></lb-rating>
+<ql-rating [ShowTooltip]="true" [Color]="'blue'" [MaxItem]="3" [Rate]="2" [Fraction]="true"
+           (rateChanged)="rateChanged($event)"></ql-rating>
 
 <!--Pattern: Heart Fraction ShowValue-->
-<lb-rating [ShowValue]="true" [Pattern]="'Heart'" [Rate]="3.5" [Fraction]="true"
-           (rateChanged)="rateChanged($event)"></lb-rating>
+<ql-rating [ShowValue]="true" [Pattern]="'Heart'" [Rate]="3.5" [Fraction]="true"
+           (rateChanged)="rateChanged($event)"></ql-rating>
 <!--Pattern: Heart Fraction Color-->
-<lb-rating [Pattern]="'Heart'" [Color]="'purple'" [Rate]="3.5" [Fraction]="true"
-           (rateChanged)="rateChanged($event)"></lb-rating>
+<ql-rating [Pattern]="'Heart'" [Color]="'purple'" [Rate]="3.5" [Fraction]="true"
+           (rateChanged)="rateChanged($event)"></ql-rating>
 
 <!--[Pattern]="'Text'" Fraction ShowValue-->
-<lb-rating [ShowValue]="true" [Pattern]="'Text'" [Rate]="3.5" [Fraction]="true"
-           (rateChanged)="rateChanged($event)"></lb-rating>
+<ql-rating [ShowValue]="true" [Pattern]="'Text'" [Rate]="3.5" [Fraction]="true"
+           (rateChanged)="rateChanged($event)"></ql-rating>
 <!--[Pattern]="'Text'" Fraction Color-->
-<lb-rating [Pattern]="'Text'" [Color]="'blue'" [Rate]="3.5" [Fraction]="true"
-           (rateChanged)="rateChanged($event)"></lb-rating>
+<ql-rating [Pattern]="'Text'" [Color]="'blue'" [Rate]="3.5" [Fraction]="true"
+           (rateChanged)="rateChanged($event)"></ql-rating>
 
 <!--[Pattern]="'Emoji'" ReadOnly-->
-<lb-rating [IsReadOnly]="true" [Pattern]="'Emoji'" [Rate]="3" (rateChanged)="rateChanged($event)"></lb-rating>
+<ql-rating [IsReadOnly]="true" [Pattern]="'Emoji'" [Rate]="3" (rateChanged)="rateChanged($event)"></ql-rating>
 <!--[Pattern]="'Emoji'" Fraction Tooltip-->
-<lb-rating [ShowTooltip]="true" [Pattern]="'Emoji'" [Rate]="3" (rateChanged)="rateChanged($event)"></lb-rating>
+<ql-rating [ShowTooltip]="true" [Pattern]="'Emoji'" [Rate]="3" (rateChanged)="rateChanged($event)"></ql-rating>
 
 ``` 

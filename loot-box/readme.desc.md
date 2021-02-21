@@ -26,8 +26,6 @@ Module | Progress
 [Spinner](#spinner) | ![Progress](https://img.shields.io/badge/✔✔✔☐☐‌‌‌‌‌‌‌-blue)
 [Timeline](#timeline) | ![Progress](https://img.shields.io/badge/✔✔✔✔☐‌‌‌‌‌‌‌-blue)
 [Timer](#timer) | ![Progress](https://img.shields.io/badge/✔✔✔✔☐‌‌‌‌‌‌‌-blue)
-[Piper](#piper) | ![Progress](https://img.shields.io/badge/☐☐☐☐☐‌‌‌‌‌‌‌-blue)
-[Utils](#utils) | ![Progress](https://img.shields.io/badge/☐☐☐☐☐‌‌‌‌‌‌‌-blue)
 
 ## Quick start
 
@@ -104,25 +102,5 @@ Module | Progress
 
 ![](Libs/Timer/Docs/Screenshots/TimeAgo.png "TimeAgo")  
 ![](Libs/Timer/Docs/Screenshots/Countdown-Svg.png "Countdown svg")
-
-*[![](https://img.shields.io/badge/Top_⬆-blue)](#lootbox)*
-
-### Piper
-[![Progress](https://img.shields.io/badge/Demo-☐☐☐☐☐‌‌‌‌‌‌‌-blue)](https://krsln.github.io/NgLootBox/LootBox/Piper)
-[![](https://img.shields.io/badge/readme‌‌‌‌‌‌‌-white)](Piper/Docs/readme.md)
-[![](https://img.shields.io/badge/usage‌‌‌‌‌‌‌-orange)](Piper/Docs/usage.md)
-
-Pipe ( | lbTruncate)  
-Pipe ( | lbSanitize)
-
-*[![](https://img.shields.io/badge/Top_⬆-blue)](#lootbox)*
-
-### Utils
-
-[![Progress](https://img.shields.io/badge/Demo-☐☐☐☐☐‌‌‌‌‌‌‌-blue)](https://krsln.github.io/NgLootBox/LootBox/Utils)
-[![](https://img.shields.io/badge/readme‌‌‌‌‌‌‌-white)](Utils/Docs/readme.md)
-[![](https://img.shields.io/badge/usage‌‌‌‌‌‌‌-orange)](Utils/Docs/usage.md)
-
-Guid StopWatch WebStorage
 
 *[![](https://img.shields.io/badge/Top_⬆-blue)](#lootbox)*

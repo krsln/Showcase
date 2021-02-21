@@ -5,8 +5,8 @@
 
 ### Timer
 
-Component (lb-countdown)  
-Directive (lbTimeAgo)  
+Component (ql-countdown, ~~ql-countdown-canvas~~, ~~ql-countdown-svg~~)  
+Directive (qlTimeAgo, ~~qlCountdown~~)  
 ~~Service ()~~
 
 #### app.module.ts
@@ -23,21 +23,21 @@ import {TimerModule} from '@qrsln/loot-box/Libs/Timers';
 
 ```html
 <!--TimeAgo-->
-<span class="badge badge-pill badge-danger ml-2" lbTimeAgo [Locale]="'tr-TR'" [Date]="testDate" [Suffix]="true"></span>
+<span class="badge badge-pill badge-danger ml-2" qlTimeAgo [Locale]="'tr-TR'" [Date]="testDate" [Suffix]="true"></span>
 
 <!--Countdown -->
 <!--Type: Text Detailed-->
-<lb-countdown [Detailed]="{day:365, hrs:1, min:0, sec:5}"></lb-countdown>
+<ql-countdown [Detailed]="{day:365, hrs:1, min:0, sec:5}"></ql-countdown>
 <!--Type: Text Date-->
-<lb-countdown [Date]="testDate"></lb-countdown>
+<ql-countdown [Date]="testDate"></ql-countdown>
 <!--Type: Canvas Detailed-->
-<lb-countdown [Type]="'Canvas'" [Detailed]="{day:365, hrs:1, min:0, sec:5}"></lb-countdown>
+<ql-countdown [Type]="'Canvas'" [Detailed]="{day:365, hrs:1, min:0, sec:5}"></ql-countdown>
 <!--Type: Canvas Date-->
-<lb-countdown [Type]="'Canvas'" [Date]="testDate"></lb-countdown>
+<ql-countdown [Type]="'Canvas'" [Date]="testDate"></ql-countdown>
 <!--Type: Svg Detailed-->
-<lb-countdown [Type]="'Svg'" [Detailed]="{day:365, hrs:1, min:0, sec:5}"></lb-countdown>
+<ql-countdown [Type]="'Svg'" [Detailed]="{day:365, hrs:1, min:0, sec:5}"></ql-countdown>
 <!--Type: Svg Date-->
-<lb-countdown [Type]="'Svg'" [Date]="testDate"></lb-countdown>
+<ql-countdown [Type]="'Svg'" [Date]="testDate"></ql-countdown>
 ``` 
 
 ```typescript

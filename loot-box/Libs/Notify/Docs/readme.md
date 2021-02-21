@@ -7,14 +7,17 @@
 [![Progress](https://img.shields.io/badge/Demo-✔✔✔✔☐‌‌‌‌‌‌‌-blue)](https://krsln.github.io/NgLootBox/LootBox/Notify)
 
 #### Dependencies
-```scss   
+import {Guid} from '@qrsln/utils/Core';  
+import {ShrinkOut, FlyInOut, Overlay} from '@qrsln/utils/Animations';  
+
 ```
-```
+npm install @qrsln/utils 
 npm install bootstrap @fortawesome/fontawesome-free 
 ```
 
-#### Features
-Params | desc
+#### Properties
+
+Name | Description
  --- | ---  
 [] | -
 

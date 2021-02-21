@@ -32,6 +32,9 @@ Name | Description
 @Input() Date: Date | -
 @Input() Detailed: { day: number, hrs: number, min: number, sec: number }] | -
 
+#### Issues
+Mobile browser: canvas size
+
 #### Screenshots
 TimeAgo  
 ![](Screenshots/TimeAgo.png "TimeAgo")  
