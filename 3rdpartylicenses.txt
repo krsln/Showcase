@@ -139,6 +139,9 @@ MIT
 @qrsln/loot-box-test
 MIT
 
+@qrsln/lootstrap
+MIT
+
 @qrsln/mapper
 MIT
 
