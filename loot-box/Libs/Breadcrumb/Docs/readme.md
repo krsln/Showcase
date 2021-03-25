@@ -10,8 +10,10 @@ Breadcrumbs are navigation elements which indicate a current location on the web
 the current location as well
 
 #### Dependencies
+@import "~@qrsln/lootstrap/scss/lootstrap";
 
 ```
+npm install --save @qrsln/lootstrap
 npm install --save @fortawesome/fontawesome-free
 ```
 
@@ -19,10 +21,12 @@ npm install --save @fortawesome/fontawesome-free
 
 Name | Description
  --- | ---  
-[Chevron] |font awesome icon class between nav items
-[Home] | main page url, icon, label
-[Items] | list of others page url, icon, label
+[Chevron] |letter
+[ChevronClass] |defined class ['larger', 'vertical','bar']
+[Home] | main page url, icon(font awesome icon class), label
+[Items] | list of others page url, icon(font awesome icon class), label
 
 #### Screenshots
 
 ![](Screenshots/Breadcrumb.png "Breadcrumb")
+![](Screenshots/Breadcrumb-2.png "Breadcrumb")
