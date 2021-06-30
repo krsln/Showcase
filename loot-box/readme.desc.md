@@ -21,6 +21,7 @@ Module | Progress
    --- | ---
 [Breadcrumb](#breadcrumb) | ![Progress](https://img.shields.io/badge/✔✔✔☐☐‌‌‌‌‌‌‌-blue)
 [Carousel](#carousel) | ![Progress](https://img.shields.io/badge/✔✔☐☐☐‌‌‌‌‌‌‌-blue)
+[Dialog](#dialog) | ![Progress](https://img.shields.io/badge/✔☐☐☐☐‌‌‌‌‌‌‌-blue)
 [Notify](#notify) | ![Progress](https://img.shields.io/badge/✔✔✔✔☐‌‌‌‌‌‌‌-blue)
 [Pagination](#pagination) | ![Progress](https://img.shields.io/badge/✔✔☐☐☐‌‌‌‌‌‌‌-blue)
 [Rating](#rating) | ![Progress](https://img.shields.io/badge/✔✔✔✔☐‌‌‌‌‌‌‌-blue)
