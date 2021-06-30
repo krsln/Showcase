@@ -29,7 +29,7 @@ import {DialogModule} from '@qrsln/loot-box/Libs/Dialog';
     <button class="btn btn-outline-primary mr-1" (click)="GoToCart()">Service GoToCart</button>
   </div>
   <div class="col-12 col-lg-6 mb-2">
-    <qlt-dialog [Title]="'Title'" [Content]="'Content'" [Footer]="{Prompt:true}"></qlt-dialog>
+    <ql-dialog [Title]="'Title'" [Content]="'Content'" [Footer]="{Prompt:true}"></ql-dialog>
   </div>
 </div>
 ```  

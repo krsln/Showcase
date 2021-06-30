@@ -20,6 +20,7 @@ For Angular
 Module | Progress
    --- | ---
 [Breadcrumb](#breadcrumb) | ![Progress](https://img.shields.io/badge/✔✔✔☐☐‌‌‌‌‌‌‌-blue)
+[Carousel](#carousel) | ![Progress](https://img.shields.io/badge/✔✔☐☐☐‌‌‌‌‌‌‌-blue)
 [Notify](#notify) | ![Progress](https://img.shields.io/badge/✔✔✔✔☐‌‌‌‌‌‌‌-blue)
 [Pagination](#pagination) | ![Progress](https://img.shields.io/badge/✔✔☐☐☐‌‌‌‌‌‌‌-blue)
 [Rating](#rating) | ![Progress](https://img.shields.io/badge/✔✔✔✔☐‌‌‌‌‌‌‌-blue)
@@ -41,6 +42,26 @@ Module | Progress
 [![](https://img.shields.io/badge/usage‌‌‌‌‌‌‌-orange)](Libs/Breadcrumb/Docs/usage.md)
 
 ![](Libs/Breadcrumb/Docs/Screenshots/Breadcrumb.png "Breadcrumb")
+
+*[![](https://img.shields.io/badge/Top_⬆-blue)](#lootbox)*
+
+### Carousel
+
+[![Progress](https://img.shields.io/badge/Demo-✔✔☐☐☐‌‌‌‌‌‌‌-blue)](https://krsln.github.io/NgLootBox/LootBox/Carousel)
+[![](https://img.shields.io/badge/readme‌‌‌‌‌‌‌-white)](Libs/Carousel/Docs/readme.md)
+[![](https://img.shields.io/badge/usage‌‌‌‌‌‌‌-orange)](Libs/Carousel/Docs/usage.md)
+
+![](https://github.com/krsln/NgLootBox/raw/master/loot-box/Libs/Carousel/Docs/Screenshots/Carousel.png "Carousel")
+
+*[![](https://img.shields.io/badge/Top_⬆-blue)](#lootbox)*
+
+### Dialog
+
+[![Progress](https://img.shields.io/badge/Demo-✔☐☐☐☐‌‌‌‌‌‌‌-blue)](https://krsln.github.io/NgLootBox/LootBox/Dialog)
+[![](https://img.shields.io/badge/readme‌‌‌‌‌‌‌-white)](Libs/Dialog/Docs/readme.md)
+[![](https://img.shields.io/badge/usage‌‌‌‌‌‌‌-orange)](Libs/Dialog/Docs/usage.md)
+
+![](https://github.com/krsln/NgLootBox/raw/master/loot-box/Libs/Dialog/Docs/Screenshots/Dialog.png "Dialog")
 
 *[![](https://img.shields.io/badge/Top_⬆-blue)](#lootbox)*
 
