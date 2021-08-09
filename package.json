@@ -1,0 +1,10 @@
+{
+  "name": "NgLootBox",
+  "version": "1.0.0",
+  "scripts": {
+    "Showcase-deploy": "npx angular-cli-ghpages --dir=dist/NgLootBox",
+    "Showcase-deploy-IfUGotError": "ngh --no-silent --dir=dist/NgLootBox"
+  },
+  "dependencies": {
+  }
+}
