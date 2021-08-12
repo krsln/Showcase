@@ -1,13 +1,13 @@
-# @qrsln/loot-box
+### Readme
 
-[![downloads](https://img.shields.io/npm/dm/@qrsln/loot-box.svg)](https://npmcharts.com/compare/@qrsln/loot-box?minimal=true)
-[![npm version](https://badge.fury.io/js/%40qrsln%2Floot-box.svg)](https://badge.fury.io/js/%40qrsln%2Floot-box)
+> [![](https://img.shields.io/badge/Main-projects‌‌‌‌‌‌‌-white)](../projects.md)
+> [![Progress](https://img.shields.io/badge/Demo‌‌‌‌‌‌‌-blue)](https://krsln.github.io/NgLootBox/LootBox)
+> [![downloads](https://img.shields.io/npm/dm/@qrsln/loot-box.svg)](https://npmcharts.com/compare/@qrsln/loot-box?minimal=true)
+> [![npm version](https://badge.fury.io/js/%40qrsln%2Floot-box.svg)](https://badge.fury.io/js/%40qrsln%2Floot-box)
 
 ## LootBox
 
 For Angular  
-[![Progress](https://img.shields.io/badge/Demo‌‌‌‌‌‌‌-blue)](https://krsln.github.io/NgLootBox/LootBox)
-[![](https://img.shields.io/badge/Main-projects‌‌‌‌‌‌‌-white)](../projects.md)
 
 ### Progress
 

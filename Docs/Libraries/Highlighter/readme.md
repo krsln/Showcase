@@ -1,14 +1,13 @@
 ### Readme
 
-> [![](https://img.shields.io/badge/Main-readme‌‌‌‌‌‌‌-white)](../readme.desc.md)
+> [![](https://img.shields.io/badge/Main-projects‌‌‌‌‌‌‌-white)](../projects.md)
+> [![Progress](https://img.shields.io/badge/Demo-✔✔✔✔☐‌‌‌‌‌‌‌-blue)](https://krsln.github.io/NgLootBox/Libraries/Highlighter)
 > [![](https://img.shields.io/badge/usage‌‌‌‌‌‌‌-orange)](usage.md)
 
 ### Highlighter
 
 Supported Languages: typescript, html, css/scss/less, csharp, javascript, json, php, python, markdown
 
-[![Progress](https://img.shields.io/badge/Demo-✔✔✔✔☐‌‌‌‌‌‌‌-blue)](https://krsln.github.io/NgLootBox/Libraries/Highlighter)
-[![](https://img.shields.io/badge/Main-projects‌‌‌‌‌‌‌-white)](../projects.md)
 
 #### Dependencies
 

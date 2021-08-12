@@ -1,10 +1,11 @@
 ### Readme
 
+> [![](https://img.shields.io/badge/Main-projects‌‌‌‌‌‌‌-white)](../projects.md)
+> [![Progress](https://img.shields.io/badge/Demo-✔✔✔☐☐‌‌‌‌‌‌‌-blue)](https://krsln.github.io/NgLootBox/Libraries/Mapper)
 > [![](https://img.shields.io/badge/usage‌‌‌‌‌‌‌-orange)](usage.md)
 
 ### Mapper
-[![Progress](https://img.shields.io/badge/Demo-✔✔✔☐☐‌‌‌‌‌‌‌-blue)](https://krsln.github.io/NgLootBox/Libraries/Mapper)
-[![](https://img.shields.io/badge/Main-projects‌‌‌‌‌‌‌-white)](../projects.md)
+...
 
 #### Dependencies
 ```

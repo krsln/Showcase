@@ -1,5 +1,7 @@
-> [![](https://img.shields.io/badge/Main-readme‌‌‌‌‌‌‌-white)](../../../projects/highlighter/readme.desc.md)
-> [![](https://img.shields.io/badge/readme-white)](../../../projects/highlighter/Docs/readme.md)
+### Usage
+
+> [![](https://img.shields.io/badge/Main-projects‌‌‌‌‌‌‌-white)](../projects.md)
+> [![](https://img.shields.io/badge/readme-white)](readme.md)
 
 ### Highlighter
 
