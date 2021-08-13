@@ -111,7 +111,7 @@ MIT
 @qrsln/loot-box
 MIT
 
-@qrsln/loot-box-test
+@qrsln/loot-box-beta
 MIT
 
 @qrsln/mapper
