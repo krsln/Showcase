@@ -1,11 +1,11 @@
 ### Readme
 
-> [![](https://img.shields.io/badge/Main-readme‌‌‌‌‌‌‌-white)](../../readme.md)
-> [![](https://img.shields.io/badge/usage‌‌‌‌‌‌‌-orange)](usage.md)
+> [![](https://img.shields.io/badge/Main-readme-white)](../../readme.md)
+> [![](https://img.shields.io/badge/usage-orange)](usage.md)
 
 ### Timeline
 
-[![Progress](https://img.shields.io/badge/Demo-✔✔✔✔☐‌‌‌‌‌‌‌-blue)](https://krsln.github.io/NgLootBox/LootBox/Timeline)
+[![Progress](https://img.shields.io/badge/Demo-✔✔✔✔☐-blue)](https://krsln.github.io/NgLootBox/LootBox/Timeline)
 
 #### Dependencies
 
@@ -21,19 +21,19 @@ npm install --save @fortawesome/fontawesome-free
 
 #### Properties
 
-Name | Description
- --- | ---  
-@Input() Animation: string | shake, expand, bounce, jello
-@Input() Layout: string | Default, Side, Snake
-@Input() Layout: string | Branch, Zigzag
+| Name                       | Description                  |
+|----------------------------|------------------------------|
+| @Input() Animation: string | shake, expand, bounce, jello |
+| @Input() Layout: string    | Default, Side, Snake         |
+| @Input() Layout: string    | Branch, Zigzag               |
 
 #### Screenshots
 Default  
-![](../../../../Images/Screenshots/Timeline_Default_2021-08-12.png "Default")  
+![](../../../../Images/LootBox/Timeline_Default_2022-01-27.png "Carousel")
 Side & Side-left  
-![](../../../../Images/Screenshots/Timeline_Side_2021-08-12.png "Side-left")  
+![](../../../../Images/LootBox/Timeline_Side_2022-01-27.png "Carousel")
 Snake  
-![](../../../../Images/Screenshots/Timeline_Snake_2021-08-12.png "Snake")  
+![](../../../../Images/LootBox/Timeline_Snake_2022-01-27.png "Carousel")
 **Betas**  
 Branch  
-![](../../../../Images/Screenshots/Timeline_Branch_2021-08-12.png "Branch")  
+![](../../../../Images/LootBox/Timeline_Branch_2022-01-27.png "Carousel")

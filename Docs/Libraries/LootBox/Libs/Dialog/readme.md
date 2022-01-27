@@ -1,11 +1,11 @@
 ### Readme
 
-> [![](https://img.shields.io/badge/Main-readme‌‌‌‌‌‌‌-white)](../../readme.md)
-> [![](https://img.shields.io/badge/usage‌‌‌‌‌‌‌-orange)](usage.md)
+> [![](https://img.shields.io/badge/Main-readme-white)](../../readme.md)
+> [![](https://img.shields.io/badge/usage-orange)](usage.md)
 
 ### Dialog
 
-[![Progress](https://img.shields.io/badge/Demo-☐☐☐☐☐‌‌‌‌‌‌‌-blue)](https://krsln.github.io/NgLootBox/Beta/Dialog)  
+[![Progress](https://img.shields.io/badge/Demo-☐☐☐☐☐-blue)](https://krsln.github.io/NgLootBox/Beta/Dialog)  
 Dialog is a container to display content in an overlay window. **:p**
 
 
@@ -22,10 +22,10 @@ npm install --save @qrsln/lootstrap
 
 #### Properties
 
-Name | Description
- --- | ---  
-[] | -
+| Name | Description |
+|------|-------------|
+| []   | -           |
 
 #### Screenshots
 
-![](../../../../Images/Screenshots/Dialog_2021-08-12.png "Dialog")
+![](../../../../Images/LootBox/Dialog_2022-01-27.png "Carousel")

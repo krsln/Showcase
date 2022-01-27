@@ -1,6 +1,6 @@
 ### Usage
 
-> [![](https://img.shields.io/badge/Main-readme‌‌‌‌‌‌‌-white)](../../readme.md)
+> [![](https://img.shields.io/badge/Main-readme-white)](../../readme.md)
 > [![](https://img.shields.io/badge/readme-white)](readme.md)
 
 ### Timeline
@@ -48,7 +48,7 @@ ngOnInit()
       },
       Badge: {
         FaClass: 'far fa-flag',
-        BgColor: 'red',
+        // BgColor: 'red',
       } as TimelineBadge
     } as TimelineStep,
     {
@@ -59,7 +59,7 @@ ngOnInit()
       },
       Badge: {
         FaClass: 'fas fa-gift',
-        BgColor: 'blue',
+        // BgColor: 'blue',
       } as TimelineBadge
     } as TimelineStep,
     {
@@ -69,7 +69,7 @@ ngOnInit()
       },
       Badge: {
         FaClass: 'far fa-map',
-        BgColor: 'orange',
+        // BgColor: 'orange',
       } as TimelineBadge
     } as TimelineStep,
     {
@@ -82,7 +82,7 @@ ngOnInit()
       },
       Badge: {
         FaClass: 'far fa-paper-plane',
-        BgColor: 'red',
+        // BgColor: 'red',
       } as TimelineBadge
     } as TimelineStep,
   ];
