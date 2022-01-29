@@ -28,10 +28,9 @@ angular.json
 }
 ````
 
-## Libs
+## Demo
 
 - LootBox
-  - [Breadcrumb](#breadcrumb)
   - [Breadcrumb](#breadcrumb)
   - [Carousel](#carousel)
   - [Dialog](#dialog)
@@ -50,7 +49,6 @@ angular.json
 [![](https://img.shields.io/badge/usage-orange)](Libs/Breadcrumb/usage.md)
 
 ![](../../Images/LootBox/Breadcrumb_2022-01-27.png "Breadcrumb")
-![](../../Images/LootBox/Breadcrumb_Chevron_2022-01-27.png "Breadcrumb")
 
 *[![](https://img.shields.io/badge/Top_⬆-blue)](#lootbox)*
 
@@ -146,3 +144,4 @@ angular.json
 ![](../../Images/LootBox/TreeView_2022-01-29.png "TimeAgo")  
 
 *[![](https://img.shields.io/badge/Top_⬆-blue)](#lootbox)*
+
