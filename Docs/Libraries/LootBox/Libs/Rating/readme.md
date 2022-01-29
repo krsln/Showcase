@@ -1,18 +1,11 @@
-### Readme
+### Rating | Readme
 
-> [![](https://img.shields.io/badge/Main-readme-white)](../../readme.md)
-> [![](https://img.shields.io/badge/usage-orange)](usage.md)
-
-### Rating
-
-[![Progress](https://img.shields.io/badge/Demo-✔✔✔✔☐-blue)](https://krsln.github.io/NgLootBox/LootBox/Rating)
+[![](https://img.shields.io/badge/Main-readme-white)](../../readme.md)
+[![](https://img.shields.io/badge/usage-orange)](usage.md)
+[![Progress](https://img.shields.io/badge/Demo-blue)](https://krsln.github.io/NgLootBox/LootBox/Rating)
 
 #### Dependencies
 
-```scss
-@import "~@qrsln/lootstrap/scss/lootstrap";   
-
-```
 ```shell
 npm install --save @qrsln/lootstrap
 npm install --save @qrsln/tooltip

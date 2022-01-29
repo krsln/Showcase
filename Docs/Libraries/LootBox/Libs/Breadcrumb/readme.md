@@ -1,18 +1,12 @@
-### Readme
+### Breadcrumb | Readme
 
-> [![](https://img.shields.io/badge/Main-readme-white)](../../readme.md)
-> [![](https://img.shields.io/badge/usage-orange)](usage.md)
-
-### Breadcrumb
-
-[![Progress](https://img.shields.io/badge/Demo-✔✔✔☐☐-blue)](https://krsln.github.io/NgLootBox/LootBox/Breadcrumb)  
-Breadcrumbs are navigation elements which indicate a current location on the website. Breadcrumbs show a hierarchy of
-the current location as well
+[![](https://img.shields.io/badge/Main-readme-white)](../../readme.md)
+[![](https://img.shields.io/badge/usage-orange)](usage.md)
+[![Progress](https://img.shields.io/badge/Demo-blue)](https://krsln.github.io/NgLootBox/LootBox/Breadcrumb)
 
 #### Dependencies
-@import "~@qrsln/lootstrap/scss/lootstrap";
 
-```
+```shell
 npm install --save @qrsln/lootstrap
 npm install --save @fortawesome/fontawesome-free
 ```

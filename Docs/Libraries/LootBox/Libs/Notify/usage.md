@@ -1,13 +1,11 @@
-### Usage
+### Notify | Usage
 
-> [![](https://img.shields.io/badge/Main-readme-white)](../../readme.md)
-> [![](https://img.shields.io/badge/readme-white)](readme.md)
+[![](https://img.shields.io/badge/Main-readme-white)](../../readme.md)
+[![](https://img.shields.io/badge/readme-white)](readme.md)
 
-### Notify
-
-Component (ql-notify)  
-~~Directive ()~~  
-Service (NotifyService)
+- [x] Component (ql-notify)
+- [ ] Directive ()
+- [x] Service (NotifyService)
 
 #### app.module.ts
 
@@ -25,12 +23,10 @@ Layout Component
 
 ````angular2html
 <!--Layouts Component-->
-<app-header></app-header>
 <ql-notify></ql-notify>
 <main>
   <router-outlet></router-outlet>
 </main>
-<app-footer></app-footer>
 ````
 
 ```typescript
@@ -38,10 +34,10 @@ Layout Component
 
 ngOnInit()
 {
-  this.notifyService.None('My test message', 5000, NotifyPosition.TopRight);
-  this.notifyService.Success('My test message', 4000, NotifyPosition.TopRight);
-  this.notifyService.Error('My test message', 5000, NotifyPosition.TopRight);
-  this.notifyService.Info('My test message', 8000, NotifyPosition.TopRight);
-  this.notifyService.Warning('My test message', 5000, NotifyPosition.TopRight);
+  this.notifyService.None('My test message', 5000, NotifyPosition.TopCenter);
+  this.notifyService.Success('My test message', 4000, NotifyPosition.TopCenter);
+  this.notifyService.Error('My test message', 5000, NotifyPosition.TopCenter);
+  this.notifyService.Info('My test message', 8000, NotifyPosition.TopCenter);
+  this.notifyService.Warning('My test message', 5000, NotifyPosition.TopCenter);
 }
 ```   

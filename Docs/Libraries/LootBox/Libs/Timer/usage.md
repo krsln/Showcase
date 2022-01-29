@@ -1,18 +1,16 @@
-### Usage
+### Timer | Usage
 
-> [![](https://img.shields.io/badge/Main-readme‌‌‌‌‌‌‌-white)](../../readme.md)
-> [![](https://img.shields.io/badge/readme-white)](readme.md)
+[![](https://img.shields.io/badge/Main-readme-white)](../../readme.md)
+[![](https://img.shields.io/badge/readme-white)](readme.md)
 
-### Timer
-
-Component (ql-countdown, ~~ql-countdown-canvas~~, ~~ql-countdown-svg~~)  
-Directive (qlTimeAgo, ~~qlCountdown~~)  
-~~Service ()~~
+- [x] Component (ql-countdown, ~~ql-countdown-canvas~~, ~~ql-countdown-svg~~)
+- [x] Directive (qlTimeAgo, ~~qlCountdown~~)
+- [ ] Service ()
 
 #### app.module.ts
 
 ```typescript
-import {TimerModule} from '@qrsln/loot-box/Libs/Timers';
+import {TimerModule} from '@qrsln/loot-box/Libs/Timer';
 
 @NgModule({
   imports: [TimerModule, /*...*/],

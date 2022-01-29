@@ -1,13 +1,11 @@
-### Usage
+## Pagination | Usage
 
-> [![](https://img.shields.io/badge/Main-readme-white)](../../readme.md)
-> [![](https://img.shields.io/badge/readme-white)](readme.md)
+[![](https://img.shields.io/badge/Main-readme-white)](../../readme.md)
+[![](https://img.shields.io/badge/readme-white)](readme.md)
 
-## Pagination
-
-Component (ql-pagination)  
-~~Directive ()~~  
-~~Service ()~~
+- [x] Component (ql-pagination)
+- [ ] Directive ()
+- [ ] Service ()
 
 #### app.module.ts
 
@@ -36,19 +34,15 @@ ngOnInit()
 ```   
 
 ```html
-
-<div class="card card-body">
-  <h3 class="card-title">Pagination</h3>
-  <ql-pagination [Items]="Items" [CurrentPage]="Pager.CurrentPage" [ItemPerPage]="5" [MaxSize]="6"
+<div class="Border Rounded P-4 MY-2">
+  <ql-pagination [Items]="Items" [CurrentPage]="Pager.CurrentPage" [ItemPerPage]="5" [MaxSize]="7"
                  (PagedItems)="Pager.Items = $event"
                  (PageChanged)="Pager.CurrentPage=$event"></ql-pagination>
-  <hr>
-  <div ngFor="let item of Pager.Items">
+  <div class="Bg-light MX-5 PX-2" ngFor="let item of Pager.Items">
     <strong>Id:</strong> {{item.Id}}
     <strong>Name:</strong>{{item.Name}}
   </div>
-  <hr>
-  <ql-pagination [Items]="Items" [CurrentPage]="Pager.CurrentPage" [ItemPerPage]="5" [MaxSize]="6"
+  <ql-pagination [Items]="Items" [CurrentPage]="Pager.CurrentPage" [ItemPerPage]="5" [MaxSize]="7"
                  (PagedItems)="Pager.Items = $event"
                  (PageChanged)="Pager.CurrentPage=$event"></ql-pagination>
 </div>

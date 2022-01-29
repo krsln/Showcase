@@ -1,44 +1,51 @@
-### Readme
-
-> [![](https://img.shields.io/badge/Main-projects-white)](../projects.md)
-> [![Progress](https://img.shields.io/badge/Demo-blue)](https://krsln.github.io/NgLootBox/LootBox)
-> [![downloads](https://img.shields.io/npm/dm/@qrsln/loot-box.svg)](https://npmcharts.com/compare/@qrsln/loot-box?minimal=true)
-> [![npm version](https://badge.fury.io/js/%40qrsln%2Floot-box.svg)](https://badge.fury.io/js/%40qrsln%2Floot-box)
-
 ## LootBox
 
-For Angular  
+[![Support](https://img.shields.io/badge/Support-white)](https://www.patreon.com/qrsln)
+[![downloads](https://img.shields.io/npm/dm/@qrsln/loot-box.svg)](https://npmcharts.com/compare/@qrsln/loot-box?minimal=true)
+[![npm version](https://badge.fury.io/js/%40qrsln%2Floot-box.svg)](https://badge.fury.io/js/%40qrsln%2Floot-box)
 
-### Progress
+> For Angular
 
-| *Perfect*                                            | *Done*                                               | *Almost*                                             | *Works*                                              | *Basic*                                              | *Started*                                            |
-|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
-| ![Progress](https://img.shields.io/badge/✔✔✔✔✔-blue) | ![Progress](https://img.shields.io/badge/✔✔✔✔☐-blue) | ![Progress](https://img.shields.io/badge/✔✔✔☐☐-blue) | ![Progress](https://img.shields.io/badge/✔✔☐☐☐-blue) | ![Progress](https://img.shields.io/badge/✔☐☐☐☐-blue) | ![Progress](https://img.shields.io/badge/☐☐☐☐☐-blue) |
-
-## Contents
-
-| Module                    | Progress                                             |
-|---------------------------|------------------------------------------------------|
-| [Breadcrumb](#breadcrumb) | ![Progress](https://img.shields.io/badge/✔✔✔☐☐-blue) |
-| [Carousel](#carousel)     | ![Progress](https://img.shields.io/badge/✔✔☐☐☐-blue) |
-| [Dialog](#dialog)         | ![Progress](https://img.shields.io/badge/✔☐☐☐☐-blue) |
-| [Notify](#notify)         | ![Progress](https://img.shields.io/badge/✔✔✔✔☐-blue) |
-| [Pagination](#pagination) | ![Progress](https://img.shields.io/badge/✔✔☐☐☐-blue) |
-| [Rating](#rating)         | ![Progress](https://img.shields.io/badge/✔✔✔✔☐-blue) |
-| [Spinner](#spinner)       | ![Progress](https://img.shields.io/badge/✔✔✔☐☐-blue) |
-| [Timeline](#timeline)     | ![Progress](https://img.shields.io/badge/✔✔✔✔☐-blue) |
-| [Timer](#timer)           | ![Progress](https://img.shields.io/badge/✔✔✔✔☐-blue) |
+[![](https://img.shields.io/badge/Main-Libraries-white)](../projects.md)
+[![Progress](https://img.shields.io/badge/Demo-blue)](https://krsln.github.io/NgLootBox/LootBox)
 
 ## Quick start
 
 - Install with [npm](https://www.npmjs.com/): `npm install @qrsln/loot-box`
 - Install with [yarn](https://yarnpkg.com/): `yarn add @qrsln/loot-box`
 
-## Details
+## Styles
+
+Powered by [LootStrap](https://github.com/krsln/Lootstrap)
+
+angular.json
+
+````json
+{
+  "styles": [
+    "node_modules/@qrsln/loot-box/Styles/LootStrap.css"
+  ]
+}
+````
+
+## Libs
+
+- LootBox
+  - [Breadcrumb](#breadcrumb)
+  - [Breadcrumb](#breadcrumb)
+  - [Carousel](#carousel)
+  - [Dialog](#dialog)
+  - [Notify](#notify)
+  - [Pagination](#pagination)
+  - [Rating](#rating)
+  - [Spinner](#spinner)
+  - [Timeline](#timeline)
+  - [Timer](#timer)
+  - [TreeView](#treeview)
 
 ### Breadcrumb
 
-[![Progress](https://img.shields.io/badge/Demo-✔✔✔☐☐-blue)](https://krsln.github.io/NgLootBox/LootBox/Breadcrumb)
+[![Progress](https://img.shields.io/badge/Demo-blue)](https://krsln.github.io/NgLootBox/LootBox/Breadcrumb)
 [![](https://img.shields.io/badge/readme-white)](Libs/Breadcrumb/readme.md)
 [![](https://img.shields.io/badge/usage-orange)](Libs/Breadcrumb/usage.md)
 
@@ -49,7 +56,7 @@ For Angular
 
 ### Carousel
 
-[![Progress](https://img.shields.io/badge/Demo-✔✔☐☐☐-blue)](https://krsln.github.io/NgLootBox/LootBox/Carousel)
+[![Progress](https://img.shields.io/badge/Demo-blue)](https://krsln.github.io/NgLootBox/LootBox/Carousel)
 [![](https://img.shields.io/badge/readme-white)](Libs/Carousel/readme.md)
 [![](https://img.shields.io/badge/usage-orange)](Libs/Carousel/usage.md)
 
@@ -59,7 +66,7 @@ For Angular
 
 ### Dialog
 
-[![Progress](https://img.shields.io/badge/Demo-✔☐☐☐☐-blue)](https://krsln.github.io/NgLootBox/LootBox/Dialog)
+[![Progress](https://img.shields.io/badge/Demo-blue)](https://krsln.github.io/NgLootBox/LootBox/Dialog)
 [![](https://img.shields.io/badge/readme-white)](Libs/Dialog/readme.md)
 [![](https://img.shields.io/badge/usage-orange)](Libs/Dialog/usage.md)
 
@@ -69,7 +76,7 @@ For Angular
 
 ### Notify
 
-[![Progress](https://img.shields.io/badge/Demo-✔✔✔✔☐-blue)](https://krsln.github.io/NgLootBox/LootBox/Notify)
+[![Progress](https://img.shields.io/badge/Demo-blue)](https://krsln.github.io/NgLootBox/LootBox/Notify)
 [![](https://img.shields.io/badge/readme-white)](Libs/Notify/readme.md)
 [![](https://img.shields.io/badge/usage-orange)](Libs/Notify/usage.md)
 
@@ -79,7 +86,7 @@ For Angular
 
 ### Pagination
 
-[![Progress](https://img.shields.io/badge/Demo-✔✔☐☐☐-blue)](https://krsln.github.io/NgLootBox/LootBox/Pagination)
+[![Progress](https://img.shields.io/badge/Demo-blue)](https://krsln.github.io/NgLootBox/LootBox/Pagination)
 [![](https://img.shields.io/badge/readme-white)](Libs/Pagination/readme.md)
 [![](https://img.shields.io/badge/usage-orange)](Libs/Pagination/usage.md)
 
@@ -89,7 +96,7 @@ For Angular
 
 ### Rating
 
-[![Progress](https://img.shields.io/badge/Demo-✔✔✔✔☐-blue)](https://krsln.github.io/NgLootBox/LootBox/Rating)
+[![Progress](https://img.shields.io/badge/Demo-blue)](https://krsln.github.io/NgLootBox/LootBox/Rating)
 [![](https://img.shields.io/badge/readme-white)](Libs/Rating/readme.md)
 [![](https://img.shields.io/badge/usage-orange)](Libs/Rating/usage.md)
 
@@ -100,7 +107,7 @@ For Angular
 
 ### Spinner
 
-[![Progress](https://img.shields.io/badge/Demo-✔✔✔☐☐-blue)](https://krsln.github.io/NgLootBox/LootBox/Spinner)
+[![Progress](https://img.shields.io/badge/Demo-blue)](https://krsln.github.io/NgLootBox/LootBox/Spinner)
 [![](https://img.shields.io/badge/readme-white)](Libs/Spinner/readme.md)
 [![](https://img.shields.io/badge/usage-orange)](Libs/Spinner/usage.md)
 
@@ -111,7 +118,7 @@ For Angular
 
 ### Timeline
 
-[![Progress](https://img.shields.io/badge/Demo-✔✔✔✔☐-blue)](https://krsln.github.io/NgLootBox/LootBox/Timeline)
+[![Progress](https://img.shields.io/badge/Demo-blue)](https://krsln.github.io/NgLootBox/LootBox/Timeline)
 [![](https://img.shields.io/badge/readme-white)](Libs/Timeline/readme.md)
 [![](https://img.shields.io/badge/usage-orange)](Libs/Timeline/usage.md)
 
@@ -121,11 +128,21 @@ For Angular
 
 ### Timer
 
-[![Progress](https://img.shields.io/badge/Demo-✔✔✔✔☐-blue)](https://krsln.github.io/NgLootBox/LootBox/Timer)
+[![Progress](https://img.shields.io/badge/Demo-blue)](https://krsln.github.io/NgLootBox/LootBox/Timer)
 [![](https://img.shields.io/badge/readme-white)](Libs/Timer/readme.md)
 [![](https://img.shields.io/badge/usage-orange)](Libs/Timer/usage.md)
 
 ![](../../Images/LootBox/Timer_TimeAgo_2022-01-27.png "TimeAgo")  
 ![](../../Images/LootBox/Timer_Countdown_Svg-new_2022-01-27.png "Countdown svg")
+
+*[![](https://img.shields.io/badge/Top_⬆-blue)](#lootbox)*
+
+### TreeView
+
+[![Progress](https://img.shields.io/badge/Demo-blue)](https://krsln.github.io/NgLootBox/LootBox/TreeView)
+[![](https://img.shields.io/badge/readme-white)](Libs/TreeView/readme.md)
+[![](https://img.shields.io/badge/usage-orange)](Libs/TreeView/usage.md)
+
+![](../../Images/LootBox/TreeView_2022-01-29.png "TimeAgo")  
 
 *[![](https://img.shields.io/badge/Top_⬆-blue)](#lootbox)*

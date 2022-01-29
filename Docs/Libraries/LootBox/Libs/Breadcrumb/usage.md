@@ -1,13 +1,11 @@
-### Usage
+### Breadcrumb | Usage
 
-> [![](https://img.shields.io/badge/Main-readme-white)](../../readme.md)
-> [![](https://img.shields.io/badge/readme-white)](readme.md)
+[![](https://img.shields.io/badge/Main-readme-white)](../../readme.md)
+[![](https://img.shields.io/badge/readme-white)](readme.md)
 
-### Breadcrumb
-
-Component (ql-breadcrumb)  
-~~Directive ()~~  
-~~Service ()~~
+- [x] Component (ql-breadcrumb)
+- [ ] Directive ()
+- [ ] Service ()
 
 #### app.module.ts
 
@@ -22,31 +20,19 @@ import {BreadcrumbModule} from '@qrsln/loot-box/Libs/Breadcrumb';
 #### Usage
 
 ```html
-<div class="Row">
-  <div class="Col-12 Col-lg-12">
-    <p>.Breadcrumb (default)</p>
-    <ql-breadcrumb [Home]="Home" [Items]="Items" [Label]="Label"></ql-breadcrumb>
 
-    <p>[ChevronClass]="'larger'"</p>
-    <ql-breadcrumb [Home]="Home" [Items]="Items" [ChevronClass]="'larger'" [Label]="Label"></ql-breadcrumb>
+<div class="Border Rounded P-4 MT-2">
+  <ql-breadcrumb [Home]="Home" [Items]="Items" [Label]="Label"></ql-breadcrumb>
+  <ql-breadcrumb [Home]="Home" [Items]="Items" [ChevronClass]="'larger'" [Label]="Label"></ql-breadcrumb>
+  <ql-breadcrumb [Home]="Home" [Items]="Items" [ChevronClass]="'vertical'" [Label]="Label"></ql-breadcrumb>
+  <ql-breadcrumb [Home]="Home" [Items]="Items" [ChevronClass]="'bar'" [Label]="Label"></ql-breadcrumb>
+</div>
 
-    <p>[ChevronClass]="'vertical'"</p>
-    <ql-breadcrumb [Home]="Home" [Items]="Items" [ChevronClass]="'vertical'" [Label]="Label"></ql-breadcrumb>
-
-    <p>[ChevronClass]="'bar'"</p>
-    <ql-breadcrumb [Home]="Home" [Items]="Items" [ChevronClass]="'bar'" [Label]="Label"></ql-breadcrumb>
-  </div>
-  <div class="Col-12 Col-lg-12">
-    <h5>Letter Chevron</h5>
-    <p>[Chevron]="'/'"</p>
-    <ql-breadcrumb [Home]="Home" [Items]="Items" [Chevron]="'/'" [Label]="Label"></ql-breadcrumb>
-
-    <p>[Chevron]="'>'"</p>
-    <ql-breadcrumb [Home]="Home" [Items]="Items" [Chevron]="'>'" [Label]="Label"></ql-breadcrumb>
-
-    <p>[Chevron]="'|'"</p>
-    <ql-breadcrumb [Home]="Home" [Items]="Items" [Chevron]="'|'" [Label]="Label"></ql-breadcrumb>
-  </div>
+<h5>Letter Chevron</h5>
+<div class="Border Rounded P-4 MT-2">
+  <ql-breadcrumb [Home]="Home" [Items]="Items" [Chevron]="'/'" [Label]="Label"></ql-breadcrumb>
+  <ql-breadcrumb [Home]="Home" [Items]="Items" [Chevron]="'>'" [Label]="Label"></ql-breadcrumb>
+  <ql-breadcrumb [Home]="Home" [Items]="Items" [Chevron]="'~'" [Label]="Label"></ql-breadcrumb>
 </div>
 
 ```
@@ -59,14 +45,12 @@ import {BreadcrumbModule} from '@qrsln/loot-box/Libs/Breadcrumb';
 ngOnInit()
 {
   this.Home = {FaClass: 'fas fa-home', Url: '/'} as BreadcrumbItem;
-  this.Label = 'Test current page';
+  this.Label = 'FC Barcelona';
   this.Items = [
     {Label: 'Sports'},
-    {Label: 'Football'},
-    {Label: 'Countries', Url: '/Piper'},
+    {Label: 'Football', Url: '/LootBox/Notify'},
     {Label: 'Spain'},
-    {Label: 'Squad'},
-    {Label: 'google', Url: 'https://www.google.com', FaClass: 'fas fa-external-link-alt'}
+    {Label: 'Squad', Url: 'https://www.google.com', FaClass: 'fas fa-external-link-alt'}
   ] as BreadcrumbItem[];
 }
 ```
@@ -74,11 +58,11 @@ ngOnInit()
 #### Usage Auto
 
 ```html
-
-<main>
+<!--layout.component-->
+<div class="Container">
   <ql-breadcrumb [Home]="Home" [Items]="Items" [ChevronClass]="'larger'"></ql-breadcrumb>
-  <router-outlet></router-outlet>
-</main> 
+</div>
+
 ```
 
 ```typescript
@@ -104,7 +88,7 @@ const routes: Routes = [
 export class AppComponent implements OnInit {
   readonly ROUTE_DATA_BREADCRUMB = 'breadcrumb';
   Home: BreadcrumbItem = {FaClass: 'fas fa-home', Url: '/'} as BreadcrumbItem;
-  Items: BreadcrumbItem[];
+  Items: BreadcrumbItem[] = [];
 
   constructor(private router: Router, private activatedRoute: ActivatedRoute) {
   }
@@ -116,7 +100,7 @@ export class AppComponent implements OnInit {
       .subscribe(() => this.Items = this.createBreadcrumbs(this.activatedRoute.root));
   }
 
-  private createBreadcrumbs(route: ActivatedRoute, url: string = '', breadcrumbs: BreadcrumbItem[] = []): BreadcrumbItem[] {
+  private createBreadcrumbs(route: ActivatedRoute, url: string = '', breadcrumbs: BreadcrumbItem[] = []): any {
     const children: ActivatedRoute[] = route.children;
 
     if (children.length === 0) {
@@ -133,10 +117,10 @@ export class AppComponent implements OnInit {
       const label = child.snapshot.data[this.ROUTE_DATA_BREADCRUMB];
       if (!!label) {
         breadcrumbs.push({Label: label, Url: url} as BreadcrumbItem);
+        // console.log(breadcrumbs);
       }
       return this.createBreadcrumbs(child, url, breadcrumbs);
     }
-
   }
 } 
 ```

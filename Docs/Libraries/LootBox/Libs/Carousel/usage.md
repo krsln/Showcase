@@ -1,13 +1,11 @@
-### Usage
+### Carousel | Usage
 
-> [![](https://img.shields.io/badge/Main-readme-white)](../../readme.md)
-> [![](https://img.shields.io/badge/readme-white)](readme.md)
+[![](https://img.shields.io/badge/Main-readme-white)](../../readme.md)
+[![](https://img.shields.io/badge/readme-white)](readme.md)
 
-### Carousel
-
-Component (qlt-carousel)  
-~~Directive ()~~  
-~~Service ()~~
+- [x] Component (ql-carousel)
+- [ ] Directive ()
+- [ ] Service ()
 
 #### app.module.ts
 
@@ -23,18 +21,13 @@ import {CarouselModule} from '@qrsln/loot-box/Libs/Carousel';
 
 ```html
 
-<div class="row">
-  <div class="col-12 col-lg-8 mb-2">
-    <ql-carousel [images]="Images" [showInfo]="true"
-                 [showCaptions]="ShowCaptions"
-                 [showNavigationArrows]="ShowArrows"
-                 [showNavigationIndicators]="ShowIndicators"
-                 [interval]="Interval" [pauseOnHover]="PauseOnHover"></ql-carousel>
-  </div>
-  <div class="col-12 col-lg-4 mb-2">
-    <ql-carousel [images]="Images"></ql-carousel>
-  </div>
-</div>
+<ql-carousel [images]="Images" [showInfo]="true"
+             [showCaptions]="ShowCaptions"
+             [showNavigationArrows]="ShowArrows"
+             [showNavigationIndicators]="ShowIndicators"
+             [interval]="Interval" [pauseOnHover]="PauseOnHover"></ql-carousel>
+
+<ql-carousel [images]="Images" [showCaptions]="false" [showNavigationIndicators]="false"></ql-carousel>
 
 ``` 
 
@@ -51,10 +44,10 @@ ngOnInit()
 {
   this.Images = [];
 
-  [0, 1, 2, 3, 4, 5, 6].forEach((item, i) => this.Images.push({
+  [0, 2, 4, 6, 8, 10, 12].forEach((item, index) => this.Images.push({
     Caption: 'Caption ' + item.toString(),
     Description: 'Description Description ' + item.toString(),
-    Src: `https://source.unsplash.com/random/962x400?image=${item}`
+    Src: `https://source.unsplash.com/random/${960 + item}x${400 + item / 2}?sig=${index}`
     // Src: `https://picsum.photos/600/400/?image=${item}`
   } as CarouselItem));
 }

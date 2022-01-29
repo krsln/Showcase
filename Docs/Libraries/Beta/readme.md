@@ -15,7 +15,6 @@ For Angular
 | [PickerDate](#pickerdate)   | ![Progress](https://img.shields.io/badge/✔☐☐☐☐-blue) |
 | [PickerPax](#pickerpax)     | ![Progress](https://img.shields.io/badge/✔☐☐☐☐-blue) |
 | [Slider](#slider)           | ![Progress](https://img.shields.io/badge/✔☐☐☐☐-blue) |
-| [TreeView](#treeview)       | ![Progress](https://img.shields.io/badge/✔☐☐☐☐-blue) |
 | [UI](#ui)                   | ![Progress](https://img.shields.io/badge/✔☐☐☐☐-blue) |
 
 ## Details
@@ -49,14 +48,6 @@ For Angular
 [![Progress](https://img.shields.io/badge/✔☐☐☐☐-blue)](https://krsln.github.io/NgLootBox/LootBox/Breadcrumb)
 [![](https://img.shields.io/badge/readme-white)](Libs/Slider/readme.md)
 [![](https://img.shields.io/badge/usage-orange)](Libs/Slider/usage.md)
-
-*[![](https://img.shields.io/badge/Top_⬆-blue)](#lootbox-beta)*
-
-### TreeView
-
-[![Progress](https://img.shields.io/badge/✔☐☐☐☐-blue)](https://krsln.github.io/NgLootBox/LootBox/Breadcrumb)
-[![](https://img.shields.io/badge/readme-white)](Libs/TreeView/readme.md)
-[![](https://img.shields.io/badge/usage-orange)](Libs/TreeView/usage.md)
 
 *[![](https://img.shields.io/badge/Top_⬆-blue)](#lootbox-beta)*
 

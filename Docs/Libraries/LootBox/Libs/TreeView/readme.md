@@ -1,15 +1,13 @@
-### Notify | Readme
+### TreeView | Readme
 
 [![](https://img.shields.io/badge/Main-readme-white)](../../readme.md)
 [![](https://img.shields.io/badge/usage-orange)](usage.md)
-[![Progress](https://img.shields.io/badge/Demo-blue)](https://krsln.github.io/NgLootBox/LootBox/Notify)
+[![Progress](https://img.shields.io/badge/Demo-blue)](https://krsln.github.io/NgLootBox/LootBox/TreeView)
 
 #### Dependencies
 
 ```shell
-npm install --save @qrsln/utils
 npm install --save @qrsln/lootstrap
-npm install @fortawesome/fontawesome-free 
 ```
 
 #### Properties
@@ -19,5 +17,5 @@ npm install @fortawesome/fontawesome-free
 | []   | -           |
 
 #### Screenshots
+![](../../../../Images/LootBox/TreeView_2022-01-29.png "TimeAgo")  
 
-![](../../../../Images/LootBox/Notify_2022-01-27.png "Carousel")

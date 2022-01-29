@@ -1,19 +1,12 @@
-### Readme
+### Timer | Readme
 
-> [![](https://img.shields.io/badge/Main-readme‌‌‌‌‌‌‌-white)](../../readme.md)
-> [![](https://img.shields.io/badge/usage‌‌‌‌‌‌‌-orange)](usage.md)
-
-### Timer
-
-[![Progress](https://img.shields.io/badge/Demo-✔✔✔✔☐‌‌‌‌‌‌‌-blue)](https://krsln.github.io/NgLootBox/LootBox/Timers)
+[![](https://img.shields.io/badge/Main-readme-white)](../../readme.md)
+[![](https://img.shields.io/badge/usage-orange)](usage.md)
+[![Progress](https://img.shields.io/badge/Demo-blue)](https://krsln.github.io/NgLootBox/LootBox/Timer)
 
 #### Dependencies
 
-```scss
-@import "~@qrsln/lootstrap/scss/lootstrap";   
-```
-
-```
+```shell
 npm install --save @qrsln/lootstrap
 ```
 
@@ -23,32 +16,29 @@ npm install --save @qrsln/lootstrap
 #### Properties
 _TimeAgo Directive_
 
-Name | Description
- --- | ---  
-@Input() Date: Date | -
-@Input() Locale: string | Not working yet
-@Input() Suffix: boolean | ago/later suffixes
+| Name                     | Description        |
+|--------------------------|--------------------|
+| @Input() Date: Date      | -                  |
+| @Input() Locale: string  | Not working yet    |
+| @Input() Suffix: boolean | ago/later suffixes |
 
 _Countdown_
 
-Name | Description
---- | ---  
-@Input() Type: string | Text (default) Canvas Svg
-@Input() Classes: string | Css classes
-@Input() Date: Date | -
-@Input() Detailed: { day: number, hrs: number, min: number, sec: number }] | -
-
-#### Issues
-Mobile browser: canvas size
-
+| Name                                                                       | Description               |
+|----------------------------------------------------------------------------|---------------------------|
+| @Input() Type: string                                                      | Text (default) Canvas Svg |
+| @Input() Classes: string                                                   | Css classes               |
+| @Input() Date: Date                                                        | -                         |
+| @Input() Detailed: { day: number, hrs: number, min: number, sec: number }] | -                         |
+ 
 #### Screenshots
 TimeAgo  
-![](../../../../Images/Screenshots/Timer_TimeAgo_2021-08-12.png "TimeAgo")  
+![](../../../../Images/LootBox/Timer_TimeAgo_2022-01-27.png "TimeAgo")  
 Countdown-Text    
-![](../../../../Images/Screenshots/Timer_Countdown-Text_2021-08-12.png "Countdown-Text")  
+![](../../../../Images/LootBox/Timer_Countdown_Text_2022-01-27.png "Countdown-Text")  
 Countdown-Svg  
-![](../../../../Images/Screenshots/Timer_Countdown-Svg_2021-08-12.png "Countdown-Svg")  
+![](../../../../Images/LootBox/Timer_Countdown_Svg_2022-01-27.png "Countdown-Svg")  
 Countdown-Svg-new  
-![](../../../../Images/Screenshots/Timer_Countdown-SvgNew_2021-08-12.png "Countdown-Svg-new")  
+![](../../../../Images/LootBox/Timer_Countdown_Svg-new_2022-01-27.png "Countdown-Svg-new")  
 Countdown-Canvas  
-![](../../../../Images/Screenshots/Timer_Countdown-Canvas_2021-08-12.png "Countdown-Canvas")  
+![](../../../../Images/LootBox/Timer_Countdown_Canvas_2022-01-27.png "Countdown-Canvas")  
