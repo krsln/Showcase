@@ -1,26 +1,28 @@
-### Readme
+## Mapper
 
-> [![](https://img.shields.io/badge/Main-projects‌‌‌‌‌‌‌-white)](../projects.md)
-> [![Progress](https://img.shields.io/badge/Demo-✔✔✔☐☐‌‌‌‌‌‌‌-blue)](https://krsln.github.io/NgLootBox/Libraries/Mapper)
-> [![](https://img.shields.io/badge/usage‌‌‌‌‌‌‌-orange)](usage.md)
+[![Support](https://img.shields.io/badge/Support-white)](https://www.patreon.com/qrsln)
+[![downloads](https://img.shields.io/npm/dm/@qrsln/mapper.svg)](https://npmcharts.com/compare/@qrsln/mapper?minimal=true)
+[![npm version](https://badge.fury.io/js/%40qrsln%2Fmapper.svg)](https://badge.fury.io/js/%40qrsln%2Fmapper)
 
-### Mapper
-...
+> For Angular
+
+[![Demo](https://img.shields.io/badge/Demo-blue)](https://krsln.github.io/Showcase/Libraries/Mapper)
+[![](https://img.shields.io/badge/Main-readme-white)](../projects.md)
+[![](https://img.shields.io/badge/usage-orange)](usage.md)
 
 #### Dependencies
-```
+
+```shell
 npm install @angular/google-maps 
 ```
 
 #### Properties
 
-Name | Description
- --- | ---  
-[Options:MapperOption] | Check usage page
+| Name                   | Description      |
+|------------------------|------------------|
+| [Options:MapperOption] | Check usage page |
 
 ### Screenshots
 
-Mapper Basic  
-![](../../Images/Screenshots/Mapper_1_2021-08-12.png "Mapper Basic")  
-Mapper RouteMap
-![](../../Images/Screenshots/Mapper_2_2021-08-12.png "Mapper RouteMap")  
+![](../../Images/Mapper/Mapper_Basic_2022-01-30.png "Mapper Basic")  
+![](../../Images/Mapper/Mapper_RouteMap_2022-01-30.png "Mapper RouteMap")  
