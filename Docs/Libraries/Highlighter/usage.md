@@ -1,13 +1,12 @@
-### Usage
+### Highlighter | Usage
 
-> [![](https://img.shields.io/badge/Main-projects‌‌‌‌‌‌‌-white)](../projects.md)
-> [![](https://img.shields.io/badge/readme-white)](readme.md)
+[![Demo](https://img.shields.io/badge/Demo-blue)](https://krsln.github.io/Showcase/Libraries/Highlighter)
+[![](https://img.shields.io/badge/Main-readme-white)](../projects.md)
+[![](https://img.shields.io/badge/readme-white)](readme.md)
 
-### Highlighter
-
-Component (~~ql-highlighter~~)  
-Directive (qlHighlighter)  
-~~Service ()~~
+- [x] Component (~~ql-highlighter~~)
+- [x] Directive (qlHighlighter)
+- [ ] Service ()
 
 #### app.module.ts
 
@@ -22,37 +21,14 @@ import {HighlighterModule} from '@qrsln/highlighter';
 #### Usage
 
 ```html
-<!--in tags-->
-<div class="card card-body mb-2">
-    <label for="C#">C#</label>
-    <textarea id="C#" qlHighlighter [theme]="'vs2015'" [lang]="'typescript'" [lineNumbers]="true">
-using System.IO.Compression;
-
-#pragma warning disable 414, 3021
-
-namespace MyApplication
-{
-    [Obsolete("...")]
-    class Program : IInterface
-    {
-        public static List<int> JustDoIt(int count)
-        {
-            Span<int> numbers = stackalloc int[length];
-            Console.WriteLine($"Hello {Name}!");
-            return new List<int>(new int[] { 1, 2, 3 })
-        }
-    }
-}
-    </textarea>
-</div>
-<!--or-->
-<div class="card card-body mb-2">
-  <label for="TypeScript">TypeScript</label>
-  <textarea id="TypeScript" qlHighlighter [theme]="'default'" [code]="sample" [lang]="'typescript'" [lineNumbers]="true"></textarea>
-</div>
-```
-```typescript
-sample = `
+<!--using div [code]="CODES.Typescript" or [innerHtml]="CODES.Typescript"-->
+<div qlHighlighter [theme]="selectedTheme" [lang]="'typescript'" [lineNumbers]="lineNumbers"
+     [innerHtml]="CODES.Typescript"></div>
+<!--using textarea [code]="CODES.Typescript" or [innerHtml]="CODES.Typescript"-->
+<textarea qlHighlighter [theme]="selectedTheme" [lang]="'csharp'" [lineNumbers]="lineNumbers"
+          [code]="CODES.Typescript"></textarea>
+<!--using textarea innerHTML-->
+<textarea qlHighlighter [theme]="selectedTheme" [lang]="'typescript'" [lineNumbers]="lineNumbers">
 class MyClass {
   public static myValue: string;
   constructor(init: string) {
@@ -67,5 +43,29 @@ module MyModule {
 }
 declare magicNumber number;
 myArray.forEach(() => { }); // fat arrow syntax
-  `;
+</textarea>
+```
+
+```typescript
+selectedTheme = 'stackoverflow-dark';
+lineNumbers = false;
+
+CODES = {
+  Typescript: `
+class MyClass {
+  public static myValue: string;
+  constructor(init: string) {
+    this.myValue = init;
+  }
+}
+import fs = require("fs");
+module MyModule {
+  export interface MyInterface extends Other {
+    myProperty: any;
+  }
+}
+declare magicNumber number;
+myArray.forEach(() => { }); // fat arrow syntax
+`,
+};
 ```   
