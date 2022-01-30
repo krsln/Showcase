@@ -7,7 +7,7 @@
 > For Angular
 
 [![](https://img.shields.io/badge/Main-Libraries-white)](../projects.md)
-[![Progress](https://img.shields.io/badge/Demo-blue)](https://krsln.github.io/NgLootBox/LootBox)
+[![Progress](https://img.shields.io/badge/Demo-blue)](https://krsln.github.io/Showcase/LootBox)
 
 ## Quick start
 
@@ -28,7 +28,7 @@ angular.json
 }
 ````
 
-## Demo
+## Showcase
 
 - LootBox
   - [Breadcrumb](#breadcrumb)
@@ -44,7 +44,7 @@ angular.json
 
 ### Breadcrumb
 
-[![Progress](https://img.shields.io/badge/Demo-blue)](https://krsln.github.io/NgLootBox/LootBox/Breadcrumb)
+[![Progress](https://img.shields.io/badge/Demo-blue)](https://krsln.github.io/Showcase/LootBox/Breadcrumb)
 [![](https://img.shields.io/badge/readme-white)](Libs/Breadcrumb/readme.md)
 [![](https://img.shields.io/badge/usage-orange)](Libs/Breadcrumb/usage.md)
 
@@ -54,7 +54,7 @@ angular.json
 
 ### Carousel
 
-[![Progress](https://img.shields.io/badge/Demo-blue)](https://krsln.github.io/NgLootBox/LootBox/Carousel)
+[![Progress](https://img.shields.io/badge/Demo-blue)](https://krsln.github.io/Showcase/LootBox/Carousel)
 [![](https://img.shields.io/badge/readme-white)](Libs/Carousel/readme.md)
 [![](https://img.shields.io/badge/usage-orange)](Libs/Carousel/usage.md)
 
@@ -64,7 +64,7 @@ angular.json
 
 ### Dialog
 
-[![Progress](https://img.shields.io/badge/Demo-blue)](https://krsln.github.io/NgLootBox/LootBox/Dialog)
+[![Progress](https://img.shields.io/badge/Demo-blue)](https://krsln.github.io/Showcase/LootBox/Dialog)
 [![](https://img.shields.io/badge/readme-white)](Libs/Dialog/readme.md)
 [![](https://img.shields.io/badge/usage-orange)](Libs/Dialog/usage.md)
 
@@ -74,7 +74,7 @@ angular.json
 
 ### Notify
 
-[![Progress](https://img.shields.io/badge/Demo-blue)](https://krsln.github.io/NgLootBox/LootBox/Notify)
+[![Progress](https://img.shields.io/badge/Demo-blue)](https://krsln.github.io/Showcase/LootBox/Notify)
 [![](https://img.shields.io/badge/readme-white)](Libs/Notify/readme.md)
 [![](https://img.shields.io/badge/usage-orange)](Libs/Notify/usage.md)
 
@@ -84,7 +84,7 @@ angular.json
 
 ### Pagination
 
-[![Progress](https://img.shields.io/badge/Demo-blue)](https://krsln.github.io/NgLootBox/LootBox/Pagination)
+[![Progress](https://img.shields.io/badge/Demo-blue)](https://krsln.github.io/Showcase/LootBox/Pagination)
 [![](https://img.shields.io/badge/readme-white)](Libs/Pagination/readme.md)
 [![](https://img.shields.io/badge/usage-orange)](Libs/Pagination/usage.md)
 
@@ -94,7 +94,7 @@ angular.json
 
 ### Rating
 
-[![Progress](https://img.shields.io/badge/Demo-blue)](https://krsln.github.io/NgLootBox/LootBox/Rating)
+[![Progress](https://img.shields.io/badge/Demo-blue)](https://krsln.github.io/Showcase/LootBox/Rating)
 [![](https://img.shields.io/badge/readme-white)](Libs/Rating/readme.md)
 [![](https://img.shields.io/badge/usage-orange)](Libs/Rating/usage.md)
 
@@ -105,7 +105,7 @@ angular.json
 
 ### Spinner
 
-[![Progress](https://img.shields.io/badge/Demo-blue)](https://krsln.github.io/NgLootBox/LootBox/Spinner)
+[![Progress](https://img.shields.io/badge/Demo-blue)](https://krsln.github.io/Showcase/LootBox/Spinner)
 [![](https://img.shields.io/badge/readme-white)](Libs/Spinner/readme.md)
 [![](https://img.shields.io/badge/usage-orange)](Libs/Spinner/usage.md)
 
@@ -116,7 +116,7 @@ angular.json
 
 ### Timeline
 
-[![Progress](https://img.shields.io/badge/Demo-blue)](https://krsln.github.io/NgLootBox/LootBox/Timeline)
+[![Progress](https://img.shields.io/badge/Demo-blue)](https://krsln.github.io/Showcase/LootBox/Timeline)
 [![](https://img.shields.io/badge/readme-white)](Libs/Timeline/readme.md)
 [![](https://img.shields.io/badge/usage-orange)](Libs/Timeline/usage.md)
 
@@ -126,7 +126,7 @@ angular.json
 
 ### Timer
 
-[![Progress](https://img.shields.io/badge/Demo-blue)](https://krsln.github.io/NgLootBox/LootBox/Timer)
+[![Progress](https://img.shields.io/badge/Demo-blue)](https://krsln.github.io/Showcase/LootBox/Timer)
 [![](https://img.shields.io/badge/readme-white)](Libs/Timer/readme.md)
 [![](https://img.shields.io/badge/usage-orange)](Libs/Timer/usage.md)
 
@@ -137,7 +137,7 @@ angular.json
 
 ### TreeView
 
-[![Progress](https://img.shields.io/badge/Demo-blue)](https://krsln.github.io/NgLootBox/LootBox/TreeView)
+[![Progress](https://img.shields.io/badge/Demo-blue)](https://krsln.github.io/Showcase/LootBox/TreeView)
 [![](https://img.shields.io/badge/readme-white)](Libs/TreeView/readme.md)
 [![](https://img.shields.io/badge/usage-orange)](Libs/TreeView/usage.md)
 

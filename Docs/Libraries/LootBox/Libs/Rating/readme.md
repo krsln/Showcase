@@ -23,6 +23,7 @@ Star | Heart | Text | Emoji
 | @Input() ShowValue: boolean   | Show rating Value                                               |
 | @Input() Fraction: boolean    | allows to click half of unit of rate                            |
 | @Input() Pattern: string      | Set the Pattern                                                 |
+| @Input() BgColor: string      | Dynamic color (rgb, hex)                                        |
 | @Input() Color: string        | Dynamic color (rgb, hex)                                        |
 | @Input() MaxItem: number      | Max rating items                                                |
 | @Input() Rate: number         | Current rating                                                  |

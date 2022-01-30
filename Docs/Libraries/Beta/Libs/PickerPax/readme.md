@@ -1,11 +1,11 @@
 ### Readme
 
-> [![](https://img.shields.io/badge/Main-readme‌‌‌‌‌‌‌-white)](../../readme.md)
-> [![](https://img.shields.io/badge/usage‌‌‌‌‌‌‌-orange)](usage.md)
+> [![](https://img.shields.io/badge/Main-readme-white)](../../readme.md)
+> [![](https://img.shields.io/badge/usage-orange)](usage.md)
 
 ### PickerPax
 
-[![Progress](https://img.shields.io/badge/Demo-✔☐☐☐☐‌‌‌‌‌‌‌-blue)](https://krsln.github.io/NgLootBox/Beta/PickerPax)
+[![Progress](https://img.shields.io/badge/Demo-blue)](https://krsln.github.io/Showcase/Beta/PickerPax)
 
 #### Dependencies
 @import "~@qrsln/lootstrap/scss/lootstrap";  
@@ -22,11 +22,11 @@ npm install --save @fortawesome/fontawesome-free
 
 #### Properties
 
-Name | Description
- --- | ---  
-PaxList: PaxListItem[] | Check usage page
-Label: string | default value is 'Passengers'
-OnChanged: EventEmitter<Pax[]> | {Code: string; Value: number;}[]
+| Name                           | Description                      |
+|--------------------------------|----------------------------------|
+| PaxList: PaxListItem[]         | Check usage page                 |
+| Label: string                  | default value is 'Passengers'    |
+| OnChanged: EventEmitter<Pax[]> | {Code: string; Value: number;}[] |
 
 #### Screenshots
 

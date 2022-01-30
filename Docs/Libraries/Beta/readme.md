@@ -1,27 +1,22 @@
-### Readme
-
-> [![](https://img.shields.io/badge/Main-projects-white)](../projects.md)
-> [![Progress](https://img.shields.io/badge/Demo-blue)](https://krsln.github.io/NgLootBox/Beta)
-
 ## LootBox Beta
 
-For Angular
+> For Angular
 
-## Contents
+[![](https://img.shields.io/badge/Main-Libraries-white)](../projects.md)
+[![Progress](https://img.shields.io/badge/Demo-blue)](https://krsln.github.io/Showcase/Beta)
 
-| Module                      | Progress                                             |
-|-----------------------------|------------------------------------------------------|
-| [PickerColor](#pickercolor) | ![Progress](https://img.shields.io/badge/✔☐☐☐☐-blue) |
-| [PickerDate](#pickerdate)   | ![Progress](https://img.shields.io/badge/✔☐☐☐☐-blue) |
-| [PickerPax](#pickerpax)     | ![Progress](https://img.shields.io/badge/✔☐☐☐☐-blue) |
-| [Slider](#slider)           | ![Progress](https://img.shields.io/badge/✔☐☐☐☐-blue) |
-| [UI](#ui)                   | ![Progress](https://img.shields.io/badge/✔☐☐☐☐-blue) |
+## Showcase
 
-## Details
+- LootBox
+  - [PickerColor](#pickercolor)
+  - [PickerDate](#pickerdate)
+  - [PickerPax](#pickerpax)
+  - [Slider](#slider)
+  - [UI](#ui)
 
 ### PickerColor
 
-[![Progress](https://img.shields.io/badge/✔☐☐☐☐-blue)](https://krsln.github.io/NgLootBox/LootBox/Breadcrumb)
+[![Progress](https://img.shields.io/badge/Demo-blue)](https://krsln.github.io/Showcase/Beta/PickerColor)
 [![](https://img.shields.io/badge/readme-white)](Libs/PickerColor/readme.md)
 [![](https://img.shields.io/badge/usage-orange)](Libs/PickerColor/usage.md)
 
@@ -29,7 +24,7 @@ For Angular
 
 ### PickerDate
 
-[![Progress](https://img.shields.io/badge/✔☐☐☐☐-blue)](https://krsln.github.io/NgLootBox/LootBox/Breadcrumb)
+[![Progress](https://img.shields.io/badge/Demo-blue)](https://krsln.github.io/Showcase/Beta/PickerDate)
 [![](https://img.shields.io/badge/readme-white)](Libs/PickerDate/readme.md)
 [![](https://img.shields.io/badge/usage-orange)](Libs/PickerDate/usage.md)
 
@@ -37,7 +32,7 @@ For Angular
 
 ### PickerPax
 
-[![Progress](https://img.shields.io/badge/✔☐☐☐☐-blue)](https://krsln.github.io/NgLootBox/LootBox/Breadcrumb)
+[![Progress](https://img.shields.io/badge/Demo-blue)](https://krsln.github.io/Showcase/Beta/PickerPax)
 [![](https://img.shields.io/badge/readme-white)](Libs/PickerPax/readme.md)
 [![](https://img.shields.io/badge/usage-orange)](Libs/PickerPax/usage.md)
 
@@ -45,16 +40,15 @@ For Angular
 
 ### Slider
 
-[![Progress](https://img.shields.io/badge/✔☐☐☐☐-blue)](https://krsln.github.io/NgLootBox/LootBox/Breadcrumb)
+[![Progress](https://img.shields.io/badge/Demo-blue)](https://krsln.github.io/Showcase/Beta/Slider)
 [![](https://img.shields.io/badge/readme-white)](Libs/Slider/readme.md)
 [![](https://img.shields.io/badge/usage-orange)](Libs/Slider/usage.md)
 
 *[![](https://img.shields.io/badge/Top_⬆-blue)](#lootbox-beta)*
 
-
 ### UI
 
-[![Progress](https://img.shields.io/badge/✔☐☐☐☐-blue)](https://krsln.github.io/NgLootBox/LootBox/Breadcrumb)
+[![Progress](https://img.shields.io/badge/Demo-blue)](https://krsln.github.io/Showcase/Beta/UI)
 [![](https://img.shields.io/badge/readme-white)](Libs/UI/readme.md)
 [![](https://img.shields.io/badge/usage-orange)](Libs/UI/usage.md)
 

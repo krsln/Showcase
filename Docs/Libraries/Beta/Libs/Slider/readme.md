@@ -1,24 +1,22 @@
 ### Readme
 
-> [![](https://img.shields.io/badge/Main-readme‌‌‌‌‌‌‌-white)](../../readme.md)
-> [![](https://img.shields.io/badge/usage‌‌‌‌‌‌‌-orange)](usage.md)
+> [![](https://img.shields.io/badge/Main-readme-white)](../../readme.md)
+> [![](https://img.shields.io/badge/usage-orange)](usage.md)
 
 ### Sliders
 
-[![Progress](https://img.shields.io/badge/Demo-✔☐☐☐☐‌‌‌‌‌‌‌-blue)](https://krsln.github.io/NgLootBox/Beta/Slider)
+[![Progress](https://img.shields.io/badge/Demo-blue)](https://krsln.github.io/NgLootBox/Beta/Slider)
 
-#### Dependencies
-@import "~@qrsln/lootstrap/scss/lootstrap";
-
+#### Dependencies 
 ```
 npm install --save @qrsln/lootstrap
 ```
 
 #### Properties
 
-Name | Description
- --- | ---  
-[] | -
+| Name | Description |
+|------|-------------|
+| []   | -           |
 
 #### Screenshots
 

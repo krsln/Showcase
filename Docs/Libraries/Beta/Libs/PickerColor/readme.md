@@ -5,7 +5,7 @@
 
 ### PickerColor
 
-[![Progress](https://img.shields.io/badge/Demo-blue)](https://krsln.github.io/NgLootBox/Beta/PickerColor)
+[![Progress](https://img.shields.io/badge/Demo-blue)](https://krsln.github.io/Showcase/Beta/PickerColor)
 
 #### Dependencies
 ```shell
