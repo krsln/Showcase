@@ -1,12 +1,12 @@
-### Usage
+### Tooltip | Usage
 
-> [![](https://img.shields.io/badge/Main-projects‌‌‌‌‌‌‌-white)](../projects.md)
-> [![](https://img.shields.io/badge/readme-white)](readme.md)
+[![Demo](https://img.shields.io/badge/Demo-blue)](https://krsln.github.io/Showcase/Libraries/Tooltip)
+[![](https://img.shields.io/badge/Main-projects-white)](../projects.md)
+[![](https://img.shields.io/badge/readme-white)](readme.md)
 
-### Tooltip
-~~Component ()~~  
-Directive (qlTooltip)  
-~~Service ()~~
+- [x] Component (~~ql-tooltip~~)
+- [x] Directive (qlTooltip)
+- [ ] Service ()
 
 #### app.module.ts
 
@@ -20,19 +20,15 @@ import {TooltipModule} from '@qrsln/tooltip';
 
 #### Usage
 ```html
-<div class="col-12 col-lg-6 mb-2">
-  <p>[theme]="'silver'" default</p>
-  <button qlTooltip="Tooltip on right" placement="right" [duration]="dur" class="btn btn-outline-dark mr-1">
-    Right
-  </button>
-  <button qlTooltip="Tooltip on top" placement="top" [duration]="dur" class="btn btn-outline-dark mr-1">
-    Top
-  </button>
-  <button qlTooltip="Tooltip on bottom" placement="bottom" [duration]="dur" class="btn btn-outline-dark mr-1">
-    Bottom
-  </button>
-  <button qlTooltip="Tooltip on left" placement="left" [duration]="dur" class="btn btn-outline-dark mr-1">
-    Left
-  </button>
+<div class="Border Rounded P-4 MY-2">
+  <button class="Btn Btn-outline-dark ME-2" qlTooltip="Tooltip on Top" placement="top" [outline]="true" [duration]="500" [rounded]="true" [theme]="'primary'"> Primary </button>
+  <button class="Btn Btn-outline-dark ME-2" qlTooltip="Tooltip on Top" placement="top" [outline]="true" [duration]="500" [rounded]="true" [theme]="'secondary'"> Secondary </button>
+  <button class="Btn Btn-outline-dark ME-2" qlTooltip="Tooltip on Top" placement="top" [outline]="true" [duration]="500" [rounded]="true" [theme]="'success'"> Success </button>
+  <button class="Btn Btn-outline-dark ME-2" qlTooltip="Tooltip on Top" placement="top" [outline]="true" [duration]="500" [rounded]="true" [theme]="'info'"> Info </button>
+  <button class="Btn Btn-outline-dark ME-2" qlTooltip="Tooltip on Top" placement="top" [outline]="true" [duration]="500" [rounded]="true" [theme]="'warning'"> Warning </button>
+  <button class="Btn Btn-outline-dark ME-2" qlTooltip="Tooltip on Top" placement="top" [outline]="true" [duration]="500" [rounded]="true" [theme]="'danger'"> Danger </button>
+  <button class="Btn Btn-outline-dark ME-2" qlTooltip="Tooltip on Top" placement="top" [outline]="true" [duration]="500" [rounded]="true" [theme]="'light'"> Light </button>
+  <button class="Btn Btn-outline-dark ME-2" qlTooltip="Tooltip on Top" placement="top" [outline]="true" [duration]="500" [rounded]="true" [theme]="'dark'"> Dark </button>
+  <button class="Btn Btn-outline-dark ME-2" qlTooltip="Tooltip on Top" placement="top" [outline]="true" [duration]="500" [rounded]="true" [theme]="'night'"> Night </button>
 </div>
 ``` 
