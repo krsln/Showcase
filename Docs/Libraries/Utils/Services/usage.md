@@ -23,7 +23,7 @@ import {WebStorage, DomService} from '@qrsln/Utils/Services';
 ###### WebStorage
 
 ````html
-  <div class="Form W-50">
+<div class="Form W-50">
   <input type="text" class="Form-input" [(ngModel)]="resultStorage" readonly disabled>
   <label class="Form-label"></label>
 </div>
