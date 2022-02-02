@@ -110,7 +110,7 @@ import {TetsComponent} from './';
   selector: 'input[appTest]',
   providers: [DomService]
 })
-export class PickerColorDirective implements OnDestroy {
+export class TestDirective implements OnDestroy {
 
   private readonly el!: HTMLInputElement;
   private componentRef!: ComponentRef<TetsComponent>;
