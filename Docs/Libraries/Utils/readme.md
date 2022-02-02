@@ -1,72 +1,66 @@
-### Readme
-
-> [![](https://img.shields.io/badge/Main-projects‌‌‌‌‌‌‌-white)](../projects.md)
-> [![Progress](https://img.shields.io/badge/Demo-✔☐☐☐☐‌‌‌‌‌‌‌-blue)](https://krsln.github.io/NgLootBox/Libraries/Utils)
-> [![downloads](https://img.shields.io/npm/dm/@qrsln/utils.svg)](https://npmcharts.com/compare/@qrsln/utils?minimal=true)
-> [![npm version](https://badge.fury.io/js/%40qrsln%2Futils.svg)](https://badge.fury.io/js/%40qrsln%2Futils)
-
 ## Utils
 
-For Angular  
+[![Support](https://img.shields.io/badge/Support-white)](https://www.patreon.com/qrsln)
+[![downloads](https://img.shields.io/npm/dm/@qrsln/utils.svg)](https://npmcharts.com/compare/@qrsln/utils?minimal=true)
+[![npm version](https://badge.fury.io/js/%40qrsln%2Futils.svg)](https://badge.fury.io/js/%40qrsln%2Futils)
 
-## Contents
+> For Angular
 
-Utils | Progress
---- | ---
-Animations | * 
-[Animations](#animations) | ![Progress](https://img.shields.io/badge/✔☐☐☐☐‌‌‌‌‌‌‌-blue)
-Core | * 
-[Guid](#guid--stopwatch) | ![Progress](https://img.shields.io/badge/✔☐☐☐☐‌‌‌‌‌‌‌-blue)
-[Stop Watch](#guid--stopwatch) | ![Progress](https://img.shields.io/badge/✔☐☐☐☐‌‌‌‌‌‌‌-blue)
-Pipes | * 
-[Truncate](#truncate--sanitize) | ![Progress](https://img.shields.io/badge/✔☐☐☐☐‌‌‌‌‌‌‌-blue)
-[Sanitize](#truncate--sanitize) | ![Progress](https://img.shields.io/badge/✔☐☐☐☐‌‌‌‌‌‌‌-blue)
-Services | * 
-[Dom Service](#dom--webstorage) | ![Progress](https://img.shields.io/badge/✔☐☐☐☐‌‌‌‌‌‌‌-blue)
-[WebStorage Service](#dom--webstorage) | ![Progress](https://img.shields.io/badge/✔☐☐☐☐‌‌‌‌‌‌‌-blue)
+[![](https://img.shields.io/badge/Main-Libraries-white)](../projects.md)
+[![Progress](https://img.shields.io/badge/Demo-blue)](https://krsln.github.io/Showcase/Utils)
 
-## Details
+## Showcase
+
+- Utils
+  - [Animations](#animations)
+  - [Core](#core)
+    - Guid
+    - StopWatch
+  - [Pipes](#pipes)
+    - Sanitize
+    - Truncate
+  - [Services](#services)
+    - DomService
+    - WebStorage
 
 ### Animations
 
-[![Progress](https://img.shields.io/badge/Demo-✔☐☐☐☐‌‌‌‌‌‌‌-blue)](https://krsln.github.io/NgLootBox/Libraries/Utils/Animations)
-[![](https://img.shields.io/badge/readme‌‌‌‌‌‌‌-white)](Animations/readme.md)
-[![](https://img.shields.io/badge/usage‌‌‌‌‌‌‌-orange)](Animations/usage.md)
+[![Progress](https://img.shields.io/badge/Demo-blue)](https://krsln.github.io/Showcase/Libraries/Utils/Animations)
+[![](https://img.shields.io/badge/readme-white)](Animations/readme.md)
+[![](https://img.shields.io/badge/usage-orange)](Animations/usage.md)
 
 Shake, ShakeAuto, ShrinkOut, FadeInOut, FlyInOut, Overlay
 
-*[![](https://img.shields.io/badge/Top_⬆-blue)](#utils)*
+*[![](https://img.shields.io/badge/Top_⬆-blue)](#showcase)*
 
 ### Core
 
-#### Guid & StopWatch
+[![Progress](https://img.shields.io/badge/Demo-blue)](https://krsln.github.io/Showcase/Libraries/Utils/Core)
+[![](https://img.shields.io/badge/readme-white)](Core/readme.md)
+[![](https://img.shields.io/badge/usage-orange)](Core/usage.md)
 
-[![Progress](https://img.shields.io/badge/Demo-✔☐☐☐☐‌‌‌‌‌‌‌-blue)](https://krsln.github.io/NgLootBox/Libraries/Utils/Helpers)
-[![](https://img.shields.io/badge/readme‌‌‌‌‌‌‌-white)](Core/readme.md)
-[![](https://img.shields.io/badge/usage‌‌‌‌‌‌‌-orange)](Core/usage.md)
+Guid & StopWatch
 
-*[![](https://img.shields.io/badge/Top_⬆-blue)](#utils)*
+*[![](https://img.shields.io/badge/Top_⬆-blue)](#showcase)*
 
-#### Truncate & Sanitize
+### Pipes
 
-[![Progress](https://img.shields.io/badge/Demo-✔☐☐☐☐‌‌‌‌‌‌‌-blue)](https://krsln.github.io/NgLootBox/Libraries/Utils/Piper)
-[![](https://img.shields.io/badge/readme‌‌‌‌‌‌‌-white)](Piper/readme.md)
-[![](https://img.shields.io/badge/usage‌‌‌‌‌‌‌-orange)](Piper/usage.md)
+[![Progress](https://img.shields.io/badge/Demo-blue)](https://krsln.github.io/Showcase/Libraries/Utils/Piper)
+[![](https://img.shields.io/badge/readme-white)](Core/readme.md)
+[![](https://img.shields.io/badge/usage-orange)](Core/usage.md)
 
-Pipe ( | qlTruncate)  
 Pipe ( | qlSanitize)
+Pipe ( | qlTruncate)  
 
-![](../../Images/Screenshots/Piper_2021-08-12.png "Piper")
-
-*[![](https://img.shields.io/badge/Top_⬆-blue)](#utils)*
+*[![](https://img.shields.io/badge/Top_⬆-blue)](#showcase)*
 
 ### Services
 
-#### Dom & WebStorage
+[![Progress](https://img.shields.io/badge/Demo-blue)](https://krsln.github.io/Showcase/Libraries/Utils/Services)
+[![](https://img.shields.io/badge/readme-white)](Core/readme.md)
+[![](https://img.shields.io/badge/usage-orange)](Core/usage.md)
 
-[![Progress](https://img.shields.io/badge/Demo-✔☐☐☐☐‌‌‌‌‌‌‌-blue)](https://krsln.github.io/NgLootBox/Libraries/Utils/Services)
-[![](https://img.shields.io/badge/readme‌‌‌‌‌‌‌-white)](Services/readme.md)
-[![](https://img.shields.io/badge/usage‌‌‌‌‌‌‌-orange)](Services/usage.md)
+DomService, WebStorage
 
-*[![](https://img.shields.io/badge/Top_⬆-blue)](#utils)*
+*[![](https://img.shields.io/badge/Top_⬆-blue)](#showcase)*
 

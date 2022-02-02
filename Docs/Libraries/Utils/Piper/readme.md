@@ -1,24 +1,17 @@
-### Readme
+### Piper | Readme
 
-> [![](https://img.shields.io/badge/Main-readme‌‌‌‌‌‌‌-white)](../readme.md)
-> [![](https://img.shields.io/badge/usage‌‌‌‌‌‌‌-orange)](usage.md)
-
-### Piper
-
-[![Progress](https://img.shields.io/badge/Demo-☐☐☐☐☐‌‌‌‌‌‌‌-blue)](https://krsln.github.io/NgLootBox/Libraries/Utils/Piper)
+[![](https://img.shields.io/badge/Main-readme-white)](../readme.md)
+[![](https://img.shields.io/badge/usage-orange)](usage.md)
+[![Progress](https://img.shields.io/badge/Demo-blue)](https://krsln.github.io/Showcase/Libraries/Utils/Piper)
 
 #### Dependencies
 
+```shell
 ```
+
+#### Properties
+
+Truncate, Sanitize
+
+#### Screenshots
  
-```
-
-#### Features
-
-Params | desc
- --- | ---  
-[] | -
-
-### Screenshots
-
-![](../../../Images/Screenshots/Piper_2021-08-12.png "Piper")

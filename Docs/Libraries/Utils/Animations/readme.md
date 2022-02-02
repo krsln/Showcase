@@ -1,22 +1,16 @@
-### Readme
+### Animations | Readme
 
-> [![](https://img.shields.io/badge/Main-readme‌‌‌‌‌‌‌-white)](../readme.md)
-> [![](https://img.shields.io/badge/usage‌‌‌‌‌‌‌-orange)](usage.md)
+[![](https://img.shields.io/badge/Main-readme-white)](../readme.md)
+[![](https://img.shields.io/badge/usage-orange)](usage.md)
+[![Progress](https://img.shields.io/badge/Demo-blue)](https://krsln.github.io/Showcase/Libraries/Utils/Animations)
 
-### Utils - Animations
+#### Dependencies
 
-[![Progress](https://img.shields.io/badge/Demo-☐☐☐☐☐‌‌‌‌‌‌‌-blue)](https://krsln.github.io/NgLootBox/Libraries/Utils/Animations)
+```shell
+```
 
-###### Details
+#### Properties
 
-```html
-shakeState = 'start'; // start end
-<div [@Shake]="shakeState"></div>
-<div [@ShakeAuto]></div>
+FlyInOut, FadeInOut, Overlay, ShakeAuto, Shake, ShrinkOut
 
-<div [@FadeInOut]></div>
-<div [@FlyInOut]="'in'"></div>
-<div [@Overlay]="'enter'"></div>
-<div [@ShrinkOut]="'in'"></div>
-
-``` 
+#### Screenshots

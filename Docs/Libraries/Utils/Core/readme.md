@@ -1,33 +1,17 @@
-### Readme
+### Core | Readme
 
-> [![](https://img.shields.io/badge/Main-readme‌‌‌‌‌‌‌-white)](../readme.md)
-> [![](https://img.shields.io/badge/usage‌‌‌‌‌‌‌-orange)](usage.md)
+[![](https://img.shields.io/badge/Main-readme-white)](../readme.md)
+[![](https://img.shields.io/badge/usage-orange)](usage.md)
+[![Progress](https://img.shields.io/badge/Demo-blue)](https://krsln.github.io/Showcase/Libraries/Utils/Core)
 
-### Utils - Core
+#### Dependencies
 
-[![Progress](https://img.shields.io/badge/Demo-☐☐☐☐☐‌‌‌‌‌‌‌-blue)](https://krsln.github.io/NgLootBox/Libraries/Utils/Core)
-
-###### Guid
-
-```typescript
-    let e = new Guid();
-e = Guid.NewGuid(); 
+```shell
 ```
 
-###### StopWatch
+#### Properties
 
-```typescript
-(async () => {
-  const watcher = StopWatch.StartNew();
-  watcher.Stop();
-  console.log(watcher.Elapsed);
-  console.log("Tasks take " + watcher.ElapsedMilliseconds + " milliseconds");
+Guid, StopWatch
 
-  const stopWatch = new StopWatch();
-  stopWatch.Start();
-  await Sleep(10000);
-  stopWatch.Stop();
-  // Get the elapsed time as a TimeSpan value.
-  const ts = stopWatch.Elapsed;
-})();
-```
+#### Screenshots
+  

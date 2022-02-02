@@ -1,7 +1,7 @@
 ### Highlighter | Usage
 
 [![Demo](https://img.shields.io/badge/Demo-blue)](https://krsln.github.io/Showcase/Libraries/Highlighter)
-[![](https://img.shields.io/badge/Main-readme-white)](../projects.md)
+[![](https://img.shields.io/badge/Main-projects-white)](../projects.md)
 [![](https://img.shields.io/badge/readme-white)](readme.md)
 
 - [x] Component (~~ql-highlighter~~)

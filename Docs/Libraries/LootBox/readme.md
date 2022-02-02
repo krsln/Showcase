@@ -16,7 +16,7 @@
 
 ## Styles
 
-Powered by [LootStrap](https://github.com/krsln/Lootstrap)
+Powered by [LootStrap](https://github.com/krsln/LootStrap)
 
 angular.json
 
@@ -50,7 +50,7 @@ angular.json
 
 ![](../../Images/LootBox/Breadcrumb_2022-01-27.png "Breadcrumb")
 
-*[![](https://img.shields.io/badge/Top_⬆-blue)](#lootbox)*
+*[![](https://img.shields.io/badge/Top_⬆-blue)](#showcase)*
 
 ### Carousel
 
@@ -60,7 +60,7 @@ angular.json
 
 ![](../../Images/LootBox/Carousel_2022-01-27.png "Carousel")
 
-*[![](https://img.shields.io/badge/Top_⬆-blue)](#lootbox)*
+*[![](https://img.shields.io/badge/Top_⬆-blue)](#showcase)*
 
 ### Dialog
 
@@ -70,7 +70,7 @@ angular.json
 
 ![](../../Images/LootBox/Dialog_2022-01-27.png "Dialog")
 
-*[![](https://img.shields.io/badge/Top_⬆-blue)](#lootbox)*
+*[![](https://img.shields.io/badge/Top_⬆-blue)](#showcase)*
 
 ### Notify
 
@@ -80,7 +80,7 @@ angular.json
 
 ![](../../Images/LootBox/Notify_2022-01-27.png "Notify")
 
-*[![](https://img.shields.io/badge/Top_⬆-blue)](#lootbox)*
+*[![](https://img.shields.io/badge/Top_⬆-blue)](#showcase)*
 
 ### Pagination
 
@@ -90,7 +90,7 @@ angular.json
 
 ![](../../Images/LootBox/Pagination_2022-01-27.png "Pagination")
 
-*[![](https://img.shields.io/badge/Top_⬆-blue)](#lootbox)*
+*[![](https://img.shields.io/badge/Top_⬆-blue)](#showcase)*
 
 ### Rating
 
@@ -101,7 +101,7 @@ angular.json
 ![](../../Images/LootBox/Rating_Star_2022-01-27.png "Default & Heart")
 ![](../../Images/LootBox/Rating_Heart_2022-01-27.png "Default & Heart")
 
-*[![](https://img.shields.io/badge/Top_⬆-blue)](#lootbox)*
+*[![](https://img.shields.io/badge/Top_⬆-blue)](#showcase)*
 
 ### Spinner
 
@@ -112,7 +112,7 @@ angular.json
 ![](../../Images/LootBox/Spinner_Vortex_2022-01-27.png "Spinner")
 ![](../../Images/LootBox/Spinner_Grow_Border_2022-01-27.png "Spinner")
 
-*[![](https://img.shields.io/badge/Top_⬆-blue)](#lootbox)*
+*[![](https://img.shields.io/badge/Top_⬆-blue)](#showcase)*
 
 ### Timeline
 
@@ -122,7 +122,7 @@ angular.json
 
 ![](../../Images/LootBox/Timeline_Default_2022-01-27.png "Default")
 
-*[![](https://img.shields.io/badge/Top_⬆-blue)](#lootbox)*
+*[![](https://img.shields.io/badge/Top_⬆-blue)](#showcase)*
 
 ### Timer
 
@@ -133,7 +133,7 @@ angular.json
 ![](../../Images/LootBox/Timer_TimeAgo_2022-01-27.png "TimeAgo")  
 ![](../../Images/LootBox/Timer_Countdown_Svg-new_2022-01-27.png "Countdown svg")
 
-*[![](https://img.shields.io/badge/Top_⬆-blue)](#lootbox)*
+*[![](https://img.shields.io/badge/Top_⬆-blue)](#showcase)*
 
 ### TreeView
 
@@ -143,5 +143,5 @@ angular.json
 
 ![](../../Images/LootBox/TreeView_2022-01-29.png "TimeAgo")  
 
-*[![](https://img.shields.io/badge/Top_⬆-blue)](#lootbox)*
+*[![](https://img.shields.io/badge/Top_⬆-blue)](#showcase)*
 

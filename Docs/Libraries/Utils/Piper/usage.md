@@ -1,12 +1,12 @@
-### Usage
+### Piper | Usage
 
-> [![](https://img.shields.io/badge/Main-readme‌‌‌‌‌‌‌-white)](../readme.md)
-> [![](https://img.shields.io/badge/readme-white)](readme.md)
+[![](https://img.shields.io/badge/Main-readme-white)](../readme.md)
+[![](https://img.shields.io/badge/readme-white)](readme.md)
 
-### Piper
-
-Pipe ( | qlTruncate)  
-Pipe ( | qlSanitize)
+- [ ] Component ()
+- [ ] Directive ()
+- [ ] Service ()
+- [x] Pipe (qlTruncate, qlSanitize)
 
 #### app.module.ts
 
