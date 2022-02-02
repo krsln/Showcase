@@ -46,8 +46,8 @@ Guid & StopWatch
 ### Pipes
 
 [![Progress](https://img.shields.io/badge/Demo-blue)](https://krsln.github.io/Showcase/Libraries/Utils/Piper)
-[![](https://img.shields.io/badge/readme-white)](Core/readme.md)
-[![](https://img.shields.io/badge/usage-orange)](Core/usage.md)
+[![](https://img.shields.io/badge/readme-white)](Piper/readme.md)
+[![](https://img.shields.io/badge/usage-orange)](Piper/usage.md)
 
 Pipe ( | qlSanitize)
 Pipe ( | qlTruncate)  
@@ -57,8 +57,8 @@ Pipe ( | qlTruncate)
 ### Services
 
 [![Progress](https://img.shields.io/badge/Demo-blue)](https://krsln.github.io/Showcase/Libraries/Utils/Services)
-[![](https://img.shields.io/badge/readme-white)](Core/readme.md)
-[![](https://img.shields.io/badge/usage-orange)](Core/usage.md)
+[![](https://img.shields.io/badge/readme-white)](Services/readme.md)
+[![](https://img.shields.io/badge/usage-orange)](Services/usage.md)
 
 DomService, WebStorage
 
