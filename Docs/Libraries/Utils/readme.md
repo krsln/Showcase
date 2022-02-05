@@ -7,7 +7,7 @@
 > For Angular
 
 [![](https://img.shields.io/badge/Main-Libraries-white)](../projects.md)
-[![Progress](https://img.shields.io/badge/Demo-blue)](https://krsln.github.io/Showcase/Utils)
+[![Progress](https://img.shields.io/badge/Demo-blue)](https://krsln.github.io/Showcase/Libraries/Utils)
 
 ## Showcase
 
@@ -49,8 +49,8 @@ Guid & StopWatch
 [![](https://img.shields.io/badge/readme-white)](Piper/readme.md)
 [![](https://img.shields.io/badge/usage-orange)](Piper/usage.md)
 
-Pipe ( | qlSanitize)
-Pipe ( | qlTruncate)  
+Pipe ( | qlSanitize)  
+Pipe ( | qlTruncate)
 
 *[![](https://img.shields.io/badge/Top_⬆-blue)](#showcase)*
 
@@ -63,4 +63,5 @@ Pipe ( | qlTruncate)
 DomService, WebStorage
 
 *[![](https://img.shields.io/badge/Top_⬆-blue)](#showcase)*
+
 
