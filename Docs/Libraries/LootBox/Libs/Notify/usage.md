@@ -32,12 +32,26 @@ Layout Component
 ```typescript
 // constructor( private notifyService: NotifyService ) {}
 
-ngOnInit()
+Show()
 {
-  this.notifyService.None('My test message', 5000, NotifyPosition.TopCenter);
-  this.notifyService.Success('My test message', 4000, NotifyPosition.TopCenter);
-  this.notifyService.Error('My test message', 5000, NotifyPosition.TopCenter);
-  this.notifyService.Info('My test message', 8000, NotifyPosition.TopCenter);
-  this.notifyService.Warning('My test message', 5000, NotifyPosition.TopCenter);
+  const notifyItem = {
+    Theme: NotifyTheme.None, IconSize: NotifyIconSize.Large, Anim: NotifyAnim.Grow,
+    Message: '', Title: '', ExpireIn: 4000,
+    Icon: true, Countdown: true, Dismissible: true,
+    ProgressBar: true, Titled: false, Outlined: false, Gradient: false,
+  } as NotifyItem;
+  
+  // Show ==> Customize Notifications
+  this.notifyService.Show(+this.Style, notifyItem, +this.Position);
+}
+
+
+Defaults()
+{
+  this.notifyService.None('My None message', 5000, NotifyPosition.TopCenter);
+  this.notifyService.Success('My Success message', 4000, NotifyPosition.TopCenter);
+  this.notifyService.Error('My Error message', 5000, NotifyPosition.TopCenter);
+  this.notifyService.Info('My Info message', 8000, NotifyPosition.TopCenter);
+  this.notifyService.Warning('My Warning message', 5000, NotifyPosition.TopCenter);
 }
 ```   
