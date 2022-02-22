@@ -30,17 +30,17 @@ import {WebStorage, DomService} from '@qrsln/Utils/Services';
 
 <div class="Row">
   <div class="Col-12 Col-lg-12">
-    <div class="Btn-group Btn-group-sm MB-2 MR-2" role="group">
+    <div class="Btn-group Btn-group-sm MB-2 ME-2" role="group">
       <button class="Btn Btn-sm Btn-outline-primary" (click)="Store('local')">add to local</button>
       <button class="Btn Btn-sm Btn-outline-primary" (click)="Store('local',true)">Remove</button>
       <button class="Btn Btn-sm Btn-outline-primary" (click)="Check('local')">Check</button>
     </div>
-    <div class="Btn-group Btn-group-sm MB-2 MR-2" role="group">
+    <div class="Btn-group Btn-group-sm MB-2 ME-2" role="group">
       <button class="Btn Btn-sm Btn-outline-secondary" (click)="Store('session')">add to session</button>
       <button class="Btn Btn-sm Btn-outline-secondary" (click)="Store('session',true)">Remove</button>
       <button class="Btn Btn-sm Btn-outline-secondary" (click)="Check('session')">Check</button>
     </div>
-    <div class="Btn-group Btn-group-sm MB-2 MR-2" role="group">
+    <div class="Btn-group Btn-group-sm MB-2 ME-2" role="group">
       <button class="Btn Btn-sm Btn-outline-success" (click)="Store('cookie')">add to cookie</button>
       <button class="Btn Btn-sm Btn-outline-success" (click)="Store('cookie',true)">Remove</button>
       <button class="Btn Btn-sm Btn-outline-success" (click)="Check('cookie')">Check</button>

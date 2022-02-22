@@ -24,4 +24,4 @@ npm install @fortawesome/fontawesome-free
 
 #### Screenshots
 
-![](../../../../Images/LootBox/Pagination_2022-01-27.png "Carousel")
+![](../../../../Images/LootBox/Pagination_2022-01-27.png "Pagination")

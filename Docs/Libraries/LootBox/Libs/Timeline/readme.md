@@ -21,12 +21,11 @@ npm install --save @fortawesome/fontawesome-free
 | @Input() Layout: string    | Branch, Zigzag               |
 
 #### Screenshots
-Default  
-![](../../../../Images/LootBox/Timeline_Default_2022-01-27.png "Carousel")
+Default    
+![](../../../../Images/LootBox/Timeline_Default_2022-01-27.png "Timeline Default")
 Side & Side-left  
-![](../../../../Images/LootBox/Timeline_Side_2022-01-27.png "Carousel")
+![](../../../../Images/LootBox/Timeline_Side_2022-01-27.png "Timeline Side & Side-left")
 Snake  
-![](../../../../Images/LootBox/Timeline_Snake_2022-01-27.png "Carousel")
-**Betas**  
+![](../../../../Images/LootBox/Timeline_Snake_2022-01-27.png "Timeline Snake")
 Branch  
-![](../../../../Images/LootBox/Timeline_Branch_2022-01-27.png "Carousel")
+![](../../../../Images/LootBox/Timeline_Branch_2022-01-27.png "Timeline Branch")

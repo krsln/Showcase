@@ -20,4 +20,4 @@ npm install --save @qrsln/lootstrap
 
 #### Screenshots
 
-![](../../../../Images/LootBox/Dialog_2022-01-27.png "Carousel")
+![](../../../../Images/LootBox/Dialog_2022-01-27.png "Dialog")

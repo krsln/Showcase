@@ -31,8 +31,8 @@ Star | Heart | Text | Emoji
 
 #### Screenshots
 Default & Heart  
-![](../../../../Images/LootBox/Rating_Star_2022-01-27.png "Carousel")
-![](../../../../Images/LootBox/Rating_Heart_2022-01-27.png "Carousel")
+![](../../../../Images/LootBox/Rating_Star_2022-01-27.png "Rating_Star")
+![](../../../../Images/LootBox/Rating_Heart_2022-01-27.png "Rating_Heart")
 Text & Emoji  
-![](../../../../Images/LootBox/Rating_Text_2022-01-27.png "Carousel")
-![](../../../../Images/LootBox/Rating_Emoji_2022-01-27.png "Carousel")
+![](../../../../Images/LootBox/Rating_Text_2022-01-27.png "Rating_Text")
+![](../../../../Images/LootBox/Rating_Emoji_2022-01-27.png "Rating_Emoji")

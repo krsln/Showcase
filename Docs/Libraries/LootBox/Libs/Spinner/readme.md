@@ -21,6 +21,6 @@ _SpinnerService_
 
 #### Screenshots
 
-![](../../../../Images/LootBox/Spinner_Vortex_2022-01-27.png "Carousel")
-![](../../../../Images/LootBox/Spinner_Chase_Circling_2022-01-27.png "Carousel")
-![](../../../../Images/LootBox/Spinner_Grow_Border_2022-01-27.png "Carousel")
+![](../../../../Images/LootBox/Spinner_Vortex_2022-01-27.png "Spinner_Vortex")
+![](../../../../Images/LootBox/Spinner_Chase_Circling_2022-01-27.png "Spinner_Chase")
+![](../../../../Images/LootBox/Spinner_Grow_Border_2022-01-27.png "Spinner_Grow_Border")

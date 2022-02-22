@@ -27,9 +27,9 @@ import {DialogModule} from '@qrsln/loot-box/Libs/Dialog';
 
 <h5>From DialogService</h5>
 <div class="Border Rounded P-4 MY-2">
-  <button class="Btn Btn-outline-primary MR-1" (click)="Prompt()">Prompt</button>
-  <button class="Btn Btn-outline-primary MR-1" (click)="Prompt(true)">Prompt Forced</button>
-  <button class="Btn Btn-outline-primary MR-1" (click)="GoToCart()">GoToCart</button>
+  <button class="Btn Btn-outline-primary ME-1" (click)="Prompt()">Prompt</button>
+  <button class="Btn Btn-outline-primary ME-1" (click)="Prompt(true)">Prompt Forced</button>
+  <button class="Btn Btn-outline-primary ME-1" (click)="GoToCart()">GoToCart</button>
 </div>
 
 ```  
