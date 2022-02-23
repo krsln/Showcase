@@ -1,16 +1,16 @@
 ## Highlighter
 
-[![Support](https://img.shields.io/badge/Support-white)](https://www.patreon.com/qrsln)
-[![downloads](https://img.shields.io/npm/dm/@qrsln/highlighter.svg)](https://npmcharts.com/compare/@qrsln/highlighter?minimal=true)
-[![npm version](https://badge.fury.io/js/%40qrsln%2Fhighlighter.svg)](https://badge.fury.io/js/%40qrsln%2Fhighlighter)
-
+[![Support](https://img.shields.io/badge/Patreon-white?style=for-the-badge)](https://www.patreon.com/qrsln)
+[![npm](https://img.shields.io/npm/v/@qrsln/highlighter?style=for-the-badge)](https://www.npmjs.com/package/@qrsln/highlighter)
+[![npm](https://img.shields.io/npm/dm/@qrsln/highlighter?style=for-the-badge)](https://npmcharts.com/compare/@qrsln/highlighter?minimal=true)
+ 
 Supported Languages: typescript, html, css/scss/less, csharp, javascript, json, php, python, markdown
 
 > For Angular
 
-[![Demo](https://img.shields.io/badge/Demo-blue)](https://krsln.github.io/Showcase/Libraries/Highlighter)
-[![](https://img.shields.io/badge/Main-projects-white)](../projects.md)
-[![](https://img.shields.io/badge/usage-orange)](usage.md)
+[![Demo](https://img.shields.io/badge/Demo-blue?style=for-the-badge)](https://krsln.github.io/Showcase/Libraries/Highlighter)
+[![](https://img.shields.io/badge/Main-projects-white?style=for-the-badge)](../projects.md)
+[![](https://img.shields.io/badge/usage-orange?style=for-the-badge)](usage.md)
 
 #### Dependencies
 

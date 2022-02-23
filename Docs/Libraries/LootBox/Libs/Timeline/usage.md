@@ -1,7 +1,7 @@
 ### Timeline | Usage
 
-[![](https://img.shields.io/badge/Main-readme-white)](../../readme.md)
-[![](https://img.shields.io/badge/readme-white)](readme.md)
+[![](https://img.shields.io/badge/Main-readme-white?style=for-the-badge)](../../readme.md)
+[![](https://img.shields.io/badge/readme-white?style=for-the-badge)](readme.md)
 
 - [x] Component (ql-timeline, _ql-timeline-card_)
 - [ ] Directive ()

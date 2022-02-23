@@ -1,14 +1,14 @@
 ## Mapper
 
-[![Support](https://img.shields.io/badge/Support-white)](https://www.patreon.com/qrsln)
-[![downloads](https://img.shields.io/npm/dm/@qrsln/mapper.svg)](https://npmcharts.com/compare/@qrsln/mapper?minimal=true)
-[![npm version](https://badge.fury.io/js/%40qrsln%2Fmapper.svg)](https://badge.fury.io/js/%40qrsln%2Fmapper)
+[![Support](https://img.shields.io/badge/Patreon-white?style=for-the-badge)](https://www.patreon.com/qrsln)
+[![npm](https://img.shields.io/npm/v/@qrsln/mapper?style=for-the-badge)](https://www.npmjs.com/package/@qrsln/mapper)
+[![npm](https://img.shields.io/npm/dm/@qrsln/mapper?style=for-the-badge)](https://npmcharts.com/compare/@qrsln/mapper?minimal=true)
 
 > For Angular
 
-[![Demo](https://img.shields.io/badge/Demo-blue)](https://krsln.github.io/Showcase/Libraries/Mapper)
-[![](https://img.shields.io/badge/Main-projects-white)](../projects.md)
-[![](https://img.shields.io/badge/usage-orange)](usage.md)
+[![Demo](https://img.shields.io/badge/Demo-blue?style=for-the-badge)](https://krsln.github.io/Showcase/Libraries/Mapper)
+[![](https://img.shields.io/badge/Main-projects-white?style=for-the-badge)](../projects.md)
+[![](https://img.shields.io/badge/usage-orange?style=for-the-badge)](usage.md)
 
 #### Dependencies
 

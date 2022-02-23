@@ -1,8 +1,8 @@
 ### Tooltip | Usage
 
-[![Demo](https://img.shields.io/badge/Demo-blue)](https://krsln.github.io/Showcase/Libraries/Tooltip)
-[![](https://img.shields.io/badge/Main-projects-white)](../projects.md)
-[![](https://img.shields.io/badge/readme-white)](readme.md)
+[![Demo](https://img.shields.io/badge/Demo-blue?style=for-the-badge)](https://krsln.github.io/Showcase/Libraries/Tooltip)
+[![](https://img.shields.io/badge/Main-projects-white?style=for-the-badge)](../projects.md)
+[![](https://img.shields.io/badge/readme-white?style=for-the-badge)](readme.md)
 
 - [x] Component (~~ql-tooltip~~)
 - [x] Directive (qlTooltip)

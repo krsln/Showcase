@@ -1,11 +1,11 @@
 ### Readme
 
-> [![](https://img.shields.io/badge/Main-readme-white)](../../readme.md)
-> [![](https://img.shields.io/badge/usage-orange)](usage.md)
+> [![](https://img.shields.io/badge/Main-readme-white?style=for-the-badge)](../../readme.md)
+> [![](https://img.shields.io/badge/usage-orange?style=for-the-badge)](usage.md)
 
 ### PickerPax
 
-[![Progress](https://img.shields.io/badge/Demo-blue)](https://krsln.github.io/Showcase/Beta/PickerPax)
+[![](https://img.shields.io/badge/Demo-blue?style=for-the-badge)](https://krsln.github.io/Showcase/Beta/PickerPax)
 
 #### Dependencies
 @import "~@qrsln/lootstrap/scss/lootstrap";  

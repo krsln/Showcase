@@ -1,13 +1,13 @@
 ## LootBox
 
-[![Support](https://img.shields.io/badge/Support-white)](https://www.patreon.com/qrsln)
-[![downloads](https://img.shields.io/npm/dm/@qrsln/loot-box.svg)](https://npmcharts.com/compare/@qrsln/loot-box?minimal=true)
-[![npm version](https://badge.fury.io/js/%40qrsln%2Floot-box.svg)](https://badge.fury.io/js/%40qrsln%2Floot-box)
+[![Support](https://img.shields.io/badge/Patreon-white?style=for-the-badge)](https://www.patreon.com/qrsln)
+[![npm](https://img.shields.io/npm/v/@qrsln/loot-box?style=for-the-badge)](https://www.npmjs.com/package/@qrsln/loot-box)
+[![npm](https://img.shields.io/npm/dm/@qrsln/loot-box?style=for-the-badge)](https://npmcharts.com/compare/@qrsln/loot-box?minimal=true)
 
 > For Angular
 
-[![](https://img.shields.io/badge/Main-Libraries-white)](../projects.md)
-[![Progress](https://img.shields.io/badge/Demo-blue)](https://krsln.github.io/Showcase/LootBox)
+[![Readme](https://img.shields.io/badge/Main-Libraries-white?style=for-the-badge)](../projects.md)
+[![Demo](https://img.shields.io/badge/Demo-blue?style=for-the-badge)](https://krsln.github.io/Showcase/LootBox)
 
 ## Quick start
 
@@ -44,104 +44,104 @@ angular.json
 
 ### Breadcrumb
 
-[![Progress](https://img.shields.io/badge/Demo-blue)](https://krsln.github.io/Showcase/LootBox/Breadcrumb)
-[![](https://img.shields.io/badge/readme-white)](Libs/Breadcrumb/readme.md)
-[![](https://img.shields.io/badge/usage-orange)](Libs/Breadcrumb/usage.md)
+[![](https://img.shields.io/badge/Demo-blue?style=for-the-badge)](https://krsln.github.io/Showcase/LootBox/Breadcrumb)
+[![](https://img.shields.io/badge/readme-white?style=for-the-badge)](Libs/Breadcrumb/readme.md)
+[![](https://img.shields.io/badge/usage-orange?style=for-the-badge)](Libs/Breadcrumb/usage.md)
 
 ![](../../Images/LootBox/Breadcrumb_2022-01-27.png "Breadcrumb")
 
-*[![](https://img.shields.io/badge/Top_⬆-blue)](#showcase)*
+*[![](https://img.shields.io/badge/Top_⬆-blue?style=for-the-badge)](#showcase)*
 
 ### Carousel
 
-[![Progress](https://img.shields.io/badge/Demo-blue)](https://krsln.github.io/Showcase/LootBox/Carousel)
-[![](https://img.shields.io/badge/readme-white)](Libs/Carousel/readme.md)
-[![](https://img.shields.io/badge/usage-orange)](Libs/Carousel/usage.md)
+[![](https://img.shields.io/badge/Demo-blue?style=for-the-badge)](https://krsln.github.io/Showcase/LootBox/Carousel)
+[![](https://img.shields.io/badge/readme-white?style=for-the-badge)](Libs/Carousel/readme.md)
+[![](https://img.shields.io/badge/usage-orange?style=for-the-badge)](Libs/Carousel/usage.md)
 
 ![](../../Images/LootBox/Carousel_2022-01-27.png "Carousel")
 
-*[![](https://img.shields.io/badge/Top_⬆-blue)](#showcase)*
+*[![](https://img.shields.io/badge/Top_⬆-blue?style=for-the-badge)](#showcase)*
 
 ### Dialog
 
-[![Progress](https://img.shields.io/badge/Demo-blue)](https://krsln.github.io/Showcase/LootBox/Dialog)
-[![](https://img.shields.io/badge/readme-white)](Libs/Dialog/readme.md)
-[![](https://img.shields.io/badge/usage-orange)](Libs/Dialog/usage.md)
+[![](https://img.shields.io/badge/Demo-blue?style=for-the-badge)](https://krsln.github.io/Showcase/LootBox/Dialog)
+[![](https://img.shields.io/badge/readme-white?style=for-the-badge)](Libs/Dialog/readme.md)
+[![](https://img.shields.io/badge/usage-orange?style=for-the-badge)](Libs/Dialog/usage.md)
 
 ![](../../Images/LootBox/Dialog_2022-01-27.png "Dialog")
 
-*[![](https://img.shields.io/badge/Top_⬆-blue)](#showcase)*
+*[![](https://img.shields.io/badge/Top_⬆-blue?style=for-the-badge)](#showcase)*
 
 ### Notify
 
-[![Progress](https://img.shields.io/badge/Demo-blue)](https://krsln.github.io/Showcase/LootBox/Notify)
-[![](https://img.shields.io/badge/readme-white)](Libs/Notify/readme.md)
-[![](https://img.shields.io/badge/usage-orange)](Libs/Notify/usage.md)
+[![](https://img.shields.io/badge/Demo-blue?style=for-the-badge)](https://krsln.github.io/Showcase/LootBox/Notify)
+[![](https://img.shields.io/badge/readme-white?style=for-the-badge)](Libs/Notify/readme.md)
+[![](https://img.shields.io/badge/usage-orange?style=for-the-badge)](Libs/Notify/usage.md)
 
-![](../../Images/LootBox/Notify_2022-01-27.png "Notify")
+![](../../Images/LootBox/Notify_2022-02-06.png "Notify")
 
-*[![](https://img.shields.io/badge/Top_⬆-blue)](#showcase)*
+*[![](https://img.shields.io/badge/Top_⬆-blue?style=for-the-badge)](#showcase)*
 
 ### Pagination
 
-[![Progress](https://img.shields.io/badge/Demo-blue)](https://krsln.github.io/Showcase/LootBox/Pagination)
-[![](https://img.shields.io/badge/readme-white)](Libs/Pagination/readme.md)
-[![](https://img.shields.io/badge/usage-orange)](Libs/Pagination/usage.md)
+[![](https://img.shields.io/badge/Demo-blue?style=for-the-badge)](https://krsln.github.io/Showcase/LootBox/Pagination)
+[![](https://img.shields.io/badge/readme-white?style=for-the-badge)](Libs/Pagination/readme.md)
+[![](https://img.shields.io/badge/usage-orange?style=for-the-badge)](Libs/Pagination/usage.md)
 
 ![](../../Images/LootBox/Pagination_2022-01-27.png "Pagination")
 
-*[![](https://img.shields.io/badge/Top_⬆-blue)](#showcase)*
+*[![](https://img.shields.io/badge/Top_⬆-blue?style=for-the-badge)](#showcase)*
 
 ### Rating
 
-[![Progress](https://img.shields.io/badge/Demo-blue)](https://krsln.github.io/Showcase/LootBox/Rating)
-[![](https://img.shields.io/badge/readme-white)](Libs/Rating/readme.md)
-[![](https://img.shields.io/badge/usage-orange)](Libs/Rating/usage.md)
+[![](https://img.shields.io/badge/Demo-blue?style=for-the-badge)](https://krsln.github.io/Showcase/LootBox/Rating)
+[![](https://img.shields.io/badge/readme-white?style=for-the-badge)](Libs/Rating/readme.md)
+[![](https://img.shields.io/badge/usage-orange?style=for-the-badge)](Libs/Rating/usage.md)
 
 ![](../../Images/LootBox/Rating_Star_2022-01-27.png "Default & Heart")
 ![](../../Images/LootBox/Rating_Heart_2022-01-27.png "Default & Heart")
 
-*[![](https://img.shields.io/badge/Top_⬆-blue)](#showcase)*
+*[![](https://img.shields.io/badge/Top_⬆-blue?style=for-the-badge)](#showcase)*
 
 ### Spinner
 
-[![Progress](https://img.shields.io/badge/Demo-blue)](https://krsln.github.io/Showcase/LootBox/Spinner)
-[![](https://img.shields.io/badge/readme-white)](Libs/Spinner/readme.md)
-[![](https://img.shields.io/badge/usage-orange)](Libs/Spinner/usage.md)
+[![](https://img.shields.io/badge/Demo-blue?style=for-the-badge)](https://krsln.github.io/Showcase/LootBox/Spinner)
+[![](https://img.shields.io/badge/readme-white?style=for-the-badge)](Libs/Spinner/readme.md)
+[![](https://img.shields.io/badge/usage-orange?style=for-the-badge)](Libs/Spinner/usage.md)
 
 ![](../../Images/LootBox/Spinner_Vortex_2022-01-27.png "Spinner")
 ![](../../Images/LootBox/Spinner_Grow_Border_2022-01-27.png "Spinner")
 
-*[![](https://img.shields.io/badge/Top_⬆-blue)](#showcase)*
+*[![](https://img.shields.io/badge/Top_⬆-blue?style=for-the-badge)](#showcase)*
 
 ### Timeline
 
-[![Progress](https://img.shields.io/badge/Demo-blue)](https://krsln.github.io/Showcase/LootBox/Timeline)
-[![](https://img.shields.io/badge/readme-white)](Libs/Timeline/readme.md)
-[![](https://img.shields.io/badge/usage-orange)](Libs/Timeline/usage.md)
+[![](https://img.shields.io/badge/Demo-blue?style=for-the-badge)](https://krsln.github.io/Showcase/LootBox/Timeline)
+[![](https://img.shields.io/badge/readme-white?style=for-the-badge)](Libs/Timeline/readme.md)
+[![](https://img.shields.io/badge/usage-orange?style=for-the-badge)](Libs/Timeline/usage.md)
 
 ![](../../Images/LootBox/Timeline_Default_2022-01-27.png "Default")
 
-*[![](https://img.shields.io/badge/Top_⬆-blue)](#showcase)*
+*[![](https://img.shields.io/badge/Top_⬆-blue?style=for-the-badge)](#showcase)*
 
 ### Timer
 
-[![Progress](https://img.shields.io/badge/Demo-blue)](https://krsln.github.io/Showcase/LootBox/Timer)
-[![](https://img.shields.io/badge/readme-white)](Libs/Timer/readme.md)
-[![](https://img.shields.io/badge/usage-orange)](Libs/Timer/usage.md)
+[![](https://img.shields.io/badge/Demo-blue?style=for-the-badge)](https://krsln.github.io/Showcase/LootBox/Timer)
+[![](https://img.shields.io/badge/readme-white?style=for-the-badge)](Libs/Timer/readme.md)
+[![](https://img.shields.io/badge/usage-orange?style=for-the-badge)](Libs/Timer/usage.md)
 
 ![](../../Images/LootBox/Timer_TimeAgo_2022-01-27.png "TimeAgo")  
 ![](../../Images/LootBox/Timer_Countdown_Svg-new_2022-01-27.png "Countdown svg")
 
-*[![](https://img.shields.io/badge/Top_⬆-blue)](#showcase)*
+*[![](https://img.shields.io/badge/Top_⬆-blue?style=for-the-badge)](#showcase)*
 
 ### TreeView
 
-[![Progress](https://img.shields.io/badge/Demo-blue)](https://krsln.github.io/Showcase/LootBox/TreeView)
-[![](https://img.shields.io/badge/readme-white)](Libs/TreeView/readme.md)
-[![](https://img.shields.io/badge/usage-orange)](Libs/TreeView/usage.md)
+[![](https://img.shields.io/badge/Demo-blue?style=for-the-badge)](https://krsln.github.io/Showcase/LootBox/TreeView)
+[![](https://img.shields.io/badge/readme-white?style=for-the-badge)](Libs/TreeView/readme.md)
+[![](https://img.shields.io/badge/usage-orange?style=for-the-badge)](Libs/TreeView/usage.md)
 
 ![](../../Images/LootBox/TreeView_2022-01-29.png "TimeAgo")  
 
-*[![](https://img.shields.io/badge/Top_⬆-blue)](#showcase)*
+*[![](https://img.shields.io/badge/Top_⬆-blue?style=for-the-badge)](#showcase)*
 
