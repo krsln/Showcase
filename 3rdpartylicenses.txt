@@ -243,6 +243,9 @@ MIT
 @qrsln/loot-box-beta
 MIT
 
+@qrsln/lootstrap-angular
+MIT
+
 @qrsln/mapper
 MIT
 
