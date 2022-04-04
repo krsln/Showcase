@@ -24,6 +24,7 @@
 | [Height:number] | Height of media component (Pixel) |
 | [Count:number]  | Lines of paragraph                |
 | [Circle:bool]   | For square component              |
+| [Textual:bool]  | Textual appearance                |
 
 #### Screenshots
 
