@@ -71,7 +71,7 @@ Warning = (Content: NotifyContent) => this.notifyService.Warning(Content);
 ```html
 
 <button class="Btn Btn-sm Btn-danger"
-        (click)="Iconic(0,1,2,Content,SetIcon('<i class=\'fa-2x fa-brands fa-youtube\'></i>'))">
+        (click)="Iconic(0,1,2,Content,SetIcon('<i class=\'fa-brands fa-youtube\'></i>'))">
   Youtube-ish
 </button>
 
