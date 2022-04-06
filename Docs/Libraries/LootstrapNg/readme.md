@@ -44,7 +44,7 @@ angular.json
   - [TimeAgo](#timeago)
   - [Timeline](#timeline)
   - [Timer](#timer)
-  - [TreeView](#treeview) TODO
+  - [TreeView](#treeview)
 
 ### Avatar
 
