@@ -20,4 +20,7 @@
 
 #### Screenshots
 
-![](../../../../Images/LootstrapNg/Spinner.png "Spinner") 
+![](../../../../Images/LootstrapNg/Spinners.png "Spinners") 
+![](../../../../Images/LootstrapNg/SpinnerVortex.png "Spinner Vortex") 
+![](../../../../Images/LootstrapNg/SpinnerBorder.png "Spinner Border") 
+![](../../../../Images/LootstrapNg/SpinnerGrow.png "Spinner Grow") 

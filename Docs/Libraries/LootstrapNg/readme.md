@@ -135,7 +135,7 @@ angular.json
 [![](https://img.shields.io/badge/readme-white?style=for-the-badge)](Libs/Spinner/readme.md)
 [![](https://img.shields.io/badge/usage-orange?style=for-the-badge)](Libs/Spinner/usage.md)
 
-![](../../Images/LootstrapNg/Spinner.png "Spinner")
+![](../../Images/LootstrapNg/Spinners.png "Spinners")
 
 *[![](https://img.shields.io/badge/Top_⬆-blue?style=for-the-badge)](#showcase)*
 
