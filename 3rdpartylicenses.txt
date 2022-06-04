@@ -219,9 +219,6 @@ MIT
 @qrsln/mapper
 MIT
 
-@qrsln/skeleton
-MIT
-
 @qrsln/tooltip
 MIT
 
