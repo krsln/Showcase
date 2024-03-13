@@ -2,9 +2,10 @@
   "name": "showcase",
   "version": "1.0.0",
   "scripts": {
-    "Showcase-deploy": "npx angular-cli-ghpages --dir=dist/Showcase",
-    "Showcase-deploy-IfUGotError": "ngh --no-silent --dir=dist/Showcase"
+    "Showcase-deploy": "npx angular-cli-ghpages --dir=dist/ng-showcase/browser",
+    "Showcase-deploy-IfUGotError": "ngh --no-silent --dir=dist/ng-showcase/browser"
   },
   "dependencies": {
+    "angular-cli-ghpages": "^2.0.0-beta.2"
   }
 }
